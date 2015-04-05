@@ -21,6 +21,324 @@
   padding: 0.7em 0 0.7em 1em;
   border-left: dotted 1px #808080;
 }
+.agujasIntradermicas-big,
+.amma-big,
+.ampuku-big,
+.aromaterapia-big,
+.champi-big,
+.cosmeticaNatural-big,
+.crecimientoPersonal-big,
+.cyriax-big,
+.drenajeLinfatico-big,
+.estiramientosThai-big,
+.floresBach-big,
+.icon-big,
+.kinergeticsReset-big,
+.kinesiologiaIntegrada-big,
+.naturopatia-big,
+.piedras-big,
+.pindas-big,
+.quiromasaje-big,
+.quiromasajeSuperior-big,
+.reflexologia-big,
+.registrosAkashicos-big,
+.reiki-big,
+.shiatsuFacial-big,
+.vendajeNeuromuscular-big {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url("Untitled.png");
+}
+.agujasIntradermicas-big {
+  background-position: 0px 0px;
+  width: 300px;
+  height: 300px;
+}
+.amma-big {
+  background-position: 0px -300px;
+  width: 300px;
+  height: 300px;
+}
+.ampuku-big {
+  background-position: 0px -600px;
+  width: 300px;
+  height: 300px;
+}
+.aromaterapia-big {
+  background-position: 0px -900px;
+  width: 300px;
+  height: 300px;
+}
+.champi-big {
+  background-position: 0px -1200px;
+  width: 300px;
+  height: 300px;
+}
+.cosmeticaNatural-big {
+  background-position: 0px -1500px;
+  width: 300px;
+  height: 300px;
+}
+.crecimientoPersonal-big {
+  background-position: 0px -1800px;
+  width: 300px;
+  height: 300px;
+}
+.cyriax-big {
+  background-position: 0px -2100px;
+  width: 300px;
+  height: 300px;
+}
+.drenajeLinfatico-big {
+  background-position: 0px -2400px;
+  width: 300px;
+  height: 300px;
+}
+.estiramientosThai-big {
+  background-position: 0px -2700px;
+  width: 300px;
+  height: 300px;
+}
+.floresBach-big {
+  background-position: 0px -3000px;
+  width: 300px;
+  height: 300px;
+}
+.icon-big {
+  background-position: 0px -3300px;
+  width: 300px;
+  height: 300px;
+}
+.kinergeticsReset-big {
+  background-position: 0px -3600px;
+  width: 300px;
+  height: 300px;
+}
+.kinesiologiaIntegrada-big {
+  background-position: 0px -3900px;
+  width: 300px;
+  height: 300px;
+}
+.naturopatia-big {
+  background-position: 0px -4200px;
+  width: 300px;
+  height: 300px;
+}
+.piedras-big {
+  background-position: 0px -4500px;
+  width: 300px;
+  height: 300px;
+}
+.pindas-big {
+  background-position: 0px -4800px;
+  width: 300px;
+  height: 300px;
+}
+.quiromasaje-big {
+  background-position: 0px -5100px;
+  width: 300px;
+  height: 300px;
+}
+.quiromasajeSuperior-big {
+  background-position: 0px -5400px;
+  width: 300px;
+  height: 300px;
+}
+.reflexologia-big {
+  background-position: 0px -5700px;
+  width: 300px;
+  height: 300px;
+}
+.registrosAkashicos-big {
+  background-position: 0px -6000px;
+  width: 300px;
+  height: 300px;
+}
+.reiki-big {
+  background-position: 0px -6300px;
+  width: 300px;
+  height: 300px;
+}
+.shiatsuFacial-big {
+  background-position: 0px -6600px;
+  width: 300px;
+  height: 300px;
+}
+.vendajeNeuromuscular-big {
+  background-position: 0px -6900px;
+  width: 300px;
+  height: 300px;
+}
+.agujasIntradermicas-small,
+.amma-small,
+.ampuku-small,
+.aromaterapia-small,
+.champi-small,
+.cosmeticaNatural-small,
+.crecimientoPersonal-small,
+.cyriax-small,
+.drenajeLinfatico-small,
+.estiramientosThai-small,
+.floresBach-small,
+.kinergeticsReset-small,
+.kinesiologiaIntegrada-small,
+.moxibustion-small,
+.naturopatia-small,
+.piedras-small,
+.pindas-small,
+.quiromasaje-small,
+.quiromasajeSuperior-small,
+.reflexologia-small,
+.registrosAkashicos-small,
+.reiki-small,
+.shiatsuFacial-small,
+.vendajeNeuromuscular-small {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url("Untitled.png");
+}
+.agujasIntradermicas-small {
+  background-position: 0px 0px;
+  width: 160px;
+  height: 160px;
+}
+.amma-small {
+  background-position: 0px -160px;
+  width: 160px;
+  height: 160px;
+}
+.ampuku-small {
+  background-position: 0px -320px;
+  width: 160px;
+  height: 160px;
+}
+.aromaterapia-small {
+  background-position: 0px -480px;
+  width: 160px;
+  height: 160px;
+}
+.champi-small {
+  background-position: 0px -640px;
+  width: 160px;
+  height: 160px;
+}
+.cosmeticaNatural-small {
+  background-position: 0px -800px;
+  width: 160px;
+  height: 160px;
+}
+.crecimientoPersonal-small {
+  background-position: 0px -960px;
+  width: 160px;
+  height: 160px;
+}
+.cyriax-small {
+  background-position: 0px -1120px;
+  width: 160px;
+  height: 160px;
+}
+.drenajeLinfatico-small {
+  background-position: 0px -1280px;
+  width: 160px;
+  height: 160px;
+}
+.estiramientosThai-small {
+  background-position: 0px -1440px;
+  width: 160px;
+  height: 160px;
+}
+.floresBach-small {
+  background-position: 0px -1600px;
+  width: 160px;
+  height: 160px;
+}
+.kinergeticsReset-small {
+  background-position: 0px -1760px;
+  width: 160px;
+  height: 160px;
+}
+.kinesiologiaIntegrada-small {
+  background-position: 0px -1920px;
+  width: 160px;
+  height: 160px;
+}
+.moxibustion-small {
+  background-position: 0px -2080px;
+  width: 160px;
+  height: 160px;
+}
+.naturopatia-small {
+  background-position: 0px -2240px;
+  width: 160px;
+  height: 160px;
+}
+.piedras-small {
+  background-position: 0px -2400px;
+  width: 160px;
+  height: 160px;
+}
+.pindas-small {
+  background-position: 0px -2560px;
+  width: 160px;
+  height: 160px;
+}
+.quiromasaje-small {
+  background-position: 0px -2720px;
+  width: 160px;
+  height: 160px;
+}
+.quiromasajeSuperior-small {
+  background-position: 0px -2880px;
+  width: 160px;
+  height: 160px;
+}
+.reflexologia-small {
+  background-position: 0px -3040px;
+  width: 160px;
+  height: 160px;
+}
+.registrosAkashicos-small {
+  background-position: 0px -3200px;
+  width: 160px;
+  height: 160px;
+}
+.reiki-small {
+  background-position: 0px -3360px;
+  width: 160px;
+  height: 160px;
+}
+.shiatsuFacial-small {
+  background-position: 0px -3520px;
+  width: 160px;
+  height: 160px;
+}
+.vendajeNeuromuscular-small {
+  background-position: 0px -3680px;
+  width: 160px;
+  height: 160px;
+}
+.logoNav,
+.logoFooter_small,
+.logoFooter_big {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url("Untitled.png");
+}
+.logoNav {
+  background-position: 0px 0px;
+  width: 550px;
+  height: 120px;
+}
+.logoFooter_small {
+  background-position: 0px -120px;
+  width: 200px;
+  height: 200px;
+}
+.logoFooter_big {
+  background-position: 0px -320px;
+  width: 300px;
+  height: 300px;
+}
 /*Colors*/
 /*Fonts*/
 /*@font-face*/

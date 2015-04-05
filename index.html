@@ -17,9 +17,7 @@
     <header class="Header">
       <div class="Header-container u-wrapper">
         <div class="Header-logo">
-          <a href="/" class="Header-logo">
-            <img src="static/img/logoNav-small.png" alt="CursosAfic.com" width="80px" height="60px">
-          </a>
+          <a href="/" class="Header-logo"></a>
         </div>
       </div>
       <div class="MainMenu-icon icon-menu"></div>
@@ -37,7 +35,9 @@
     <section class="MainSection">
       <div class="u-wrapper">
         <h1 class="MainSection-title">Aprende terapias naturales con cursos presenciales impartidas por profesionales del sector</h1>
-        <a href="" class="MainSection-start, btn-big, btn-Red">Empieza ya</a>
+        <div class="MainSection-cta">
+          <a href="" onmouseover="this.className='MainSection-cta btn-big btn-Green'" onmouseout="this.className='MainSection-cta btn-big btn-Red'" class='MainSection-cta btn-big btn-Red' >Empieza ya</a>
+        </div>
         <div class="MainSection-message">
           <img src="static/img/comprometidos.png" alt="Comprometidos con tu formación" width="300px" height="300px">
         </div>

@@ -318,28 +318,6 @@
   width: 160px;
   height: 160px;
 }
-.logoNav,
-.logoFooter_small,
-.logoFooter_big {
-  display: inline-block;
-  background-repeat: no-repeat;
-  background-image: url("Untitled.png");
-}
-.logoNav {
-  background-position: 0px 0px;
-  width: 550px;
-  height: 120px;
-}
-.logoFooter_small {
-  background-position: 0px -120px;
-  width: 200px;
-  height: 200px;
-}
-.logoFooter_big {
-  background-position: 0px -320px;
-  width: 300px;
-  height: 300px;
-}
 /*Utilities*/
 .u-wrapper {
   margina: 0 auto;
@@ -352,26 +330,26 @@
 /*@font-face*/
 @font-face {
   font-family: 'icomoon';
-  src: url("static/fonts/icomoon.eot?-vup9ry");
+  src: url("../fonts/icomoon.eot?-vup9ry");
   src: url("../fonts/icomoon.eot?#iefix-vup9ry") format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'icomoon';
-  src: url("static/fonts/icomoon.woff?-vup9ry") format('woff');
+  src: url("../fonts/icomoon.woff?-vup9ry") format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'icomoon';
-  src: url("static/fonts/icomoon.ttf?-vup9ry") format('truetype');
+  src: url("../fonts/icomoon.ttf?-vup9ry") format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'icomoon';
-  src: url("static/fonts/icomoon.svg?-vup9ry#icomoon") format('svg');
+  src: url("../fonts/icomoon.svg?-vup9ry#icomoon") format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -380,6 +358,7 @@
   content: "\e604";
 }
 .icon-window:before {
+  font-family: icomoon;
   content: "\e606";
 }
 .icon-pencil:before {
@@ -389,38 +368,74 @@
   content: "\e601";
 }
 .icon-pin-alt:before {
+  font-family: icomoon;
   content: "\e602";
 }
 .icon-alarm:before {
+  font-family: icomoon;
   content: "\e950";
 }
 .icon-happy:before {
+  font-family: icomoon;
   content: "\e9df";
 }
 .icon-plus:before {
+  font-family: icomoon;
   content: "\ea0a";
 }
 .icon-box:before {
+  font-family: icomoon;
   content: "\e608";
 }
 .icon-school:before {
+  font-family: icomoon;
   content: "\e607";
 }
 .icon-menu:before {
+  font-family: icomoon;
   content: "\e120";
 }
 .icon-phone:before {
+  font-family: icomoon;
   content: "\f095";
 }
 .icon-envelope:before {
+  font-family: icomoon;
   content: "\f0e0";
 }
 .icon-calendar-o:before {
+  font-family: icomoon;
   content: "\f133";
 }
 .icon-group:before {
+  font-family: icomoon;
   content: "\e603";
 }
 body {
   font-family: 'Open Sans', sans-serif;
+}
+.Header-container {
+  background: rgba(19,20,10,0.4);
+  padding: 10px 0;
+  text-align: right;
+}
+.Header-logo {
+  display: inline-block;
+  float: left;
+  margin: 0 0 0 15px;
+}
+.Header-logo a {
+  margin: 0;
+}
+.MainMenu-icon {
+  font-size: 2.5em;
+  display: inline-block;
+  margin: 0 15px 0 0;
+}
+.icon-menu {
+  color: #fff;
+}
+.MainMenu-container,
+.MainSection-message {
+  display: none;
 }

@@ -416,13 +416,12 @@ body {
 }
 .Header-container {
   background: rgba(19,20,10,0.4);
-  padding: 10px 0;
-  text-align: right;
+  height: 80px;
 }
 .Header-logo {
   display: inline-block;
   float: left;
-  margin: 0 0 0 15px;
+  padding: 5px 0 0 0;
 }
 .Header-logo a {
   margin: 0;
@@ -430,12 +429,31 @@ body {
 .MainMenu-icon {
   font-size: 2.5em;
   display: inline-block;
-  margin: 0 15px 0 0;
+  position: absolute;
+  top: 10px;
+  right: 15px;
 }
 .icon-menu {
+  float: right;
   color: #fff;
 }
-.MainMenu-container,
+.MainMenu-container {
+  background: #262629;
+  text-align: center;
+  padding: 10px 0;
+  margin: 0;
+}
+.MainMenu-option {
+  display: inline-block;
+  width: 100%;
+  padding: 10px 0;
+}
+.MainMenu-link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+.MainMenu,
 .MainSection-message {
   display: none;
 }

@@ -1,1 +1,1 @@
-$("button").click(function(){$("p").slideToggle("slow")});
+$(".MainMenu-icon").click(function(){$(".MainMenu").slideToggle("")});

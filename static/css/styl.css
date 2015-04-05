@@ -1,28 +1,51 @@
+.btn-big {
+  border-radius: 3px;
+  color: #fff;
+  font-size: 23px;
+  height: 56px;
+  line-height: 51px;
+  padding: 0 0.7em;
+  text-decoration: none;
+}
+.btn-Green {
+  background: #7dcd40;
+  border-bottom: 5px solid #6dae33;
+}
+.btn-Red {
+  background: #ff4842;
+  border-bottom: 5px solid #9c211f;
+}
+.btn-label {
+  display: inline-block;
+  margin: 0.7em 0 0 1em;
+  padding: 0.7em 0 0.7em 1em;
+  border-left: dotted 1px #808080;
+}
 /*Colors*/
 /*Fonts*/
 /*@font-face*/
 @font-face {
   font-family: 'icomoon';
-  src: url("../fonts/icomoon.eot?-vup9ry");
+  src: url("static/fonts/icomoon.eot?-vup9ry");
   src: url("../fonts/icomoon.eot?#iefix-vup9ry") format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'icomoon';
-  src: url("../fonts/icomoon.woff?-vup9ry") format('woff');
+  src: url("static/fonts/icomoon.woff?-vup9ry") format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'icomoon';
-  src: url("../fonts/icomoon.ttf?-vup9ry") format('truetype');
+  src: url("static/fonts/icomoon.ttf?-vup9ry") format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'icomoon';
-  src: url("../fonts/icomoon.svg?-vup9ry#icomoon") format('svg');
+  src: url("static/fonts/icomoon.svg?-vup9ry#icomoon") format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -30,9 +53,54 @@
   font-family: icomoon;
   content: "\e604";
 }
+.icon-window:before {
+  content: "\e606";
+}
+.icon-pencil:before {
+  content: "\e604";
+}
+.icon-award-fill:before {
+  content: "\e601";
+}
+.icon-pin-alt:before {
+  content: "\e602";
+}
+.icon-alarm:before {
+  content: "\e950";
+}
+.icon-happy:before {
+  content: "\e9df";
+}
+.icon-plus:before {
+  content: "\ea0a";
+}
+.icon-box:before {
+  content: "\e608";
+}
+.icon-school:before {
+  content: "\e607";
+}
+.icon-menu:before {
+  content: "\e120";
+}
+.icon-phone:before {
+  content: "\f095";
+}
+.icon-envelope:before {
+  content: "\f0e0";
+}
+.icon-calendar-o:before {
+  content: "\f133";
+}
+.icon-group:before {
+  content: "\e603";
+}
 body {
   font-family: 'Open Sans', sans-serif;
   background: #e34939;
+}
+p {
+  display: none;
 }
 @media only screen and (min-width: 701px) and (max-width: 1000px) {
   body {

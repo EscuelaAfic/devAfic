@@ -58,6 +58,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/static\/css\/css\/bp5.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/css\/css\/bp5.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/static\/css\/foundation.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -114,7 +123,7 @@
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
 		"inputAbbreviatedPath": "\/static\/css\/stylus\/bp2.styl",
@@ -130,11 +139,43 @@
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
 		"inputAbbreviatedPath": "\/static\/css\/stylus\/bp3.styl",
 		"outputAbbreviatedPath": "\/static\/css\/css\/bp3.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/static\/css\/stylus\/bp4.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/static\/css\/stylus\/bp4.styl",
+		"outputAbbreviatedPath": "\/static\/css\/css\/bp4.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/static\/css\/stylus\/bp5.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/static\/css\/stylus\/bp5.styl",
+		"outputAbbreviatedPath": "\/static\/css\/css\/bp5.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -190,22 +231,6 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/static\/css\/stylus\/logo.styl": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"fileType": 8,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"importCSS": 0,
-		"inputAbbreviatedPath": "\/static\/css\/stylus\/logo.styl",
-		"outputAbbreviatedPath": "\/static\/css\/css\/logo.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"resolveRelativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0
-		},
 	"\/static\/css\/stylus\/styl.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -222,17 +247,6 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/static\/img\/comprometidos.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 21241,
-		"inputAbbreviatedPath": "\/static\/img\/comprometidos.png",
-		"outputAbbreviatedPath": "\/static\/img\/comprometidos.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
 	"\/static\/img\/hero\/home_big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -240,6 +254,17 @@
 		"initialSize": 44693,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/home_big.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/home_big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/home_extra.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42728,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/home_extra.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/home_extra.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -277,38 +302,71 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/icons_big.png": {
+	"\/static\/img\/icons-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 79811,
-		"inputAbbreviatedPath": "\/static\/img\/icons_big.png",
-		"outputAbbreviatedPath": "\/static\/img\/icons_big.png",
+		"inputAbbreviatedPath": "\/static\/img\/icons-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/icons-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/static\/img\/icons_small.png": {
+	"\/static\/img\/icons-small.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 38503,
-		"inputAbbreviatedPath": "\/static\/img\/icons_small.png",
-		"outputAbbreviatedPath": "\/static\/img\/icons_small.png",
+		"inputAbbreviatedPath": "\/static\/img\/icons-small.png",
+		"outputAbbreviatedPath": "\/static\/img\/icons-small.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/static\/img\/logo.png": {
+	"\/static\/img\/logoFooter-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 15780,
-		"inputAbbreviatedPath": "\/static\/img\/logo.png",
-		"outputAbbreviatedPath": "\/static\/img\/logo.png",
+		"initialSize": 5967,
+		"inputAbbreviatedPath": "\/static\/img\/logoFooter-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logoFooter-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
+		},
+	"\/static\/img\/logoFooter-small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3789,
+		"inputAbbreviatedPath": "\/static\/img\/logoFooter-small.png",
+		"outputAbbreviatedPath": "\/static\/img\/logoFooter-small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logoNav-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5163,
+		"inputAbbreviatedPath": "\/static\/img\/logoNav-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logoNav-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logoNav-small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1367,
+		"inputAbbreviatedPath": "\/static\/img\/logoNav-small.png",
+		"outputAbbreviatedPath": "\/static\/img\/logoNav-small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/js\/foundation.min.js": {
 		"fileType": 64,

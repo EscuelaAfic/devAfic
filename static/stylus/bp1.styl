@@ -26,6 +26,9 @@ body
 .icon-menu
 	float right
 	color white
+	&:before
+		font-family icomoon
+	
 	
 .MainMenu-container
 	background secundariDark
@@ -61,6 +64,7 @@ body
 .MainSection-title
 	display inline-block
 	color white
+	font-weight 600
 	text-shadow 1px 1px 2px rgba(black,.5)
 	margin 0
 	padding 70px 0 40px 0
@@ -105,13 +109,14 @@ body
 	
 .NextEvent-title
 	font-size 1.125em
+	font-weight 600
 	line-height 1em
 	margin .5em 0 .5em 0
 
 .saberMasSpan
 	color primari
 	font-weight 600
-	text-decoration underline
+	text-decoration underline !important
 
 .NextEvent-detail
 	padding 1em 0 0 0
@@ -139,7 +144,121 @@ body
 	margin 0
 
 
+// CourseList
 
+.CourseList-list
+	padding 0
+	
+// .CourseList-listContanier
+// 	text-align center
 
+.CourseList-course
+	position relative
+	display inline-block
+	border-bottom 1px solid rgba(black,.3)
+	width 100%
+	padding 25px 0 35px 0
 
+.CourseList-courseData
+	display inline-block
+	position absolute
+	top -20px
+	
+.CourseList-courseInfo
+	display inline-block
+	margin 0 0 0 80px
 
+.CourseList-courseTitle
+	font-size 1.315em
+	font-weight 600
+	line-height 1.2em
+	margin 0 0 .5em 0
+
+.CourseList-courseGoblalLink
+	position absolute
+	top 0
+	right 0
+	bottom 0
+	left 0
+
+.saberMas
+	color primari
+	font-weight 600
+	display block
+
+.CourseList-courseLink
+	color primari
+	font-weight 600
+	display block
+	margin 1em 0 0 0
+	width 140px
+.agujasIntradermicas-small
+.amma-small
+.ampuku-small
+.aromaterapia-small
+.champi-small
+.cosmeticaNatural-small
+.crecimientoPersonal-small
+.cyriax-small
+.drenajeLinfatico-small
+.estiramientosThai-small
+.floresBach-small
+.kinergeticsReset-small
+.kinesiologiaIntegrada-small
+.moxibustion-small
+.naturopatia-small
+.piedras-small
+.pindas-small
+.quiromasaje-small
+.quiromasajeSuperior-small
+.reflexologia-small
+.registrosAkashicos-small
+.reiki-small
+.shiatsuFacial-small
+.vendajeNeuromuscular-small
+.naturopatia-small
+	transform: scale(.4, .4);
+	-ms-transform: scale(.4, .4);
+	-webkit-transform: scale(.4, .4);
+	display inline-block
+	margin 0 0 0 -3em
+	
+.CourseList-courseLabel
+	display inline-block
+	border-radius 5px
+	background primari
+	color white
+	font-weight 600
+	padding .1em .5em
+	
+.c-naturopatia
+	background c_naturopatia
+.c_tecnicasOrientales
+	background c_tecnicasOrientales
+.c_crecimiento
+	background c_crecimiento
+.c_drenaje
+	background c_drenaje
+.c_ayurveda
+	background c_ayurveda
+.c_flores
+	background c_flores
+.c_aromaterapia
+	background c_aromaterapia
+.c_tecnicasVibracionales
+	background c_tecnicasVibracionales
+.c_kinesiologia
+	background c_kinesiologia
+.c_reflexologia
+	background c_reflexologia
+	
+.destacado
+	&:before
+		font-family icomoon
+		content "\f005"
+		color #ffd500
+		font-size 5em
+		text-shadow 2px 2px 8px rgba(#4c4000,1)
+		position absolute
+		top -45px
+		right -12px

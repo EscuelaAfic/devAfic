@@ -331,6 +331,28 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/static\/js\/vendor\/mailchimp.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/js\/vendor\/mailchimp.js",
+		"outputAbbreviatedPath": "\/static\/js\/vendor\/min\/mailchimp-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/static\/js\/vendor\/min\/mailchimp-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/js\/vendor\/min\/mailchimp-min.js",
+		"outputAbbreviatedPath": "\/static\/js\/vendor\/min\/min\/mailchimp-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/static\/js\/vendor\/modernizr.js": {
 		"fileType": 64,
 		"ignore": 0,

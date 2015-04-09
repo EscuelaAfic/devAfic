@@ -1,6 +1,12 @@
 body
 	font-family bodyFont
 	color c_bodyFont
+	font-smoothing antialiased
+	-webkit-font-smoothing antialiased
+	
+a
+	&:hover 
+		color secundari
 	
 
 // Heeader
@@ -272,11 +278,44 @@ body
 // Mailchimp
 
 .Newsletter
-	display none
-		
+	display none	
 
 
 // Footer
 
+.Footer
+	background secundariDark
+	padding 20px 0 70px 0
+	color white
+	
+.Footer-container
+	text-align center
+
+.Footer-column
+	display inline-block
+	text-align left
+	max-width 250px
+
+.Footer-contactInfo
+	display block
+	line-height 10px
+	&:before
+		position relative
+		top 20px
+		margin 0 0 0 -30px
+		font-size 20px
+	
+.Footer-contactInfoDetail
+	margin 0
+		
+.Footer-logo
+	display block
+	background url(../img/logoNav-small.png)
+	background-repeat no-repeat
+	background-position 0
+	width 80px
+	height 80px
+	background-size: 80px 60px
+	
 
 

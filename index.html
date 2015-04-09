@@ -7,7 +7,7 @@
     <meta name="description" content="Aprende Quiromasaje, Reflexología, Kinesiología Integral, Naturopatía y mucho más. Con clases presenciales por profesionales de la industría. Inscríbete hoy al placer de estudiar con las manos.">
     <link rel="apple-touch-icon" href="static/img/apple-touch-icon.png">
     <link rel="favicon" href="static/img/favicon.ico">
-    <!-- <link rel="stylesheet" href="static/css/foundation.css" /> -->
+    <link rel="stylesheet" href="static/css/foundation.css" />
     <link rel="stylesheet" href="static/css/estilos.css" />
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700,600,400' rel='stylesheet' type='text/css'>
     <script src="static/js/vendor/modernizr.js"></script>
@@ -40,7 +40,7 @@
         </div>
         <div class="MainSection-ctaContainer">
           <div class="MainSection-cta"></div>
-          <a href="templates/mailchimp.html" onmouseover="this.className='MainSection-cta btn btn-big btn-Green'" onmouseout="this.className='MainSection-cta btn btn-big btn-Red'" class='MainSection-cta btn btn-big btn-Red' >Empieza ya</a>
+          <a href="#CourseBanner" onmouseover="this.className='MainSection-cta btn btn-big btn-Green'" onmouseout="this.className='MainSection-cta btn btn-big btn-Red'" class='MainSection-cta btn btn-big btn-Red' >Empieza ya</a>
         </div>
       </div>
     </section>
@@ -67,7 +67,7 @@
         </div>
       </div>
     </section>
-    <section class="CourseBanner">
+    <section id='CourseBanner' class="CourseBanner">
       <div class="u-wrapper">
         <h2 class="CourseBanner-title">Inscríbete a todos los cursos</h2>
         <p class="CourseBanner-description">
@@ -324,14 +324,14 @@
       </div>
     </section>
     <section id="mc_embed_signup" class='Newsletter'>
-        <div class="Newsletter-form">
-          <h4 class='Newsletter-formTitle'>Recibe actualizaciones acerca de nuevos cursos servidas en tu bandeja de entrada</h4>
+        <div class="Newsletter-form u-wrapper">
+          <h4 class='Newsletter-formTitle'>Recibe actualizaciones acerca de nuevos cursos en tu bandeja de entrada</h4>
           <form action="//starapunto.us10.list-manage.com/subscribe/post?u=8e0dd9e77175b89c184ed6349&amp;id=796dfefc99" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="Newsletter-formContainer" target="_blank" novalidate>
               <!-- <label for="mce-MMERGE1" class="Newsletter-labelName">Tu nombre</label> -->
               <!-- <label for="mce-EMAIL" lass="Newsletter-labelEmail">Tu email</label> -->
               <div class="Newsletter-inputs">
-                <input type="text" value="Tu nombre" name="MMERGE1" class="Newsletter-input input-A" id="mce-MMERGE1">
-                <input type="email" value="Tu email" name="EMAIL" class="Newsletter-input input-A" id="mce-EMAIL">
+                <input type="text" placeholder='Tu nombre' value="" name="MMERGE1" class="Newsletter-input input-A" id="mce-MMERGE1">
+                <input type="email"  placeholder='Tu email' value="" name="EMAIL" class="Newsletter-input input-A" id="mce-EMAIL">
                 <input onmouseover="this.className='Newsletter-inputsSubmit btn btn-small btn-Green'" onmouseout="this.className='Newsletter-inputsSubmit btn btn-small btn-Red'" type="submit" value="Suscríbete" name="Suscríbete" id="mc-embedded-subscribe" class="Newsletter-inputsSubmit btn btn-small btn-Red">
               </div>
               <div class="mailchimpOwn">
@@ -344,9 +344,16 @@
           </form>
         </div>
       </section>
-      
     <footer class="Footer">
-      
+      <div class="u-wrapper u-clearfix">
+        <div class="Footer-column">
+          <div class="Footer-contactList">
+            <li class="Footer-contactInfo icon-pin-alt">
+              lñsakdhjfkasjdhgfk
+            </li>
+          </div>
+        </div>
+      </div>
     </footer>
   </section>
     <script src="static/js/vendor/jquery.js"></script>

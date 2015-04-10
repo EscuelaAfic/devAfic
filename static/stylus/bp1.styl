@@ -72,7 +72,7 @@ a
 	display inline-block
 	color white
 	font-weight 600
-	text-shadow 1px 1px 2px rgba(black,.5)
+	text-shadow 1px 1px 1px rgba(black,.3)
 	margin 0
 	padding 70px 0 40px 0
 	font-size 1.68em
@@ -150,9 +150,30 @@ a
 
 // CourseNavigation
 	
-.sub-nav
-	display none
+.CourseNavigation
+	width 100%
+	margin 0 auto
+	display block
+	padding 30px 0 10px 0
 
+.CourseNavigation-container
+	padding 0
+
+.CourseNavigation-list
+	margin 0
+	text-align center
+	dd
+		display inline-block
+		margin 0 .5rem .5rem 0
+		transition .1s
+		-webkit-transition .1s
+		-webkit-filter: brightness(1);
+		&:hover
+			-webkit-filter: brightness(1.2);
+		a
+			color white
+			&:hover
+				color white
 
 // CourseList
 
@@ -162,6 +183,7 @@ a
 
 .CourseList-list
 	padding 0
+	margin 0
 	
 .CourseList-course
 	position relative
@@ -184,6 +206,7 @@ a
 	font-weight 600
 	line-height 1.2em
 	margin 0 0 .5em 0
+	max-width 120px
 
 .CourseList-courseGoblalLink
 	position absolute
@@ -239,11 +262,11 @@ a
 	
 .CourseList-courseLabel
 	display inline-block
-	border-radius 5px
+	border-radius 3px
 	font-size 0.875rem
 	background primari
 	color white
-	font-weight 600
+	font-weight 700
 	padding .1em .5em
 	
 
@@ -273,13 +296,16 @@ a
 .destacado
 	&:before
 		font-family icomoon
-		content "\f005"
-		color #ffd500
-		font-size 5em
-		text-shadow -1px 1px 5px rgba(#4c4000,1)
+		content "NUEVO"
+		color white
+		background primari
+		font-weight 400
+		font-size 25px
 		position absolute
-		top -35px
-		right -25px
+		padding 2px 7px
+		border-radius 5px
+		top -20px
+		right -20px
 		
 
 // Mailchimp
@@ -346,38 +372,6 @@ a
 	vertical-align middle
 
 
-
-
-// 	color white
-	
-// .Footer-container
-// 	text-align center
-// 	position relative
-
-// .Footer-column
-// 	display block
-// 	text-align left
-// 	max-width 250px
-	
-
-// .Footer-contactInfo
-// 	display block
-// 	line-height 10px
-// 	&:before
-// 		position relative
-// 		top 20px
-// 		margin 0 0 0 -30px
-// 		font-size 20px
-	
-// .Footer-contactInfoDetail
-// 	margin 0
-// 	color white
-		
-// .Footer-logoContainer
-// 	display block
-// 	margin 20px 0 0 -30px
-	
-		
 
 	
 

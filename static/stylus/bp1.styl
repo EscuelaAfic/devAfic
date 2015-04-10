@@ -120,10 +120,10 @@ a
 	line-height 1em
 	margin .5em 0 .5em 0
 
-.saberMasSpan
-	color primari
-	font-weight 600
-	text-decoration underline !important
+// .saberMasSpan
+// 	color primari
+// 	font-weight 600
+	// text-decoration underline !important
 
 .NextEvent-detail
 	padding 1em 0 0 0
@@ -167,9 +167,6 @@ a
 .CourseList-list
 	padding 0
 	
-// .CourseList-listContanier
-// 	text-align center
-
 .CourseList-course
 	position relative
 	display inline-block
@@ -199,17 +196,19 @@ a
 	bottom 0
 	left 0
 
-.saberMas
-	color primari
-	font-weight 600
-	display block
-
 .CourseList-courseLink
 	color primari
 	font-weight 600
 	display block
 	margin 1em 0 0 0
 	width 140px
+	&:after
+		font-family icomoon
+		content: "\e600";
+		position relative
+		font-size 20px
+		top 3px	
+		
 .agujasIntradermicas-small
 .amma-small
 .ampuku-small
@@ -230,7 +229,7 @@ a
 .quiromasaje-small
 .quiromasajeSuperior-small
 .reflexologia-small
-.auriculoterapia-smallf
+.auriculoterapia-small
 .registrosAkashicos-small
 .reiki-small
 .shiatsuFacial-small

@@ -133,27 +133,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/icons-big.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 79811,
-		"inputAbbreviatedPath": "\/static\/img\/icons-big.png",
-		"outputAbbreviatedPath": "\/static\/img\/icons-big.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
 	"\/static\/img\/icons-small.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 38503,
+		"initialSize": 174004,
 		"inputAbbreviatedPath": "\/static\/img\/icons-small.png",
 		"outputAbbreviatedPath": "\/static\/img\/icons-small.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logoFooter-big.png": {
 		"fileType": 32768,

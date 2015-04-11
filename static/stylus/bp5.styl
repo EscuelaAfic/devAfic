@@ -19,7 +19,7 @@
 	display inline-block
 	float right
 	position relative
-	top -80px
+	top -70px
 	right 15px
 	z-index 5
 	
@@ -30,15 +30,24 @@
 .MainMenu-option
 	display inline-block
 	width auto
-	max-width 50px
+	// max-width 50px
 	line-height 1.3em
-	margin 0 15px
+	margin 0 12px
 	text-align left
+	&:last-child
+		margin-right 0
 	
+.MainMenu-link
+	padding 0 0 18px 0 
+	font-weight bold
+	font-size 18px
+	&:hover
+		border-bottom 5px solid primari
+		color white
 
-.pageActive
-	border-bottom 5px solid primari
-	padding 0 0 9px 0 
+// .pageActive
+// 	border-bottom 5px solid primari
+// 	padding 0 0 9px 0 
 	
 
 // MainSection
@@ -95,8 +104,12 @@
 
 // CourseList
 
+.CourseList
+	padding 35px 0 
+
 .CourseList-list
 	margin 0
+	padding
 
 .CourseList-course
 	width 31.5%
@@ -146,6 +159,7 @@
 
 .Newsletter
 	display block
+	padding 50px 0
 	
 
 // Footer

@@ -11,15 +11,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/static\/css\/estilos.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/static\/css\/estilos.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/static\/css\/foundation.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -225,6 +216,28 @@
 		"initialSize": 21005,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/quiromasaje-small.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/quiromasaje-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/reflexologia-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59490,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/reflexologia-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/reflexologia-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/reflexologia-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17971,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/reflexologia-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/reflexologia-small.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -889,22 +902,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/static\/stylus\/bp1.styl": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"fileType": 8,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"importCSS": 0,
-		"inputAbbreviatedPath": "\/static\/stylus\/bp1.styl",
-		"outputAbbreviatedPath": "\/static\/css\/bp1.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"resolveRelativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0
-		},
 	"\/static\/stylus\/bp2.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -930,54 +927,6 @@
 		"importCSS": 0,
 		"inputAbbreviatedPath": "\/static\/stylus\/bp3.styl",
 		"outputAbbreviatedPath": "\/static\/css\/bp3.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"resolveRelativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0
-		},
-	"\/static\/stylus\/bp4.styl": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"fileType": 8,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"importCSS": 0,
-		"inputAbbreviatedPath": "\/static\/stylus\/bp4.styl",
-		"outputAbbreviatedPath": "\/static\/css\/bp4.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"resolveRelativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0
-		},
-	"\/static\/stylus\/bp5.styl": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"fileType": 8,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"importCSS": 0,
-		"inputAbbreviatedPath": "\/static\/stylus\/bp5.styl",
-		"outputAbbreviatedPath": "\/static\/css\/bp5.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"resolveRelativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0
-		},
-	"\/static\/stylus\/bp6.styl": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"fileType": 8,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"importCSS": 0,
-		"inputAbbreviatedPath": "\/static\/stylus\/bp6.styl",
-		"outputAbbreviatedPath": "\/static\/css\/bp6.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1074,20 +1023,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/templates\/naturopatia.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/templates\/naturopatia.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/templates\/quiromasaje_presencial.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/templates\/quiromasaje_presencial.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/templates\/reflexologia.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/templates\/reflexologia.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

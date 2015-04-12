@@ -69,9 +69,9 @@ body {
 a:hover {
   cursor: pointer; }
 
-img {
+/*img {
   max-width: 100%;
-  height: auto; }
+  height: auto; }*/
 
 img {
   -ms-interpolation-mode: bicubic; }

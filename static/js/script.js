@@ -9,13 +9,14 @@ $( ".NextEvent-toggle" ).click(function() {
   $( ".NextEvent-detail" ).slideToggle( "" );
 });
 
-$('#MainSection-cta').on('mouseover', function(){
-	this.className('MainSection-cta btn btn-big btn-Green')
-})
 
-$('#MainSection-cta').on('mouseout', function(){
-	this.className('MainSection-cta btn btn-big btn-Red')
-})
+	var btn = $('.MainSection-cta');
+	btn.mouseover(function(){
+	  btn.addClass('btn-Green').removeClass('btn-Red')
+	});
+	btn.mouseout(function(){
+	  btn.addClass('btn-Red').removeClass('btn-Green')
+	});
 
 // jQuery on document ready
 
@@ -26,9 +27,7 @@ $(document).ready(function(){
 	 	$('.MainMenu').css({'display':'block'})
 	}else if(window.innerWidth<1001){
 	  $('.MainMenu').css({'display':'none'})}
-	})
-
-
+	});
 
 })
 

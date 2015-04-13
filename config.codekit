@@ -812,23 +812,34 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/static\/js\/main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/js\/main.js",
+		"outputAbbreviatedPath": "\/static\/js\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/static\/js\/min\/main-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/js\/min\/main-min.js",
+		"outputAbbreviatedPath": "\/static\/js\/min\/min\/main-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/static\/js\/min\/script-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/static\/js\/min\/script-min.js",
 		"outputAbbreviatedPath": "\/static\/js\/min\/min\/script-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/static\/js\/script.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/static\/js\/script.js",
-		"outputAbbreviatedPath": "\/static\/js\/min\/script-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -911,6 +922,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/static\/stylus\/bp1.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/bp1.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/static\/stylus\/bp1.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -926,6 +946,15 @@
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
+		},
+	"\/static\/stylus\/bp2.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/bp2.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/static\/stylus\/bp2.styl": {
 		"createSourceMap": 0,
@@ -943,6 +972,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
+	"\/static\/stylus\/bp3.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/bp3.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/static\/stylus\/bp3.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -958,6 +996,15 @@
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
+		},
+	"\/static\/stylus\/bp34.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/bp34.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/static\/stylus\/bp34.styl": {
 		"createSourceMap": 0,
@@ -975,6 +1022,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
+	"\/static\/stylus\/bp4.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/bp4.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/static\/stylus\/bp4.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -990,6 +1046,15 @@
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
+		},
+	"\/static\/stylus\/bp45.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/bp45.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/static\/stylus\/bp45.styl": {
 		"createSourceMap": 0,
@@ -1007,6 +1072,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
+	"\/static\/stylus\/bp5.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/bp5.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/static\/stylus\/bp5.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1022,6 +1096,15 @@
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
+		},
+	"\/static\/stylus\/buttons.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/buttons.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/static\/stylus\/buttons.styl": {
 		"createSourceMap": 0,
@@ -1039,6 +1122,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
+	"\/static\/stylus\/estilos.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/estilos.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/static\/stylus\/estilos.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1047,13 +1139,22 @@
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
 		"inputAbbreviatedPath": "\/static\/stylus\/estilos.styl",
-		"outputAbbreviatedPath": "\/Users\/jpcpamies\/GitHub\/Afic\/devAfic\/static\/css\/estilos.css",
+		"outputAbbreviatedPath": "\/static\/css\/estilos.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 1,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
+		},
+	"\/static\/stylus\/icons_big.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/icons_big.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/static\/stylus\/icons_big.styl": {
 		"createSourceMap": 0,
@@ -1071,6 +1172,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
+	"\/static\/stylus\/icons_small.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/icons_small.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/static\/stylus\/icons_small.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1086,6 +1196,15 @@
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
+		},
+	"\/static\/stylus\/mailchimp.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/mailchimp.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/static\/stylus\/mailchimp.styl": {
 		"createSourceMap": 0,
@@ -1121,29 +1240,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/templates\/quiromasaje_presencial.html": {
-		"fileType": 8192,
-		"ignore": 0,
+	"\/Users\/jpcpamies\/GitHub\/Afic\/devAfic\/static\/css\/estilos.css": {
+		"fileType": 16,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/templates\/quiromasaje_presencial.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/templates\/reflexologia.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/templates\/reflexologia.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/templates\/template.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/templates\/template.html",
+		"inputAbbreviatedPath": "\/Users\/jpcpamies\/GitHub\/Afic\/devAfic\/static\/css\/estilos.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

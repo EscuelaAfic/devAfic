@@ -36,15 +36,15 @@ $(document).ready(function(){
 	  $('.MainMenu').css({'display':'none'})}
 	});
 
-	// $(window).resize(function(){
-	//   if(window.innerWidth>700){
-	//     $('.MainSection-cta').removeClass('btn-small');
-	//     $('.MainSection-cta').addClass('btn-big')
-	//   } else if(window.innerWidth<700){
-	//     $('.MainSection-cta').removeClass('btn-big');
-	//     $('.MainSection-cta').addClass('btn-small')
-	//   }
-	// })
+	$(window).resize(function(){
+	  if(window.innerWidth>700){
+	    $('.MainSection-cta').removeClass('btn-small');
+	    $('.MainSection-cta').addClass('btn-big')
+	  } else if(window.innerWidth<700){
+	    $('.MainSection-cta').removeClass('btn-big');
+	    $('.MainSection-cta').addClass('btn-small')
+	  }
+	})
 
 
 })

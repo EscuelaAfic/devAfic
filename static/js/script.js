@@ -8,3 +8,16 @@ $( ".MainMenu-icon" ).click(function() {
 $( ".NextEvent-toggle" ).click(function() {
   $( ".NextEvent-detail" ).slideToggle( "" );
 });
+
+
+
+$(document).ready(function(){
+
+$(window).resize(function(){
+  if(window.innerWidth>=1001){
+ $('.MainMenu').css({'display':'block'})
+	}
+})
+
+})
+

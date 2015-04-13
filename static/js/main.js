@@ -16,10 +16,9 @@ $( ".NextEvent-toggle" ).click(function() {
 $(window).load(function(){
 	
   if(window.innerWidth<700){
-    $('.MainSection-cta').addClass('btn-small')
-  } else if(window.innerWidth>700){
-  	$('.MainSection-cta').addClass('btn-big')
-  }
+    $('#MainSection-cta').removeClass('btn-big');
+    $('#MainSection-cta').addClass('btn-small')
+  } 
 })
 
 
@@ -38,11 +37,11 @@ $(document).ready(function(){
 
 	$(window).resize(function(){
 	  if(window.innerWidth>700){
-	    $('.MainSection-cta').removeClass('btn-small');
-	    $('.MainSection-cta').addClass('btn-big')
+	    $('#MainSection-cta').removeClass('btn-small');
+	    $('#MainSection-cta').addClass('btn-big')
 	  } else if(window.innerWidth<700){
-	    $('.MainSection-cta').removeClass('btn-big');
-	    $('.MainSection-cta').addClass('btn-small')
+	    $('#MainSection-cta').removeClass('btn-big');
+	    $('#MainSection-cta').addClass('btn-small')
 	  }
 	})
 

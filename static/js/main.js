@@ -22,7 +22,6 @@ $(window).load(function(){
 })
 
 
-
 // jQuery on document ready
 
 $(document).ready(function(){
@@ -44,7 +43,6 @@ $(document).ready(function(){
 	    $('#MainSection-cta').addClass('btn-small')
 	  }
 	})
-
 
 })
 

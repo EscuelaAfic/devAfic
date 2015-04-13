@@ -13,12 +13,12 @@ $( ".NextEvent-toggle" ).click(function() {
 
 $(document).ready(function(){
 
-$(window).resize(function(){
-  if(window.innerWidth>=1001){
- $('.MainMenu').css({'display':'block'})
-}else if(window.innerWidth<1001){
-  $('.MainMenu').css({'display':'none'})}
-})
+	$(window).resize(function(){
+	  if(window.innerWidth>=1001){
+	 	$('.MainMenu').css({'display':'block'})
+	}else if(window.innerWidth<1001){
+	  $('.MainMenu').css({'display':'none'})}
+	})
 
 })
 

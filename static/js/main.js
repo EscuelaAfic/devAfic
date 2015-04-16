@@ -2,13 +2,24 @@
 
 
 $( ".MainMenu-icon" ).click(function() {
-  $( ".MainMenu" ).slideToggle( "" );
+  $( ".MainMenu" ).slideToggle( );
 });
 
 $( ".NextEvent-toggle" ).click(function() {
-  $( ".NextEvent-detail" ).slideToggle( "" );
+  $( ".NextEvent-detail" ).slideToggle( );
 });
 
+$( ".ListOne-toggle" ).click(function() {
+  $( ".listOne" ).slideToggle( );
+});
+
+$( ".ListTwo-toggle" ).click(function() {
+  $( ".listTwo" ).slideToggle( );
+});
+
+$( ".ListThree-toggle" ).click(function() {
+  $( ".listThree" ).slideToggle( );
+});
 
 // jQuery on document ready
 
@@ -36,6 +47,9 @@ $(document).ready(function(){
 	    $('#MainSection-cta').removeClass('btn-big');
 	    $('#MainSection-cta').addClass('btn-small')
 	  }; 
+
+	$('.listOne').css({'display':'block'});
+
 
 })
 

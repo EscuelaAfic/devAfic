@@ -1,6 +1,7 @@
 body
 	font-family bodyFont
 	color c_bodyFont
+	font-weight 200
 	font-smoothing antialiased
 	-webkit-font-smoothing antialiased
 	
@@ -229,6 +230,7 @@ p
 	font-weight 600
 	display block
 	width 140px
+	line-height 18px
 	&:after
 		font-family icomoon
 		content: "\e600";
@@ -252,7 +254,6 @@ p
 .kinergeticsReset-small
 .kinesiologiaIntegrada-small
 .moxibustion-small
-.naturopatia-small
 .piedras-small
 .pindas-small
 .quiromasaje-small
@@ -269,6 +270,37 @@ p
 	-webkit-transform: scale(.4, .4);
 	display inline-block
 	margin 0 0 0 -3em
+
+.agujasIntradermicas-smallRecomended
+.amma-smallRecomended
+.ampuku-smallRecomended
+.aromaterapia-smallRecomended
+.champi-smallRecomended
+.cosmeticaNatural-smallRecomended
+.crecimientoPersonal-smallRecomended
+.cyriax-smallRecomended
+.drenajeLinfatico-smallRecomended
+.estiramientosThai-smallRecomended
+.floresBach-smallRecomended
+.kinergeticsReset-smallRecomended
+.kinesiologiaIntegrada-smallRecomended
+.moxibustion-smallRecomended
+.piedras-smallRecomended
+.pindas-smallRecomended
+.quiromasaje-smallRecomended
+.quiromasajeSuperior-smallRecomended
+.reflexologia-smallRecomended
+.auriculoterapia-smallRecomended
+.registrosAkashicos-smallRecomended
+.reiki-smallRecomended
+.shiatsuFacial-smallRecomended
+.vendajeNeuromuscular-smallRecomended
+.naturopatia-smallRecomended
+	transform: scale(.4, .4);
+	-ms-transform: scale(.4, .4);
+	-webkit-transform: scale(.4, .4);
+	display inline-block
+	margin -30px 0 0 -3em
 	
 .CourseList-courseLabel
 	display inline-block
@@ -371,7 +403,6 @@ p
 	display inline-block
 	margin 0 0 0 0 
 	display list-item
-	list-style-type 
 	&:first-child
 		margin 0
 	a
@@ -604,24 +635,60 @@ p
 
 // Learn
 
-.Learn-list
-	margin 0 0 0 15px
-	
 .List-item
-	list-style-type none
+	margin 0 0 0 15px
+	list-style-type normal
 	p
 		margin 0
 		font-size 16px
 		line-height 23px
 		margin 0 0 .3rem 0
 	&:before
-		content '·'
 		float left
+		
+.Learn-listContainer
+	display inline-block 
+	width 100%
+	
+.Learn-recomended
+	display inline-block 
+	width 100%
+	
+.Learn-recomendedItem
+	font-size 14px
+	display block
+	margin 0 0 10px 0
+	list-style-type none
+	
+.Learn-recomendedTitle
+	margin 0 
+	
+.CourseList-courseRecomended
+	padding 0 0 10px 0
+	min-height 80px
+	border-bottom none
+	
+.Secundary-title
+	font-size 24px
+	line-height 29px
+	padding 30px 0 34px 0
+	font-weight 200
+	letter-spacing 0px
+	margin 0 
+		
+.Learn-list
+	max-width 500px
 
-.Learn-img
-	img
-		width 80%
-		height auto
+.Learn-img		
+	background url(../img/naturopatia2.jpg)
+	background-repeat no-repeat
+	background-position-x 50% 
+	background-position-y 0
+	background-size 100%
+	width 100%
+	height 200px
+	position relative
+	top 30px
 
 
 
@@ -636,6 +703,22 @@ p
 		width 150%
 		position relative
 		left -100px
+		
+.Index-listToggle
+	border-bottom 1px solid rgba(black,.3)
+	padding 10px 0
+	&:hover
+		background afic
+		color white
+		
+.Index-list
+	background white
+	padding 20px 0 10px 25px
+	display none
+	
+.Index-intraList
+	padding 0 0 0 15px
+	list-style-type disc 
 
 .icon-books
 	&:before
@@ -643,26 +726,15 @@ p
 		height 50px 
 		border-radius 50%
 		font-size 24px
-		margin 0 0 0 15px
+		margin 0 10px 0 15px
 	span
 		margin 0 0 0 10px
 		font-size 28px 
 		font-weight 200
 			
-.accordion .accordion-navigation > a, .accordion dd > a
-	background none
-	padding 0
-	border-bottom 1px solid rgba(black,.3)
-	transition .1s
-	&:hover
-		background afic
-		color white
-
 .index-item
-	list-style-type none
+	display block
 	
-.index-item2
-	list-style-type none
 
 
 // Details

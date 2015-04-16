@@ -7,7 +7,11 @@ body
 a
 	&:hover 
 		color afic
-		
+
+ul
+li
+p
+	margin 0		
 
 // Heeader
 
@@ -422,6 +426,20 @@ a
 
 // Course page =======================================
 
+.NewSection
+	padding 60px 0 30px 0
+	
+.Section-title
+	font-size 34px
+	line-height 40px
+	padding 0 0 34px 15px
+	font-weight 200
+	letter-spacing 0px
+	margin 0
+	
+
+	
+
 // CourseHero
 
 // =============================
@@ -528,59 +546,6 @@ a
 	margin 0
 
 	
-// Learn
-
-.NewSection
-	padding 30px 0 0 0
-	
-	
-.Learn-left
-	display inline-block
-	width 100%
-	// text-align center
-	
-.Section-title
-	display inline
-	font-weight bold
-	font-size 28px
-	line-height 30px
-	// border-bottom 1px solid rgba(black,.8)
-	padding 0 0 5px 0 
-	span
-		font-weight bold
-		
-.Learn-list
-	text-align left
-	padding 15px 0 0 0 
-	
-.Learn-item
-	list-style-type normal
-	color afic
-	p
-		color c_bodyFont
-		max-width 500px
-		margin 0
-		font-size 16px
-		line-height 23px
-
-.Learn-right
-	display inline-block
-	width 100%
-	text-align center
-	
-.Learn-sumary
-	display inline-block
-	
-.Learn-sumaryTitle
-	display  block
-	font-family bebas_neuebold
-	font-size 21px
-	font-weight bold
-	line-height 1em
-	margin 0 auto
-	text-transform uppercase
-	width 120px
-
 
 
 // acercaDe page =======================================
@@ -637,67 +602,136 @@ a
 	font-weight 600
 
 
-// Index
+// Learn
 
-.accordion
-	margin 0
-	padding 15px 0 0 0
+.Learn-list
+	margin 0 0 0 15px
 	
-.Index-lista
-	padding 0 
-	display inline-block
-	width 100%
-	
-.Index-title
-	padding 0 0 15px 15px
+.List-item
+	list-style-type none
+	p
+		margin 0
+		font-size 16px
+		line-height 23px
+		margin 0 0 .3rem 0
+	&:before
+		content '·'
+		float left
 
-// .Course-imageContainer
-// 	width 100%
-// 	display inline-block
-// 	text-align center
-// 	padding 15px 0
-	
-.Course-image
+.Learn-img
 	img
 		width 80%
 		height auto
 
+
+
+// Index
+
+.Index
+	background secundariLight
+	
+.Index-img
+	overflow hidden
+	img
+		width 150%
+		position relative
+		left -100px
+
 .icon-books
 	&:before
+		width 50px 
+		height 50px 
+		border-radius 50%
 		font-size 24px
-		display inline-block
-		padding 
+		margin 0 0 0 15px
 	span
-		display inline-block
-		font-family bebas_neuebold
 		margin 0 0 0 10px
-		position relative 
-		top -3px
-		font-size 21px
-		font-style bold
-		border-left 1px solid rgba(black,.3)	
-		padding 0 0 0 10px
+		font-size 28px 
+		font-weight 200
 			
 .accordion .accordion-navigation > a, .accordion dd > a
-	transition .1s
-	-webkit-transition .1s
-	&:hover
-		background afic
-		color white
+	background none
+	padding 0
+	border-bottom 1px solid rgba(black,.3)
 
 .index-item
-	list-style-type disc
+	list-style-type none
 	
 .index-item2
-	list-style-type circle
+	list-style-type none
 
 
+// Details
+
+// .Details
+// 	text-align center
+
+// .tab-title
+// 	display inline-block
+
+// .tabs .tab-title > a 
+// 	background transparent
+	
+// .tabs .tab-title.active a
+// 	// background rgba(black,.1)
+// 	border 1px solid rgba(black,.3)
+// 	border-bottom none
+
+// h3
+// 	font-weight bold
 
 
+// .tabs
+// 	text-align center 
+// 	margin 20px
 
+// .tab-title
+// 	width 32%
+// 	margin 0 
+// 	border-bottom 1px solid rgba(black,.3)
+// 	padding 0 7px
+// 	&:last-child
+// 		margin 0
+	
+// .menu
+// 	border-radius 5px 5px 0 0 
+	
+// ul > li.active
+// 	padding 0 
+// 	// border-top 1px solid rgba(black,.3)
+// 	// border-right 1px solid rgba(black,.3)
+// 	border-bottom none
+// 	// border-left 1px solid rgba(black,.3)
+// 	border-radius 5px 5px 0 0 
+// 	height 60px
+	
 
+// Teachers
 
+.Teachers
+	text-align center
+	background secundariLight
 
+.Teacher
+	box-shadow 0 0 5px rgba(black,.5)
+	width 200px
+	height auto
+	background white
+	border-radius 5px
+	display inline-block
+	margin 0 0 20px 0
+
+.Teacher-name
+	font-weight bold
+	font-size 21px
+	margin 0
+	padding 10px 0 5px 0 
+	
+.Teacher-designation
+	margin 0 
+	font-size 14px
+	line-height 18px
+	padding 0 5px 20px 5px
 
 
 

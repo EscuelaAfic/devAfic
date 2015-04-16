@@ -647,24 +647,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/naturopatia.png": {
-		"fileType": 32768,
+	"\/static\/img\/naturopatia2.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 279837,
-		"inputAbbreviatedPath": "\/static\/img\/naturopatia.png",
-		"outputAbbreviatedPath": "\/static\/img\/naturopatia.png",
+		"initialSize": 79631,
+		"inputAbbreviatedPath": "\/static\/img\/naturopatia2.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/naturopatia2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/Precio-ahorro.jpg": {
+	"\/static\/img\/precio-ahorro.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 4628,
-		"inputAbbreviatedPath": "\/static\/img\/Precio-ahorro.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/Precio-ahorro.jpg",
+		"inputAbbreviatedPath": "\/static\/img\/precio-ahorro.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/precio-ahorro.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

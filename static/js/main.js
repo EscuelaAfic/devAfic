@@ -10,18 +10,6 @@ $( ".NextEvent-toggle" ).click(function() {
 });
 
 
-
-// jQuery on document loaded
-
-$(window).load(function(){
-	
-  if(window.innerWidth<700){
-    $('#MainSection-cta').removeClass('btn-big');
-    $('#MainSection-cta').addClass('btn-small')
-  } 
-})
-
-
 // jQuery on document ready
 
 $(document).ready(function(){
@@ -42,7 +30,12 @@ $(document).ready(function(){
 	    $('#MainSection-cta').removeClass('btn-big');
 	    $('#MainSection-cta').addClass('btn-small')
 	  }
-	})
+	});
+
+	if(window.innerWidth<700){
+	    $('#MainSection-cta').removeClass('btn-big');
+	    $('#MainSection-cta').addClass('btn-small')
+	  }; 
 
 })
 

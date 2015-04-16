@@ -464,6 +464,7 @@ a
 .Course-detail
 	display block
 	font-size 16px
+	line-height 21px
 	margin 5px 0 15px 0
 	
 .Course-mainSectionCTA
@@ -529,19 +530,21 @@ a
 	
 // Learn
 
-.Learn
-	padding 30px 0 20px 0
+.NewSection
+	padding 30px 0 0 0
+	
 	
 .Learn-left
 	display inline-block
 	width 100%
-	text-align center
+	// text-align center
 	
-.Learn-title
+.Section-title
 	display inline
-	font-weight 400
+	font-weight bold
 	font-size 28px
-	border-bottom 1px solid rgba(black,.8)
+	line-height 30px
+	// border-bottom 1px solid rgba(black,.8)
 	padding 0 0 5px 0 
 	span
 		font-weight bold
@@ -555,6 +558,7 @@ a
 	color afic
 	p
 		color c_bodyFont
+		max-width 500px
 		margin 0
 		font-size 16px
 		line-height 23px
@@ -568,12 +572,14 @@ a
 	display inline-block
 	
 .Learn-sumaryTitle
-	text-transform uppercase
-	font-weight bold
-	line-height 1.1em
+	display  block
 	font-family bebas_neuebold
 	font-size 21px
-	width 150px
+	font-weight bold
+	line-height 1em
+	margin 0 auto
+	text-transform uppercase
+	width 120px
 
 
 
@@ -629,3 +635,73 @@ a
 .Welcome-content
 	font-size 16px
 	font-weight 600
+
+
+// Index
+
+.accordion
+	margin 0
+	padding 15px 0 0 0
+	
+.Index-lista
+	padding 0 
+	display inline-block
+	width 100%
+	
+.Index-title
+	padding 0 0 15px 15px
+
+// .Course-imageContainer
+// 	width 100%
+// 	display inline-block
+// 	text-align center
+// 	padding 15px 0
+	
+.Course-image
+	img
+		width 80%
+		height auto
+
+.icon-books
+	&:before
+		font-size 24px
+		display inline-block
+		padding 
+	span
+		display inline-block
+		font-family bebas_neuebold
+		margin 0 0 0 10px
+		position relative 
+		top -3px
+		font-size 21px
+		font-style bold
+		border-left 1px solid rgba(black,.3)	
+		padding 0 0 0 10px
+			
+.accordion .accordion-navigation > a, .accordion dd > a
+	transition .1s
+	-webkit-transition .1s
+	&:hover
+		background afic
+		color white
+
+.index-item
+	list-style-type disc
+	
+.index-item2
+	list-style-type circle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

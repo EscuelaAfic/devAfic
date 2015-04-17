@@ -25,6 +25,18 @@ $( ".ListThree-toggle" ).click(function() {
 
 $(document).ready(function(){
 
+	if(window.innerWidth<700){
+	    $('#MainSection-cta').removeClass('btn-big');
+	    $('#MainSection-cta').addClass('btn-small')
+	  } else if(window.innerWidth>=700){
+	    $('.Index .Section-title').addClass('center')
+	    $('.Index .empty').addClass('u-wrapper')
+	};
+
+
+
+	$('.listOne').css({'display':'block'});
+
 	// Mostrar menu en bo grande
 	$(window).resize(function(){
 	  if(window.innerWidth>=1001){
@@ -43,12 +55,13 @@ $(document).ready(function(){
 	  }
 	});
 
-	if(window.innerWidth<700){
-	    $('#MainSection-cta').removeClass('btn-big');
-	    $('#MainSection-cta').addClass('btn-small')
-	  }; 
-
-	$('.listOne').css({'display':'block'});
+	$(window).resize(function(){
+	  if(window.innerWidth>700){
+	    $('.Index .Section-title').addClass('center');
+	  } else if(window.innerWidth<700){
+	    $('.Index .Section-title').removeClass('center');
+	  }
+	});
 
 
 })

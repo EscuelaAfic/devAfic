@@ -647,6 +647,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/naturopatia.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 693954,
+		"inputAbbreviatedPath": "\/static\/img\/naturopatia.png",
+		"outputAbbreviatedPath": "\/static\/img\/naturopatia.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/naturopatia2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

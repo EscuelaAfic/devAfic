@@ -647,6 +647,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/material-naturopatia.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.15102e+06,
+		"inputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
+		"outputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/naturopatia.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1148,6 +1159,22 @@
 		"importCSS": 0,
 		"inputAbbreviatedPath": "\/static\/stylus\/bp5.styl",
 		"outputAbbreviatedPath": "\/static\/css\/bp5.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/static\/stylus\/bpSOLO3.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/bpSOLO3.styl",
+		"outputAbbreviatedPath": "\/static\/css\/bpSOLO3.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

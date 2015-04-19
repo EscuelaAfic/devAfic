@@ -689,6 +689,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/packa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4163,
+		"inputAbbreviatedPath": "\/static\/img\/packa.png",
+		"outputAbbreviatedPath": "\/static\/img\/packa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/packb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22136,
+		"inputAbbreviatedPath": "\/static\/img\/packb.png",
+		"outputAbbreviatedPath": "\/static\/img\/packb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/precio-ahorro.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

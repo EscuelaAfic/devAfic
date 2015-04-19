@@ -21,6 +21,10 @@ $( ".ListThree-toggle" ).click(function() {
   $( ".listThree" ).slideToggle( );
 });
 
+$( ".Descount-seeOfer" ).click(function() {
+  $( ".Descount-courses" ).slideToggle( );
+});
+
 // jQuery on document ready
 
 $(document).ready(function(){

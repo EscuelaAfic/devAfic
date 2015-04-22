@@ -11,6 +11,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/static\/css\/bebas.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/css\/bebas.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/static\/css\/estilos.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -58,94 +67,18 @@
 		},
 	"\/static\/css\/SOLO4.css": {
 		"fileType": 16,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/static\/css\/SOLO4.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/static\/fonts\/Bebas\/BebasNeue Bold-demo.html": {
+	"\/static\/fonts\/BebasNeue Bold-demo.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/static\/fonts\/Bebas\/BebasNeue Bold-demo.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/static\/fonts\/Bebas\/BebasNeue Light-demo.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/static\/fonts\/Bebas\/BebasNeue Light-demo.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/static\/fonts\/Bebas\/BebasNeue Regular-demo.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/static\/fonts\/Bebas\/BebasNeue Regular-demo.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/static\/fonts\/Bebas\/BebasNeue Thin-demo.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/static\/fonts\/Bebas\/BebasNeue Thin-demo.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/static\/fonts\/Bebas\/specimen_files\/easytabs.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/static\/fonts\/Bebas\/specimen_files\/easytabs.js",
-		"outputAbbreviatedPath": "\/static\/fonts\/Bebas\/specimen_files\/min\/easytabs-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/static\/fonts\/Bebas\/specimen_files\/grid_12-825-55-15.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/static\/fonts\/Bebas\/specimen_files\/grid_12-825-55-15.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/static\/fonts\/Bebas\/specimen_files\/min\/easytabs-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/static\/fonts\/Bebas\/specimen_files\/min\/easytabs-min.js",
-		"outputAbbreviatedPath": "\/static\/fonts\/Bebas\/specimen_files\/min\/min\/easytabs-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/static\/fonts\/Bebas\/specimen_files\/specimen_stylesheet.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/static\/fonts\/Bebas\/specimen_files\/specimen_stylesheet.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/static\/fonts\/Bebas\/stylesheet.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/static\/fonts\/Bebas\/stylesheet.css",
+		"inputAbbreviatedPath": "\/static\/fonts\/BebasNeue Bold-demo.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -212,6 +145,28 @@
 		"initialSize": 32187,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/home-small.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/home-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/home2-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73807,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/home2-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/home2-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/home3-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 210436,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/home3-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/home3-big.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -300,17 +255,6 @@
 		"initialSize": 17971,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/reflexologia-small.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/reflexologia-small.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/hero\/save.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2721,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/save.png",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/save.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -788,6 +732,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/save.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2721,
+		"inputAbbreviatedPath": "\/static\/img\/save.png",
+		"outputAbbreviatedPath": "\/static\/img\/save.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/teachers\/amanda.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1054,7 +1009,7 @@
 		},
 	"\/static\/js\/min\/script-min.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/static\/js\/min\/script-min.js",
 		"outputAbbreviatedPath": "\/static\/js\/min\/min\/script-min-min.js",
@@ -1151,7 +1106,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/bp1.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1167,7 +1122,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/bp2.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1183,7 +1138,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/bp3.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1199,7 +1154,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/bp34.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1215,7 +1170,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/bp4.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1231,7 +1186,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/bp45.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1247,7 +1202,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/bp5.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1263,7 +1218,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/bpSOLO3.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1279,7 +1234,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/bpSOLO4.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1295,7 +1250,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/buttons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1310,8 +1265,8 @@
 		"inputAbbreviatedPath": "\/static\/stylus\/estilos.styl",
 		"outputAbbreviatedPath": "\/static\/css\/estilos.css",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
-		"outputStyle": 1,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1327,7 +1282,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/icons_big.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1343,7 +1298,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/icons_small.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1359,7 +1314,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/mailchimp.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
@@ -1418,11 +1373,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/templates\/quiromasaje_presencial.html": {
+	"\/templates\/quiromasaje.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/templates\/quiromasaje_presencial.html",
+		"inputAbbreviatedPath": "\/templates\/quiromasaje.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2086,7 +2041,7 @@
 	"stylusCreateSourceMap": 0,
 	"stylusDebugStyle": 0,
 	"stylusImportCSS": 0,
-	"stylusOutputStyle": 1,
+	"stylusOutputStyle": 0,
 	"stylusResolveRelativeURLS": 0,
 	"typescriptAutoOutputPathEnabled": 1,
 	"typescriptAutoOutputPathFilenamePattern": "*.js",

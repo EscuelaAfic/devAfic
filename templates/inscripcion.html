@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Inscripción al curso</title>
-    <meta name="description" content="Las plazas son limidaas y se reserven por orden de inscipción, reserva la tuya hoy inscribiéndote ahora.">
+    <meta name="description" content="Las plazas son limitadas y se reserven por orden de inscipción, reserva la tuya hoy inscribiéndote ahora.">
     <link rel="apple-touch-icon" href="../static/img/apple-touch-icon.png">
     <link rel="favicon" href="../static/img/favicon.ico">
     <link rel="stylesheet" href="../static/css/foundation.css" />
@@ -14,7 +14,7 @@
   </head>
   <body>
   <section class="langing">
-    <header class="Header">
+    <header class="Header Header-noHero">
       <div class="Header-container u-wrapper"> 
         <a href="../" title='EscuelaAfic.com' class="Header-logo">
           <img src="../static/img/logoSmall.png" alt="EscuelaAfic.com" width='81.64px' height='60px'>
@@ -40,9 +40,9 @@
     <section class="Banner-inscripcion">
       <div class="u-wrapper">
         <div class="u-wrapper">
-          <h1 class="CourseBanner-title ">Inscripción al curso</h1>
-          <p class="CourseBanner-description">
-            Las plazas son limidaas y se reserven por orden de inscipción, reserva la tuya hoy inscribiéndote ahora. 
+          <h1 class="CourseBanner-title CourseBanner-titleForm">Inscripción al curso</h1>
+          <p class="CourseBanner-description CourseBanner-descriptionForm ">
+            Las plazas son limitadas y se reserven por orden de inscipción, reserva la tuya hoy inscribiéndote ahora. 
           </p>
         </div>
       </div>
@@ -60,14 +60,16 @@
             <div class="SectionForm-title">
               <h3>Rellena tus datos</h3>
             </div>
-            <div class="Personal-name">
-              <input type="text" value="" name="FNAME" class="required Inscripcion-input input-A" placeholder="Tu nombre" id="mce-FNAME">
-            </div>
-            <div class="Personal-email">
-              <input type="email" value="" name="EMAIL" class="required Inscripcion-input input-A" placeholder="Tu email" id="mce-EMAIL">
-            </div>
-            <div class="Personal-telf">
-              <input type="number" name="MMERGE2" class="Inscripcion-input input-A" value="" placeholder="Tu Telf" id="mce-MMERGE2">
+            <div class="Form-personalContainer">
+              <div class="Personal-name">
+                <input type="text" value="" name="FNAME" class="required Inscripcion-input input-A" placeholder="Tu nombre" id="mce-FNAME">
+              </div>
+              <div class="Personal-email">
+                <input type="email" value="" name="EMAIL" class="required Inscripcion-input input-A" placeholder="Tu email" id="mce-EMAIL">
+              </div>
+              <div class="Personal-telf">
+                <input type="number" name="MMERGE2" class="Inscripcion-input input-A" value="" placeholder="Tu Telf" id="mce-MMERGE2">
+              </div>
             </div>
           </section>
           <section class="Form-section Form-course">
@@ -136,7 +138,7 @@
             <div class="SectionForm-title">
               <h3>Método de pago</h3>
             </div>
-            <select name="MMERGE3" class="required input-A " id="mce-MMERGE3">
+            <select name="MMERGE3" class="required input-A paymentMethode" id="mce-MMERGE3">
               <h3 class="Toggle-title">Nombre del curso</h3>
               <option value=""></option>
               <option value="Transferencia bancaria">Transferencia bancaria</option>

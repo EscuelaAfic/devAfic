@@ -25,6 +25,10 @@ $( ".Descount-seeOfer" ).click(function() {
   $( ".Descount-courses" ).slideToggle( );
 });
 
+$( ".Toggle" ).click(function() {
+  $( ".Course-container" ).slideToggle( );
+});
+
 // jQuery on document ready
 
 $(document).ready(function(){

@@ -1326,12 +1326,11 @@ button::-moz-focus-inner {
 @media only screen and (min-width: 40.063em) {
   button, .button {
     display: inline-block; } }
-/* Standard Forms */
-form {
-  margin: 0 0 1rem; }
+//** Standard Forms */
+/*s*/
 
 /* Using forms within rows, we need to set some defaults */
-form .row .row {
+/*form .row .row {
   margin: 0 -0.5rem; }
   form .row .row .column,
   form .row .row .columns {
@@ -1349,20 +1348,20 @@ form .row .row {
 form .row input.column,
 form .row input.columns,
 form .row textarea.column,
-form .row textarea.columns {
-  padding-left: 0.5rem; }
+form .row textarea.columns {*/
+  padding-left: 0.5rem; }*/
 
 /* Label Styles */
-label {
+/*label {
   font-size: 0.875rem;
   color: #4d4d4d;
   cursor: pointer;
   display: block;
   font-weight: normal;
   line-height: 1.5;
-  margin-bottom: 0;
+  margin-bottom: 0;*/
   /* Styles for required inputs */ }
-  label.right {
+/*  label.right {
     float: none !important;
     text-align: right; }
   label.inline {
@@ -1370,7 +1369,7 @@ label {
     padding: 0.5625rem 0; }
   label small {
     text-transform: capitalize;
-    color: #676767; }
+    color: #676767; }*/
 
 /* Attach elements to the beginning or end of an input */
 .prefix,
@@ -1448,7 +1447,7 @@ span.postfix, label.postfix {
   border-color: #cccccc; }
 
 /* We use this to get basic styling on all basic form elements */
-input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], input[type="color"], textarea {
+/*input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], input[type="color"], textarea {
   -webkit-appearance: none;
   border-radius: 0;
   background-color: #FFFFFF;
@@ -1479,8 +1478,8 @@ input[type="text"], input[type="password"], input[type="date"], input[type="date
     background-color: #DDDDDD;
     cursor: default; }
   input[type="text"].radius, input[type="password"].radius, input[type="date"].radius, input[type="datetime"].radius, input[type="datetime-local"].radius, input[type="month"].radius, input[type="week"].radius, input[type="email"].radius, input[type="number"].radius, input[type="search"].radius, input[type="tel"].radius, input[type="time"].radius, input[type="url"].radius, input[type="color"].radius, textarea.radius {
-    border-radius: 3px; }
-
+    border-radius: 3px; }*/
+/*
 form .row .prefix-radius.row.collapse input,
 form .row .prefix-radius.row.collapse textarea,
 form .row .prefix-radius.row.collapse select,
@@ -1544,7 +1543,7 @@ form .row .postfix-round.row.collapse .postfix {
 
 input[type="submit"] {
   -webkit-appearance: none;
-  border-radius: 0; }
+  border-radius: 0; }*/
 
 /* Respect enforced amount of rows for textarea */
 textarea[rows] {
@@ -1586,7 +1585,7 @@ select {
     height: auto; }
 
 /* Adjust margin for form elements below */
-input[type="file"],
+/*input[type="file"],
 input[type="checkbox"],
 input[type="radio"],
 select {
@@ -1598,11 +1597,11 @@ input[type="radio"] + label {
   margin-left: 0.5rem;
   margin-right: 1rem;
   margin-bottom: 0;
-  vertical-align: baseline; }
+  vertical-align: baseline; }*/
 
 /* Normalize file input width */
-input[type="file"] {
-  width: 100%; }
+/*input[type="file"] {
+  width: 100%; }*/
 
 /* HTML5 Number spinners settings */
 /* We add basic fieldset styling */
@@ -4982,7 +4981,7 @@ ul.off-canvas-list {
   display: inline; }
 
 /* Foundation Dropdowns */
-.f-dropdown {
+/*.f-dropdown {
   position: absolute;
   left: -9999px;
   list-style: none;
@@ -5768,10 +5767,10 @@ kbd {
     .switch.round label {
       border-radius: 2rem; }
     .switch.round label:after {
-      border-radius: 2rem; }
+      border-radius: 2rem; }*/
 
 /* small displays */
-@media only screen {
+/*@media only screen {
   .show-for-small-only, .show-for-small-up, .show-for-small, .show-for-small-down, .hide-for-medium-only, .hide-for-medium-up, .hide-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
     display: inherit !important; }
 
@@ -5805,9 +5804,9 @@ kbd {
     display: table-row; }
 
   th.show-for-small-only, td.show-for-small-only, th.show-for-small-up, td.show-for-small-up, th.show-for-small, td.show-for-small, th.show-for-small-down, td.show-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.hide-for-medium-up, td.hide-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.show-for-medium-down, td.show-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.hide-for-large-up, td.hide-for-large-up, th.hide-for-large, td.hide-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
-    display: table-cell !important; } }
+    display: table-cell !important; } }*/
 /* medium displays */
-@media only screen and (min-width: 40.063em) {
+/*@media only screen and (min-width: 40.063em) {
   .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .show-for-medium-only, .show-for-medium-up, .show-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
     display: inherit !important; }
 
@@ -5841,7 +5840,7 @@ kbd {
     display: table-row; }
 
   th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.show-for-medium-only, td.show-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.show-for-medium, td.show-for-medium, th.show-for-medium-down, td.show-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.hide-for-large-up, td.hide-for-large-up, th.hide-for-large, td.hide-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
-    display: table-cell !important; } }
+    display: table-cell !important; } }*/
 /* large displays */
 @media only screen and (min-width: 64.063em) {
   .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {

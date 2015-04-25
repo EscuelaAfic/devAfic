@@ -600,6 +600,10 @@ p
 		font-family bodyFont
 		font-size 31px
 		font-weight bold
+		a
+			color c_bodyFont
+			coursor default
+			
 		
 .certificate
 	font-size 14px
@@ -962,6 +966,9 @@ p
 .Details-content
 	text-align center
 
+.colorPrimari
+	color primari
+
 .colorAfic
 	color afic
 	
@@ -977,9 +984,15 @@ p
 	border-radius 10px
 	border border
 	
+.Details-group--solo
+	margin 10px 0 30px 0
+	
 .Details-date2
 	text-align left
 	
+.Details-date
+	text-align center
+
 .Group-itme
 	display inline-block
 
@@ -1063,6 +1076,22 @@ p
 .Group-divider
 	padding 0 5px
 	
+.Group-available
+	display inline-block
+	text-align right
+	font-weight bold
+	font-size 16px
+	line-height 18px
+	margin 0 0 0 10px
+	position relative
+	top 2px
+	
+.Group-availableDay
+	display inline-block
+	margin 0 0 0 45px
+	position relative
+	top 5px
+	
 .link
 	text-decoration underline
 	color primari
@@ -1122,6 +1151,7 @@ p
 			font-family icomoon
 			content "\e607"
 			float left
+			color primari
 			display inline-block
 			margin 0 10px 0 0 
 	.presencial
@@ -1309,6 +1339,36 @@ p
 	width 100%
 	height 55px
 	
+.Promo
+	padding 30px 
+	border-top border
+	border-bottom border
+	margin 0 0 30px 0 
+	overflow hidden
+	
+.PromoLabel
+	display inline-block
+	width 322px
+	background url(../img/promo.png)
+	background-repeat no-repeat
+	background-position-x 0
+	background-position-y top
+	background-size 60%
+	height 64px
+	// float left
+	
+	
+.PromoCopy
+	display inline-block
+	width 100%
+	text-align center
+	padding 0 0 0 0
+	font-weight bold
+	text-align left
+	
+.Promo-amount
+	font-weight 700
+
 .Last-cta
 	border-bottom none
 
@@ -1542,6 +1602,12 @@ p
 		background #7dcd40
 		color white
 	
+.Payment-details
+	padding 20px 0 15px 20px
+	p
+		font-size 14px
+		font-weight 200
+		line-height 21px
 
 
 // FAQ	

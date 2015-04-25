@@ -28,10 +28,10 @@
               <a href="../#CourseBanner" class="MainMenu-link">Cursos</a>
             </li>
             <li class="MainMenu-option">
-              <a href="faq.html" class="MainMenu-link">FAQ</a>
+              <a href="../faq.html" class="MainMenu-link">FAQ</a>
             </li>
             <li class="MainMenu-option">
-              <a href="acercaDe.html" class="MainMenu-link">Acerca de</a>
+              <a href="../acercaDe.html" class="MainMenu-link">Acerca de</a>
             </li>
           </ul>
         </nav>
@@ -60,7 +60,7 @@
         <div class="CourseDetails-container">
           <div class="CourseDetails-item duration">
             <h4 class="CourseDetails-title">Duración</h4>
-            <p class="CourseDetails-content">108<span>h</span></p>
+            <p class="CourseDetails-content">108<span><a style="cursor:default" href="../templates/courseTemplate.html">h</a></a></span></p>
           </div>
           <div class="CourseDetails-item location">
             <h4 class="CourseDetails-title">Curso</h4>
@@ -137,7 +137,7 @@
     <section id='Details' class="Details NewSection">
       <div class='u-wrapper center'>
         <h2 class="Section-title Section-titleDetails">Detalles del curso</h2>
-        <p class="Section-description">Hay tres opciones posibles para realizar este curso.</p>
+        <p class="Section-description">Hay <strong>tres opciones</strong> posibles para realizar este curso.</p>
         <div class='Details-containerTabs'>
           <ul class="Details-list" data-tab >
             <li class=" Details-item active"><a  href="#panel1">1ª</a></li>
@@ -147,78 +147,75 @@
         </div>
         <div class="tabs-content Details-containerContent">
           <div class="content Details-content active" id="panel1">
-            <div class="Closed">
-              <a href="../#Newsletter" class="Closed-link">Entérate de la próxima fecha de inscripción</a>
+            <div class="Promo">
+              <div class="PromoLabel"></div>
+              <div class="PromoCopy">
+                <p>Inscripción gratuita hasta el Sábado 2 de Mayo a las 24:00h.<span class="Promo-amount"> Ahorras 190€</span> </p>
+              </div>
             </div>
             <p class="Details-ContentTitle Details-ContentTitle--year">
-              Curso 2015 - 2016
+              Curso 2015
             </p>
             <p class="Details-ContentTitle">
-              En la 1ª opción puedes escoger entre el grupo A o el grupo B.
+              La 1ª opción es <b>semipresencial</b> y está compuesta por tres modulos. 
             </p>
-            <div class="Details-group GroupA colorAfic">
-              <div class="Details-date">
-                <div class="Group-calendar Group-itme">
-                  <div class="Icon"></div>
-                  <div class="LetterAfic">A</div>
-                </div>
-                <div class="Group-date Group-itme">
-                  <span class="Group-dateMonth">Oct</span>
-                  <span class="Group-dateDay">07</span>
-                </div>
-                <div class="Group-divider Group-itme">
-                  <span>a</span>
-                  <div class="Line"></div>
-                </div>
-                <div class="Group-date Group-itme">
-                  <span class="Group-dateMonth">May</span>
-                  <span class="Group-dateDay">18</span>
+            <div class="Details-contentModule--container">
+              <div class="Details-contentModule online colorAfic">
+                <h4 class="colorAfic">Módulo online</h4>
+                <p class="colorAfic">Acceso a contenido didáctico en Moodle, comunicación entre alumnos y profesores, ejercicios de autoevaluación y mucho más.</p>
+              </div>
+              <div class="Details-group Details-group--solo">
+                <div class="Details-date Details-dateSolo">
+                  <div class="Group-calendar Group-itme colorAfic">
+                    <div class="Icon"></div>
+                    <div class="Letter"></div>
+                  </div>
+                  <div class="Group-date DateLeft Group-itme colorAfic">
+                    <span class="Group-available">Disponible desde</span>
+                  </div>
+                  <div class="Group-date  Group-availableDay colorAfic">
+                    <span class="Group-dateMonth">May</span>
+                    <span class="Group-dateDay">04</span>
+                  </div>
                 </div>
               </div>
-              <div class="Detail-time">
-                <h4 class="Detail-timeDay colorAfic">Todos los Miércoles</h4>
-                <div class="Detail-time-Content">
-                  <p class="Detail-timeItem">Horarios: 17:30h a 21:30h</p>
-                  <p class="Detail-timeItem">Excepto: 30 DIC, 6 ENE</p>
+              <div class="Details-contentModule presencial ">
+                <h4>Módulo presencial intensivo:</h4>
+                <p>Dos semanas intensivas.</p>
+              </div>
+              <div class="Details-group Details-group--solo ">
+                <div class="Details-date Details-dateSolo">
+                  <div class="Group-calendar Group-itme">
+                    <div class="Icon"></div>
+                    <div class="Letter"></div>
+                  </div>
+                  <div class="Group-date DateLeft Group-itme">
+                    <span class="Group-dateMonth">Jul</span>
+                    <span class="Group-dateDay">06</span>
+                  </div>
+                  <div class="Group-divider Group-itme">
+                    <span>a</span>
+                    <div class="Line"></div>
+                  </div>
+                  <div class="Group-date DateRight Group-itme">
+                    <span class="Group-dateMonth">Jul</span>
+                    <span class="Group-dateDay">17</span>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="Details-group GroupB">
-              <div class="Details-date colorGreen">
-                <div class="Group-calendar Group-itme">
-                  <div class="Icon"></div>
-                  <div class="LetterGreen">B</div>
-                </div>
-                <div class="Group-date DateLeft Group-itme">
-                  <span class="Group-dateMonth">Oct</span>
-                  <span class="Group-dateDay">09</span>
-                </div>
-                <div class="Group-divider Group-itme">
-                  <span>a</span>
-                  <div class="Line"></div>
-                </div>
-                <div class="Group-date DateRight Group-itme">
-                  <span class="Group-dateMonth">May</span>
-                  <span class="Group-dateDay">20</span>
-                </div>
-              </div>
-              <div class="Detail-time colorGreen">
-                <h4 class="Detail-timeDay colorGreen">Todos los Viernes</h4>
-                <div class="Detail-time-Content">
-                  <p class="Detail-timeItem">Horarios: 10:00h a 14:00h</p>
-                  <p class="Detail-timeItem">Excepto: 25 DIC, 1 ENE, 25 MAR</p>
-                </div>
+              <div class="Details-contentModule exam">
+                <h4 class="colorPrimari">Examen presencial</h4>
               </div>
             </div>
             <div class="Details-contentCTA">
               <div class="Details-contentCTA--container">
                 <h4 class="Details-contentCTA--title"><span>Inscríbete</span> hoy al curso</h4>
                 <div class="Details-btn">
-                  <a href="#price" id='MainSection-cta' class='MainSection-cta btn btn-big btn-Red buttonWhite' >Empieza ya</a>
+                  <a href="#price" data-tooltip aria-haspopup="true" title="Infórmate: info@cursosmasajereus.com - 680910933" id='MainSection-cta' class='MainSection-cta btn btn-big btn-Red buttonWhite' >Empieza ya</a>
                 </div>
               </div>
-            </div>              
-          </div>
+            </div> 
+          </div> 
           <div class="content Details-content " id="panel2">
             <div class="Closed">
               <a href="../#Newsletter" class="Closed-link">Entérate de la próxima fecha de inscripción</a>
@@ -301,48 +298,66 @@
             </div> 
           </div>
           <div class="content Details-content" id="panel3">
+            <div class="Closed">
+              <a href="../#Newsletter" class="Closed-link">Entérate de la próxima fecha de inscripción</a>
+            </div>
             <p class="Details-ContentTitle Details-ContentTitle--year">
-              Curso 2015
+              Curso 2015 - 2016
             </p>
             <p class="Details-ContentTitle">
-              La 3ª opción es <b>semipresencial</b> y está compuesta por tres modulos. 
+              En la 3ª opción puedes escoger entre el grupo A o el grupo B.
             </p>
-            <div class="Details-contentModule--container">
-              <div class="Details-contentModule online">
-                <h4>Módulo online</h4>
-                <p>Acceso a contenido didáctico en Moodle, comunicación entre alumnos y profesores, ejercicios de autoevaluación y mucho más.</p>
-              </div>
-              <div class="Details-contentModule exam">
-                <h4>Examen presencial</h4>
-              </div>
-              <div class="Details-contentModule presencial ">
-                <h4>Módulo presencial intensivo:</h4>
-                <p>Dos semanas intensivas.</p>
-              </div>
-            </div>
-            <div class="Details-group">
-              <div class="Details-date Details-dateSolo">
+            <div class="Details-group GroupA colorAfic">
+              <div class="Details-date">
                 <div class="Group-calendar Group-itme">
                   <div class="Icon"></div>
-                  <div class="Letter"></div>
+                  <div class="LetterAfic">A</div>
+                </div>
+                <div class="Group-date Group-itme">
+                  <span class="Group-dateMonth">Oct</span>
+                  <span class="Group-dateDay">07</span>
+                </div>
+                <div class="Group-divider Group-itme">
+                  <span>a</span>
+                  <div class="Line"></div>
+                </div>
+                <div class="Group-date Group-itme">
+                  <span class="Group-dateMonth">May</span>
+                  <span class="Group-dateDay">18</span>
+                </div>
+              </div>
+              <div class="Detail-time">
+                <h4 class="Detail-timeDay colorAfic">Todos los Miércoles</h4>
+                <div class="Detail-time-Content">
+                  <p class="Detail-timeItem">Horarios: 17:30h a 21:30h</p>
+                  <p class="Detail-timeItem">Excepto: 30 DIC, 6 ENE</p>
+                </div>
+              </div>
+            </div>
+            <div class="Details-group GroupB">
+              <div class="Details-date colorGreen">
+                <div class="Group-calendar Group-itme">
+                  <div class="Icon"></div>
+                  <div class="LetterGreen">B</div>
                 </div>
                 <div class="Group-date DateLeft Group-itme">
-                  <span class="Group-dateMonth">Jul</span>
-                  <span class="Group-dateDay">06</span>
+                  <span class="Group-dateMonth">Oct</span>
+                  <span class="Group-dateDay">09</span>
                 </div>
                 <div class="Group-divider Group-itme">
                   <span>a</span>
                   <div class="Line"></div>
                 </div>
                 <div class="Group-date DateRight Group-itme">
-                  <span class="Group-dateMonth">Jul</span>
-                  <span class="Group-dateDay">17</span>
+                  <span class="Group-dateMonth">May</span>
+                  <span class="Group-dateDay">20</span>
                 </div>
               </div>
-              <div class="Detail-time Detail-timeSolo">
-                <h4 class="Detail-timeDay">De Lunes a Viernes</h4>
+              <div class="Detail-time colorGreen">
+                <h4 class="Detail-timeDay colorGreen">Todos los Viernes</h4>
                 <div class="Detail-time-Content">
-                  <p class="Detail-timeItem">Horarios: 09:00 pm > 15:00 pm</p>
+                  <p class="Detail-timeItem">Horarios: 10:00h a 14:00h</p>
+                  <p class="Detail-timeItem">Excepto: 25 DIC, 1 ENE, 25 MAR</p>
                 </div>
               </div>
             </div>
@@ -350,11 +365,10 @@
               <div class="Details-contentCTA--container">
                 <h4 class="Details-contentCTA--title"><span>Inscríbete</span> hoy al curso</h4>
                 <div class="Details-btn">
-                  <a href="#price" data-tooltip aria-haspopup="true" title="Infórmate: info@cursosmasajereus.com - 680910933" id='MainSection-cta' class='MainSection-cta btn btn-big btn-Red buttonWhite' >Empieza ya</a>
+                  <a href="#price" id='MainSection-cta' class='MainSection-cta btn btn-big btn-Red buttonWhite' >Empieza ya</a>
                 </div>
               </div>
-            </div> 
-          </div> 
+            </div>              
         </div>
       </div>
     </section>
@@ -429,8 +443,8 @@
           <div class="Footer-nav">
             <ul class="Footer-navList">
               <li class="Footer-navLink"><a href="../#CourseBanner">Cursos</a></li>
-              <li class="Footer-navLink"><a href="faq.html">FAQs</a></li>
-              <li class="Footer-navLink"><a href="acercaDe.html">Acerca de</a></li>
+              <li class="Footer-navLink"><a href="../faq.html">FAQs</a></li>
+              <li class="Footer-navLink"><a href="../acercaDe.html">Acerca de</a></li>
             </ul>
           </div>
         </div>

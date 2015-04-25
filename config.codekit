@@ -688,13 +688,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/precio-ahorro.jpg": {
+	"\/static\/img\/Precio-ahorro.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4628,
-		"inputAbbreviatedPath": "\/static\/img\/precio-ahorro.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/precio-ahorro.jpg",
+		"initialSize": 4612,
+		"inputAbbreviatedPath": "\/static\/img\/Precio-ahorro.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/Precio-ahorro.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

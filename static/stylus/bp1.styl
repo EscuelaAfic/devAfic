@@ -979,8 +979,8 @@ p
 	
 .Tab-title
 	text-transform uppercase
-	color rgba(black,.4)
-	font-weight 700
+	color gray
+	font-weight 400
 	font-size 14px
 	border-bottom border
 
@@ -988,42 +988,44 @@ p
 	font-size 16px
 	line-height 21px
 	margin 0
+	color gray
 	
 .Tab-option
 	display inline-block
 	width 100%
-	border-radius 5px
-	border-top 30px solid rgba(afic,1)
+	// background rgba(#e4e4e4,1)
+	// background rgba(black,.05)
+	border-radius 25px 
+	border border
 	margin 20px 0 10px 0 
-	box-shadow 0 1px 25px rgba(black,.3)
-	padding 0 0 15px 0 
+	padding 0 0 30px 0 
 	text-align left
-
-.Tab-optionB
-	// background rgba(c_naturopatia,.2)
-	border-top 30px solid rgba(c_naturopatia,1)
 
 .Tab-optionHeader
 	padding 50px 15px 0 30px
-	background rgba(afic,.05)
 	h4
 		margin 0
 	
 .Tab-optionTitle
 	font-size 24px
-	font-weight bold
-	color #b95400
+	font-weight 200
+	color afic
+	border-bottom 1px solid afic
+
+.Tab-optionTitleB
+	color secundari
+	border-bottom 1px solid secundari
 	
-.colorB
-	color #507d00
+// .colorB
+// 	color #73b500
 
 .Tab-optionMainsection
 	padding 8px 15px 30px 30px
-	font-size 16px
-	line-height 21px
-	color #b95400
-	background rgba(afic,.05)
-	
+	p
+		color gray
+		font-size 14px
+		line-height 19px
+		
 .Tab-optionFooter
 	padding 10px 15px 20px 30px
 	position relative
@@ -1035,7 +1037,7 @@ p
 	display inline-block
 	width 30px
 	&:before
-		color #b95400
+		color gray
 		font-family icomoon
 		content "\f133"
 		font-size 21px
@@ -1048,39 +1050,43 @@ p
 	border-left border
 	padding 0 0 0 10px 
 	p 
-		color #b95400
+		color gray
 		font-weight normal
-		line-height 21px
-		font-size 16px
+		line-height 19px
+		font-size 14px
 		
 .Tab-optionFooter--time
-	// padding 0 0 30px 0 
-	color #b95400
-	
-.Tab-optionFooter--timeB
-	color #507d00
-		
-.Tab-optionFooter--iconB
-	display inline-block
-	width 30px
-	&:before
-		color #507d00
-		font-family icomoon
-		content "\f133"
-		font-size 21px
-
-.Tab-optionFooter--detailB
-	position absolute
-	top 15px
-	display inline-block
-	vertical-align moddle
-	border-left border
-	padding 0 0 0 10px 
 	p 
-		color #507d00
 		font-weight normal
-		line-height 21px
-		font-size 16px
+		line-height 19px
+		font-size 14px
+		color gray
+	// color #b95400
+	
+// .Tab-optionFooter--timeB
+// 	color #507d00
+		
+// .Tab-optionFooter--iconB
+// 	display inline-block
+// 	width 30px
+// 	&:before
+// 		color #507d00
+// 		font-family icomoon
+// 		content "\f133"
+// 		font-size 21px
+
+// .Tab-optionFooter--detailB
+// 	position absolute
+// 	top 15px
+// 	display inline-block
+// 	vertical-align moddle
+// 	border-left border
+// 	padding 0 0 0 10px 
+// 	p 
+// 		color #507d00
+// 		font-weight normal
+// 		line-height 21px
+// 		font-size 16px
 
 .Tab-cta
 	padding 20px 0 
@@ -1296,6 +1302,9 @@ p
 
 .Last-cta
 	border-bottom none
+
+.Banner-AItem--promo
+	text-decoration line-through
 
 
 // Descount

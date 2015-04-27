@@ -1,3 +1,7 @@
+
+
+// Estilos generales
+
 body
 	font-family bodyFont
 	color c_bodyFont
@@ -25,6 +29,12 @@ p
 
 .center
 	text-align center
+
+.link
+	text-decoration underline
+	color primari
+	font-weight 600
+
 
 // Heeader
 
@@ -172,7 +182,6 @@ p
 	margin 0
 	font-size 16px
 	line-height 23px
-
 
 
 // CourseNavigation
@@ -603,8 +612,7 @@ p
 		a
 			color c_bodyFont
 			coursor default
-			
-		
+				
 .certificate
 	font-size 14px
 	line-height 16px
@@ -888,37 +896,12 @@ p
 
 .Details
 	padding-bottom 0
-	
-.Closed
-	text-align center
-	padding 0 0 15px 0 
-	span
-		font-size 14px
-		text-transform uppercase
-		padding 2px 7px
-		border-radius 5px
-		border 1px solid primari
-		color primari
-	a
-		display block
-		font-weight 600
-		padding 5px 0 0 0 
-		text-decoration underline
 
-.Details-containerTabs
+// .Details-content
+// 	text-align center
+
+.Details-tabs
 	padding 30px 0 15px 0 
-	
-.Details-ContentTitle
-	text-align center
-
-.Details-ContentTitle--year
-	background primari 
-	color white
-	font-weight bold
-	display inline-block
-	padding 2px 7px
-	border-radius 5px
-	margin 0 0 5px 0 
 
 .Details-list
 	display inline-block
@@ -960,222 +943,128 @@ p
 	span
 		display none
 
-.Details-containerContent
-	margin-bottom 0
-
-.Details-content
-	text-align center
-
-.colorPrimari
-	color primari
-
-.colorAfic
-	color afic
-	
-.colorGreen
-	color c_naturopatia
-
-.Details-group
-	display inline-block
-	width 100%
-	background rgba(black,.07)
-	padding 15px
-	margin 15px 0 0 0
-	border-radius 10px
-	border border
-	
-.Details-group--solo
-	margin 10px 0 30px 0
-	
-.Details-date2
+.Tab-header
+	padding 30px 0 15px 0 
 	text-align left
 	
-.Details-date
-	text-align center
-
-.Group-itme
-	display inline-block
-
-.Group-date-contaiiner
-	margin -55px 0 0 65px
-	padding 0 0 20px 0
-
-.Group-itmeNext
-	display inline-block
-	margin 0 
-	width 75px
-
-.Group-calendar
-	position relative
-
-.Group-itmeNote
-	margin -15px 0 0 0
-
-.Icon
-	display inline-block
-	&:before
-		content '\f133'
-		font-family icomoon
-		font-size 38px
-	
-.Group-solo
-	display block
-	width 100%
-	text-align center
-
-.IconSolo
-	display inline-block
-		
-.LetterAfic
-	display inline-block
-	background afic
-	padding 0px 12px
-	color white
-	font-weight 600
-	position absolute
-	top 22px
-	left 1px
-
-.LetterGreen
-	display inline-block
-	background c_naturopatia
-	padding 0px 12px
-	color white
-	font-weight 600
-	position absolute
-	top 22px
-	left 1px
-
-.Group-itme
-	display inline-block
-	
-.Group-date
-	width 50px
-	text-align center
-
-.Group-dateYear
-	display inline-block
-	font-size 14px
-	line-height -2px
-	position relative
-	left -20px
-
-.Group-dateMonth
-	display inline-block
+.Tab-title
 	text-transform uppercase
-	line-height 0px
-	
-.Group-dateDay
-	display inline-block
-	font-weight bold
-	width 100%
-	margin 0
-	font-size 21px
-	line-height -2px
-	
-.Group-divider
-	padding 0 5px
-	
-.Group-available
-	display inline-block
-	text-align right
-	font-weight bold
-	font-size 16px
-	line-height 18px
-	margin 0 0 0 10px
-	position relative
-	top 2px
-	
-.Group-availableDay
-	display inline-block
-	margin 0 0 0 45px
-	position relative
-	top 5px
-	
-.link
-	text-decoration underline
-	color primari
-	font-weight 600
+	color rgba(black,.4)
+	font-weight 700
+	font-size 14px
+	border-bottom border
 
-.Detail-time
-	padding 10px 0 0 0	
+.Tab-subTitle
+	font-size 16px
+	line-height 21px
+	margin 0
 	
-.Detail-timeDay
+.Tab-option
+	display inline-block
+	width 100%
+	border-radius 5px
+	border-top 30px solid rgba(afic,1)
+	margin 20px 0 10px 0 
+	box-shadow 0 1px 25px rgba(black,.3)
+	padding 0 0 15px 0 
+	text-align left
+
+.Tab-optionB
+	// background rgba(c_naturopatia,.2)
+	border-top 30px solid rgba(c_naturopatia,1)
+
+.Tab-optionHeader
+	padding 50px 15px 0 30px
+	h4
+		margin 0
+	
+.Tab-optionTitle
 	font-size 18px
 	font-weight bold
+	color #b95400
+	
+.colorB
+	color #507d00
 
-.Detail-timeItem
-	display block	
+.Tab-optionMainsection
+	padding 8px 15px 30px 30px
+	font-size 16px
+	line-height 21px
+	color #b95400
 	
-.Details-contentCTA--example
-	padding 30px 0 0px 0 
+.Tab-optionFooter
+	padding 10px 15px 30px 30px
+	position relative
 	
-.Details-contentCTA--container
-	padding 20px 0 30px 0
-	// border-top border
-	// border-bottom border
-	text-align center
-	margin 20px 0 0 0
-	
-.Details-contentCTA--title
-	display block
-	font-size 21px
-	text-align center
-	span
-		font-weight bold
-	
-.Details-btn
+.Tab-optionFooter--icon
 	display inline-block
-	padding 10px 0
+	width 30px
+	&:before
+		color #b95400
+		font-family icomoon
+		content "\f133"
+		font-size 21px
 
-.Details-contentModule--container
-	margin 0 0 0 20px
-	padding 30px 0 20px 0 
-	text-align left
-	h4
-		font-weight bold
+.Tab-optionFooter--detail
+	position absolute
+	top 15px
+	display inline-block
+	vertical-align moddle
+	border-left border
+	padding 0 0 0 10px 
+	p 
+		color #b95400
+		font-weight normal
+		line-height 21px
 		font-size 16px
-	p
-		margin 0 0 0 30px
-	.online
-		&:before
-			font-size 18px
-			font-family icomoon
-			content "\e606"
-			float left
-			display inline-block
-			margin 0 10px 0 0 
-	.exam
-		&:before
-			font-size 18px
-			font-family icomoon
-			content "\e607"
-			float left
-			color primari
-			display inline-block
-			margin 0 10px 0 0 
-	.presencial
-		color secundari
-		h4
-			color secundari
-		&:before
-			font-size 18px
-			font-family icomoon
-			content "\e602"
-			float left
-			display inline-block
-			margin 0 10px 0 0 
-			
-.Details-dateSolo
-	color secundari
+		
+.Tab-optionFooter--time
+	// padding 0 0 30px 0 
+	color #955400
 	
-.Detail-timeSolo
-	color secundari
-	h4
-		color secundari
+.Tab-optionFooter--timeB
+	color #507d00
+		
+.Tab-optionFooter--iconB
+	display inline-block
+	width 30px
+	&:before
+		color #507d00
+		font-family icomoon
+		content "\f133"
+		font-size 21px
 
-.Questions
-	padding 15px 0 20px 0
+.Tab-optionFooter--detailB
+	position absolute
+	top 15px
+	display inline-block
+	vertical-align moddle
+	border-left border
+	padding 0 0 0 10px 
+	p 
+		color #507d00
+		font-weight normal
+		line-height 21px
+		font-size 16px
+
+.Tab-cta
+	padding 20px 0 
+	
+.btn-container
+	text-align center
+
+.Tab-ctaTitle
+	font-size 21px
+	display inline-block
+	width 100%
+	text-align center
+	
+.btn-container
+	display inline-block
+	width 100%
+	padding 20px 0
+	
+.Closed
 	text-align center
 
 

@@ -35,6 +35,21 @@ p
 	color primari
 	font-weight 600
 
+.spanLink
+	color primari
+	font-weight 600
+	display block
+	width 140px
+	line-height 18px
+	text-decoration underline
+	// &:after
+	// 	font-family icomoon
+	// 	content: "\e600";
+	// 	position relative
+	// 	font-size 20px
+	// 	top 3px	
+	&:hover
+		color afic
 
 // Heeader
 
@@ -293,21 +308,6 @@ p
 	bottom 0
 	left 0
 
-.spanLink
-	color primari
-	font-weight 600
-	display block
-	width 140px
-	line-height 18px
-	&:after
-		font-family icomoon
-		content: "\e600";
-		position relative
-		font-size 20px
-		top 3px	
-	&:hover
-		color afic
-		
 .agujasIntradermicas-small
 .amma-small
 .ampuku-small
@@ -473,7 +473,7 @@ p
 	margin 0 0 0 0 
 	line-height 8px
 	p
-		font-weight 600
+		font-weight 400
 		margin 0 0 0 30px
 	&:before
 		position relative
@@ -486,24 +486,20 @@ p
 
 .Footer-navList
 	text-align left
-	padding 0 0 0 1rem
+	padding 15px 0 0 15px
 	margin 0 0 0 0 
 
 .Footer-navLink
-	display inline-block
+	display block
 	margin 0 0 0 0 
+	padding 5px 0 0 0 
 	display list-item
 	&:first-child
 		margin 0
 	a
 		color white
 		font-size 1rem
-		&:after
-			font-family icomoon
-			content: "\e600";
-			position relative
-			font-size 20px
-			top 3px	
+		text-decoration underline
 		&:hover
 			color afic
 
@@ -512,9 +508,17 @@ p
 
 .Footer-extraInfo
 	text-align left
-	margin 1em 0 0 0
+	margin 15px 0
+	max-width 400px
 	p
-		font-weight 600
+		font-weight 400
+		font-size 16px
+		line-height 23px
+		strong
+			display block
+			font-size 21px
+			line-height 27px
+			margin 20px 0 5px 0 
 
 .Footer-cta
 	display inline-block
@@ -1546,7 +1550,54 @@ p
 
 // FAQ	
 
+.GoUp-link
+	background #e88400
+	width 60px
+	height 60px
+	border-radius 50%
+	position fixed
+	right 15px
+	bottom 30px
+	z-index 5
+	box-shadow 1px 1px 5px rgba(black,.5)
+	text-align center
+	&:after
+		font-family icomoon
+		content: "\f062";
+		position relative
+		font-size 34px
+		top 3px	
+		display inline-block
+		color white
+
+.Faq-container
+	text-align center	
+
+.Faq-buttonList
+	padding 30px 0 
+	display inline-block
+	// border-bottom border
+	h2
+		font-size 16px
+		line-height 21px
+		margin 0 0 16px 0
+		text-decoration underline
+		&:hover
+			text-decoration underline
+			color primari
+
+.Faq-buttonContainer
+	text-align left
+	li
+		display block
+		max-width 550px
+		
+.Faq-listContainer
+	max-width 550px
+	text-align left
+
 .Faq-list
+	display inline-block
 	padding 30px 0 10px 
 
 .Faq-item

@@ -221,22 +221,33 @@ p
 
 .CourseBanner
 	padding 30px 0 10px 0
-	text-align center
+	
+.Main-CourseBanner
+	padding 30px 0 10px 0
 
 .CourseBanner-title
-	font-size 24px
+	font-size 1.5em
 	text-align center
-	display inline-block
 	letter-spacing -1px
-	line-height 29px
+	line-height 1.3em 
 	font-weight 600
-	margin 0 0 0 0
+	margin 0 0 20px 0
+
+.Main-CourseBanner-title
+	font-size 2em
+	text-align center
+	letter-spacing -1px
+	line-height 1.3em 
+	font-weight 600
+	margin 0 0 20px 0
 	
-.CourseBanner-description
-	text-align left
-	margin 0
+.Main-CourseBanner-description
+	text-align center
+	margin 0 auto
 	font-size 16px
 	line-height 23px
+	max-width 655px
+
 
 
 // CourseNavigation
@@ -251,8 +262,9 @@ p
 	padding 0
 
 .CourseNavigation-list
-	margin 0
+	margin 0 auto
 	text-align center
+	max-width 600px
 	dd
 		display inline-block
 		margin 0 .5rem .5rem 0
@@ -754,6 +766,7 @@ p
 
 // Learn
 
+
 .LearnShort
 	padding-bottom 0
 
@@ -1033,9 +1046,6 @@ p
 	color secundari
 	border-bottom 1px solid secundari
 	
-// .colorB
-// 	color #73b500
-
 .Tab-optionMainsection
 	padding 8px 15px 30px 30px
 	p
@@ -1080,31 +1090,6 @@ p
 		color gray
 	// color #b95400
 	
-// .Tab-optionFooter--timeB
-// 	color #507d00
-		
-// .Tab-optionFooter--iconB
-// 	display inline-block
-// 	width 30px
-// 	&:before
-// 		color #507d00
-// 		font-family icomoon
-// 		content "\f133"
-// 		font-size 21px
-
-// .Tab-optionFooter--detailB
-// 	position absolute
-// 	top 15px
-// 	display inline-block
-// 	vertical-align moddle
-// 	border-left border
-// 	padding 0 0 0 10px 
-// 	p 
-// 		color #507d00
-// 		font-weight normal
-// 		line-height 21px
-// 		font-size 16px
-
 .Tab-cta
 	padding 20px 0 
 	
@@ -1121,7 +1106,7 @@ p
 	display inline-block
 	width 100%
 	padding 20px 0
-	
+
 .Closed
 	text-align center
 
@@ -1194,15 +1179,17 @@ p
 // Price
 
 .Price
-	background #f0ebe4
+	background c_price
 	text-align center
+	padding-bottom 50px
 	
 .Section-title
 	text-align left
 
-.Price-container
-	display inline-block
-	max-width 360px
+// .Price-container
+// 	display block
+// 	width 100%
+// 	margin 0 auto
 
 .Price-logo
 	margin 0 auto
@@ -1212,121 +1199,108 @@ p
 		width 120px
 		height 120px
 
+.Price-CourseName
+	font-weight bold
+
 .Price-logoDetails
 	padding 10px 0 30px 0
 	
-.Price-list
+.Price-tableContainer
+	max-width 360px
+	margin 0 auto
+
+.Price-table
 	display inline-block
 	width 100%
-	
-.Price-item
-	border-bottom border
-	padding 10px 0 0 0
-	margin 0
+	background white
+	border-radius 5px
+
+.Price-tableTop
+	background c_quiromasaje
 	text-align left
-	height 50px
-	&:last-child
-		border-bottom none
-
-.Price-itemName
-	font-size 21px
-	color afic
-	font-family bebas
-
-.Price-itemPrice
-	text-align right
-	font-weight bold
-	font-size 21px
-	position relative
-	top -33px
-
-.Price-CourseName
-	display inline-block
-	text-align center
-	font-size 24px 
-	font-weight bold
-	width 100%
-	line-height 24px
-
-.Price-CourseAmount
-	// padding 0 30px 0 20px 
-	display inline-block
-	font-size 44px 
-	width 100%
-	line-height 44px
-	font-weight bold
-	text-align center
-	span
-		font-size 22px
-
-.Banner
-	display inline-block
-	width 100%
-	margin 30px 0 0 0
-
-.Banner-AList
-	text-align left
-	padding 0 0 0 15px 
-	font-weight 600
-
-.InterBannerContainer
-	text-align center
-	padding 20px 0 40px 0
-	position relative
-	span
-		background white
-		padding 5px 20px
-		position absolute 
-		left 42%
-	.line
-		border-top 1px solid rgba(black,.1)
-		width 50%
+	color white
+	padding 50px 0 80px 30px
+	border-radius 5px 5px 0 0 
+	h4
 		display inline-block
-
-.save
-	background url(../img/save.png)
-	background-repeat no-repeat
-	background-position-x top
-	background-position-y top
-	background-size 100%
-	width 100%
-	height 55px
+		font-weight bold
+		font-size 61px
+		color white
+	span
+		display inline-block
+		font-weight bold
+		font-size 31px
+	p
+		font-weight 600
+		font-size 18px
+		margin -15px 0 0 0 
+		width 150px
+		line-height 1em
+		color rgba(white,.7)
 	
-.Promo
-	padding 30px 
-	border-top border
-	border-bottom border
-	margin 0 0 30px 0 
-	overflow hidden
-	
-.PromoLabel
-	display inline-block
-	width 322px
-	background url(../img/promo.png)
-	background-repeat no-repeat
-	background-position-x 0
-	background-position-y top
-	background-size 60%
-	height 64px
-	// float left
-	
-	
-.PromoCopy
-	display inline-block
-	width 100%
+.Price-tableBottom
 	text-align center
-	padding 0 0 0 0
-	font-weight bold
-	text-align left
+	padding 30px 30px 40px 50px
+	border-radius 0 0 5px 5px
+	ul
+		padding 0 0 80px 0
+		li
+			color gray
+			text-align left
+			font-size 16px
+			line-height 25px
 	
-.Promo-amount
-	font-weight 700
+.Price-table--cta
+	display inline-block
+	margin 0 0 0 -15px
 
-.Last-cta
-	border-bottom none
 
-.Banner-AItem--promo
-	text-decoration line-through
+// Course-faq
+
+.Course-faqTitle
+	font-size 24px
+	line-height 29px
+	padding 30px 0 
+	font-weight 200
+	letter-spacing 0px
+	margin 0 
+	border-top border
+
+.Course-faq
+	background #f0ebe4
+	text-align left
+	padding 0 0 50px 0 
+	h3
+		text-align left
+
+.Course-faqList
+	display inline-block
+	li
+		display inline-block
+		width 100%
+		// width 48%
+		vertical-align top
+		padding 0 10px 0 0 
+
+.Course-faqLink
+	p
+		text-align left
+		font-weight 200
+		font-size 16px
+		line-height 26px
+		&:hover
+			color primari
+
+.Course-faqLink
+	h4
+		text-align left
+		font-weight 200
+		font-size 16px
+		line-height 26px
+		max-width 500px
+		padding-right 10px
+		&:hover
+			color primari
 
 
 // Descount
@@ -1656,37 +1630,7 @@ p
 		font-size 21px
 	
 
-// Course-faq
 
-.Course-faqTitle
-	border-top border
-
-.Course-faq
-	background #f0ebe4
-	text-align center
-	padding 0 0 50px 0 
-	h3
-		text-align left
-
-.Course-faqList
-	display inline-block
-	li
-		display inline-block
-		width 100%
-		// width 48%
-		vertical-align top
-		padding 0 10px 0 0 
-		
-
-.Course-faqLink
-	h4
-		text-align left
-		font-weight 200
-		font-size 16px
-		line-height 21px
-		text-decoration underline
-		&:hover
-			color primari
 
 
 

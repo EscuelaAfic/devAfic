@@ -11,6 +11,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/cursos\/agujas.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cursos\/agujas.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/cursos\/cyriax.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cursos\/cyriax.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/cursos\/inscripcion.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -34,6 +52,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/cursos\/quiromasaje.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/cursos\/vendaje.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cursos\/vendaje.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -161,6 +188,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/hero\/agujas-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89198,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/agujas-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/agujas-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/agujas-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42226,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/agujas-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/agujas-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/home-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -227,17 +276,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/static\/img\/hero\/quiromasaje-big.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 94735,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/quiromasaje-big.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/quiromasaje-big.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
 	"\/static\/img\/hero\/quiromasaje-presencial-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -260,38 +298,27 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/static\/img\/hero\/quiromasaje-small.jpg": {
+	"\/static\/img\/hero\/vendaje-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 21005,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/quiromasaje-small.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/quiromasaje-small.jpg",
+		"initialSize": 74910,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/vendaje-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/vendaje-big.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/static\/img\/hero\/reflexologia-big.jpg": {
+	"\/static\/img\/hero\/vendaje-small.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 59490,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/reflexologia-big.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/reflexologia-big.jpg",
+		"initialSize": 28885,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/vendaje-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/vendaje-small.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/static\/img\/hero\/reflexologia-small.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 17971,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/reflexologia-small.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/reflexologia-small.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/icons-big.png": {
 		"fileType": 32768,

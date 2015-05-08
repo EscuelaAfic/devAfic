@@ -276,8 +276,12 @@
 
 // Details
 
+.Section-description
+	text-align left
+	padding 0 0 0 15px
+
 .Details
-	margin 80px 0 -25px 0
+	margin 50px 0 0 0
 	padding-bottom 30px
 
 .Details-list
@@ -296,8 +300,10 @@
 			height 70px
 			border-radius 10px 10px 0 0 
 			border none
-			color white
+			color rgba(black,.5)
 			line-height 70px
+			position relative
+			top -5px
 	
 .Details-item
 	display inline-block
@@ -311,46 +317,54 @@
 		display inline-block
 		height 60px
 		border-radius 10px 10px 0 0 
-		background rgba(black,.1)
-		color rgba(black,.5)
+		background rgba(black,.5)
+		color white
 		line-height 60px	
 	span 
 		display inline-block
 
-.Section-titleDetails
-.Section-titlePrice
-	text-align center
 
-.Details-contentCTA--title
-	display inline-block
-	padding 0 20px 0 0 
-	font-size 28px
+		
+.Details-tabs
+	padding 30px 0 0 0 
+	position relative
+	top 5px
 
-.Detail-timeSecond
-	text-align left
+// .Section-titleDetails
+// .Section-titlePrice
+// 	text-align center
+
+// .Details-contentCTA--title
+// 	display inline-block
+// 	padding 0 20px 0 0 
+// 	font-size 28px
+
+// .Detail-timeSecond
+// 	text-align left
 
 .Details-content
 	text-align center
 
 .Tab-option
-	width 48%
-	margin 20px 10px 0 0 
-	vertical-align top
-
-.Tab-optionB
+	text-align left
+	display inline-block
+	width 47%
 	margin 20px 0 0 0 
-	
+	vertical-align top
+	&:nth-child(even)
+		margin 20px 10px 0 0
+		
+		
+
 .Tab-cta
-	padding 50px 0 20px 0
+	padding 30px 0 20px 0
 
 .Tab-ctaTitle
-	font-size 28px
-	width 40%
-	text-align right
+	display inline-block
+	width 250px
 	
 .btn-container
-	width 25%
-	padding 20px 0
+	width 130px
 
 
 // Answer

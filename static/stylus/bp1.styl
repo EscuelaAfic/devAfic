@@ -953,14 +953,16 @@ p
 	text-align center
 	font-size 16px 
 	line-height 21px
+	
+.Section-titleDetails
+	padding-bottom 10px
 
-.Details
-	padding-bottom 0
+.Details-content
 	background secundariLight
-	margin 30px 0 -25px 0
+	border-radius 5px
 
-.Details-content > .Tab-cta
-	text-align center
+.tabs-content > .content
+	padding-bottom 0
 
 .Details-tabs
 	padding 30px 0 15px 0 
@@ -982,8 +984,8 @@ p
 			height 70px
 			border-radius 50%
 			border none
-			background c_naturopatia
-			color white
+			background secundariLight
+			color rgba(black,.5)
 			line-height 70px
 	
 .Details-item
@@ -999,120 +1001,99 @@ p
 		height 70px
 		font-weight bol
 		border-radius 50%
-		background rgba(black,.1)
-		color rgba(black,.5)
+		background rgba(black,.5)
+		color white
 		line-height 67px
 	span
 		display none
 
-.Tab-header
-	padding  15px 0 
-	text-align left
-	
 .Tab-title
 	text-transform uppercase
 	color gray
-	font-weight 400
+	font-weight bold
 	font-size 14px
 	margin 0
-	// border-bottom border
+	text-align center
 
 .Tab-subTitle
+	text-align center
 	font-size 16px
 	line-height 21px
+	padding 0 30px
 	margin 0
 	color gray
+	padding-bottom 10px
 	
 .Tab-option
-	display inline-block
-	width 100%
-	// background rgba(#e4e4e4,1)
-	background rgba(white,.5)
-	// background rgba(black,.05)
-	border-radius 5px 
-	// border border
-	margin 20px 0 10px 0 
-	padding 0 0 30px 0 
-	text-align left
-
-.Tab-optionHeader
-	padding 50px 15px 0 30px
-	h4
-		margin 0
+	background white
+	margin 10px
+	padding 30px 20px
+	border-radius 5px
 	
 .Tab-optionTitle
-	font-size 24px
-	font-weight 200
+	font-size 18px
+	font-weight bold
 	color afic
-	// border-bottom 1px solid afic
+	border-bottom 1px solid rgba(black,.1)
+	text-align center
+	padding-bottom 9px
 
-.Tab-optionTitleB
-	color secundari
-	// border-bottom 1px solid secundari
-	
 .Tab-optionMainsection
-	padding 8px 15px 30px 30px
+	padding 7px 0 14px 0
+	min-height 90px
 	p
-		color gray
+		// color gray
 		font-size 14px
 		line-height 19px
 		
 .Tab-optionFooter
-	padding 10px 15px 20px 30px
-	position relative
-	margin 20px 0 0 0
-	&:last-child
-		margin 0
+	padding 15px 0
+	border-top 1px solid rgba(black,.1)
+	min-height 80px
 	
 .Tab-optionFooter--icon
 	display inline-block
 	width 30px
+	float left
 	&:before
-		color gray
 		font-family icomoon
 		content "\f133"
-		font-size 21px
+		font-size 18px
+		position relative
+		top -3px
 
 .Tab-optionFooter--detail
-	position absolute
-	top 15px
-	display inline-block
-	vertical-align moddle
-	border-left border
-	padding 0 0 0 10px 
-	p 
-		color gray
-		font-weight normal
+	p
 		line-height 19px
 		font-size 14px
 		
 .Tab-optionFooter--time
+	margin 0 0 0 30px
 	p 
 		font-weight normal
 		line-height 19px
 		font-size 14px
-		color gray
-	// color #b95400
 	
 .Tab-cta
-	padding 20px 0 
+	background rgba(black,.05)
+	padding 20px 0 40px 0 
+	border-radius 0 0 5px 5px
+	margin-top 40px
 	
-.btn-container
-	text-align center
-
 .Tab-ctaTitle
 	font-size 21px
 	display inline-block
 	width 100%
 	text-align center
+	padding-bottom 10px
 	
 .btn-container
+	text-align center
 	display inline-block
 	width 100%
-	padding 20px 0
 
-.Closed
-	text-align center
+// .Closed
+// 	text-align center
 
 
 // Answer

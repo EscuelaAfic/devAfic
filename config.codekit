@@ -210,6 +210,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/hero\/cyriax-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85793,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/cyriax-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/cyriax-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/cyriax-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41100,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/cyriax-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/cyriax-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/home-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -683,16 +705,27 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/mapa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 490425,
+		"inputAbbreviatedPath": "\/static\/img\/mapa.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/mapa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/material-naturopatia.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.15102e+06,
+		"initialSize": 626493,
 		"inputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
 		"outputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/naturopatia.png": {
 		"fileType": 32768,
@@ -726,6 +759,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/static\/img\/online.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 488624,
+		"inputAbbreviatedPath": "\/static\/img\/online.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/online.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/img\/packa.png": {
 		"fileType": 32768,

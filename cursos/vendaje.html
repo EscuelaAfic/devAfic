@@ -57,22 +57,28 @@
     </section>
     <section class='CourseDetails'>
       <div class="u-wrapper">
-        <div class="CourseDetails-container">
+        <div class="CourseDetails-container CourseDetails-containerSolo">
           <div class="CourseDetails-item duration">
             <h4 class="CourseDetails-title">Duración</h4>
             <p class="CourseDetails-content">5<span>h</span></p>
+          <!-- <p class="CourseDetails-content">108<span><a style="cursor:default" href="../templates/courseTemplate.html">h</a></a></span></p> -->
           </div>
-          <div class="CourseDetails-item location locationSolo">
+          <div class="CourseDetails-item CourseDetails-itemSolo location locationSolo">
             <h4 class="CourseDetails-title">Curso</h4>
             <p class="CourseDetails-content ">Presencial</p>
           </div>
-          <div class="CourseDetails-item diploma">
+          <div class="CourseDetails-item CourseDetails-itemSolo incluye">
+            <h4 class="CourseDetails-title">Kit de material</h4>
+            <p class="CourseDetails-content">Incluye</p>
+            <p class="certificate">Rollo de vendaje de 5 metros</p>
+          </div>
+          <div class="CourseDetails-item CourseDetails-itemSolo diploma">
             <h4 class="CourseDetails-title">Consigue tu</h4>
             <p class="CourseDetails-content">Certificado</p>
             <p class="certificate">Certificado de Vendaje neuromuscular <a href="http://femalt.com/ " target="_blank" >Femalt</a></p>
           </div>
         </div>
-        <div class="CourseDetails-idealFor">
+        <div class="CourseDetails-idealFor CourseDetails-idealForSolo">
           <h4 class="idealFor-title">Ideal para</h4>
           <p class="idealFor-detail">Terapeutas que deseen complementar sus conocimientos en terapia manual con una técnica muy efectiva y ampliamente usada en el ámbito de la competición deportiva.</p>
         </div>
@@ -97,7 +103,7 @@
                 <div class="CourseList-courseData"><div class="quiromasaje-small quiromasaje-smallRecomended" width='80px' height='80px'></div></div>
                 <div class="CourseList-courseInfo">
                   <h3 class="CourseList-courseTitle Learn-recomendedTitle">Quiromasaje</h3>
-                  <a href="vendaje.html" class="spanLink">Ver más detalle</a>
+                  <a href="quiromasaje.html" class="spanLink">Ver más detalle</a>
                 </div>
               </div>
             </li>
@@ -124,16 +130,53 @@
         <div class="Learn-imgQuiroPresencial"></div>
       </div>
     </section>
-    <section id='Details' class="Details DetailsSolo NewSection">
-      <div class='u-wrapper'>
-        <h2 class="Section-title Section-titleDetails Section-titleDetailsSolo">Detalles del curso</h2>
-        <div class="Details-solo">
-          <div class="Tab-optionFooter--icon"></div>
-          <div class="Tab-optionFooter--detailSolo">
-            <p>19 de Mayo</p>
-            <p>Martes de 17:30 a 22:30h</p>
-          </div>
-        </div>
+    <section id='Details' class="Details NewSection">
+      <div class="u-wrapper">
+        <h2 class="Section-title Section-titleDetails Section-titleDetails--solo">Detalles del curso</h2>
+      </div>
+      <div class="tabs-content Details-containerContent ">
+        <div class="content Details-content active " id="panel1">
+          <header class="Tab-header">
+            <h3 class="Tab-title">Curso de un día</h3>
+          </header>
+          <section class="Tab-option">
+            <div class="Tab-container">
+              <div class="Tab-optionHeader">
+                <h4 class="Tab-optionTitle">Curso presencial</h4>
+              </div>
+              <div class="Tab-optionMainsection">
+                <p>Incluye un rollo de vendaje de 5 metros</p>
+              </div>
+              <div class="Tab-date">
+                <div class="Tab-date--left"><p>Fecha</p></div>
+                <div class="Tab-date--right"><p>Martes 19 Mayo</p></div>
+              </div>
+              <div class="Tab-date">
+                <div class="Tab-date--left"><p>Horario</p></div>
+                <div class="Tab-date--right"><p>17:30 a 22:30</p></div>
+              </div>
+              <div class="Tab-footer">
+                <div class="Tab-footer--imgLocal">
+                  <div class="Tab-footer--iconLocal"></div>
+                </div>
+                <div class="Tab-footer--detail">
+                  <p>Avda. La Salle, 45 Multioficinas MO Oficinas 8, 10 y 15 43205, Reus, Tarragona</p>
+                </div>
+              </div>
+            </div>
+            <div class="Tab-container">
+              <div class="Tab-option--afic"></div>
+            </div>
+          </section>
+          <section class="Tab-cta">
+            <div class="Tab-ctaContanier">
+              <h4 class="Tab-ctaTitle"><strong>Inscríbete</strong> hoy al curso</h4>
+              <div class="btn-container">
+                <a href="#price" class='btn btn-small btn-Red buttonWhite'>Empieza ya</a>
+              </div>
+            </div>
+          </section>
+        </div> 
       </div>
     </section>
     <section id='Answer' class="Answer">

@@ -297,14 +297,10 @@
 
 .Index-img
 	display inline-block
-	vertical-align middle
-	width 50%
-	margin 30px 0 0 0  
-	padding 20px 0 0 0 
+	width 100%
+	margin-top 30px8
 	img
-		width 115%
-		position relative
-		left -8%
+		width 100%
 	
 .Index-list
 	li
@@ -326,6 +322,48 @@
 .Details-list
 	margin 0 
 	padding 30px 0 40px 0
+
+.Details-list
+	display inline-block
+	width 100%
+	text-align center
+	padding 30px 0
+	.active
+		display inline-block
+		font-weight bold
+		font-size 24px
+		margin 0 5px
+		transition .2s
+		-webkit-transition .2s
+		a
+			display inline-block
+			width 70px 
+			height 30px
+			border-radius 5px 0 0 5px
+			border none
+			background red
+			color black
+			line-height 70px
+	
+.Details-item
+	display inline-block
+	font-size 24px
+	margin 0 5px
+	transition .2s
+	-webkit-transition .2s
+	a
+		display inline-block
+		width 70px 
+		height 70px
+		font-weight 200
+		border-radius 50%
+		border 2px solid afic
+		background none
+		color afic
+		line-height 68px
+	span
+		display none
+		
 
 .Details-tabs
 	padding 0
@@ -351,14 +389,20 @@
 .Tab-option--afic
 	width 400px
 	height 400px
-	background red
 	background url(../img/mariposa.png)
 	background-repeat no-repeat
 	background-size 50%
 	background-position-x center
 	background-position-y 60px
-	// -webkit-filter: blur(2px) grayscale(0) opacity(0.3);
 
+.Tab-option--PrimerAño
+	width 400px
+	height 400px
+	background url(../img/material-naturopatia.png)
+	background-repeat no-repeat
+	background-size 100%
+	background-position-x center
+	background-position-y 60px
 
 		
 .DetailsSolo

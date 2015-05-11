@@ -177,6 +177,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/curso1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110922,
+		"inputAbbreviatedPath": "\/static\/img\/curso1.png",
+		"outputAbbreviatedPath": "\/static\/img\/curso1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/equipo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -687,7 +698,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 44662,
+		"initialSize": 45222,
 		"inputAbbreviatedPath": "\/static\/img\/logoSlogan.png",
 		"outputAbbreviatedPath": "\/static\/img\/logoSlogan.png",
 		"outputPathIsOutsideProject": 0,
@@ -734,6 +745,17 @@
 		"initialSize": 12092,
 		"inputAbbreviatedPath": "\/static\/img\/mariposa.png",
 		"outputAbbreviatedPath": "\/static\/img\/mariposa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/material-naturopatia.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.15102e+06,
+		"inputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
+		"outputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -808,12 +830,23 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4628,
+		"initialSize": 4612,
 		"inputAbbreviatedPath": "\/static\/img\/Precio-ahorro.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/Precio-ahorro.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/static\/img\/primero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160017,
+		"inputAbbreviatedPath": "\/static\/img\/primero.png",
+		"outputAbbreviatedPath": "\/static\/img\/primero.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/img\/promo.png": {
 		"fileType": 32768,
@@ -881,6 +914,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/segundo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163220,
+		"inputAbbreviatedPath": "\/static\/img\/segundo.png",
+		"outputAbbreviatedPath": "\/static\/img\/segundo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/teachers\/amanda.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -924,6 +968,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/static\/img\/tercero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137585,
+		"inputAbbreviatedPath": "\/static\/img\/tercero.png",
+		"outputAbbreviatedPath": "\/static\/img\/tercero.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/js\/foundation.min.js": {
 		"fileType": 64,

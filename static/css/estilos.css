@@ -1600,6 +1600,9 @@ p {
   color: #fff;
   line-height: 70px;
 }
+.Details-list--solo {
+  padding-top: 30px;
+}
 .Details-item {
   display: inline-block;
   font-size: 24px;
@@ -2416,6 +2419,11 @@ padding
   .CourseList-course:nth-child(odd) {
     margin-left: 0;
   }
+  .Course-logo {
+    width: 126px;
+    height: 126px;
+    margin-left: 40px;
+  }
   .agujasIntradermicas-small,
   .amma-small,
   .ampuku-small,
@@ -2601,6 +2609,9 @@ padding
     border-bottom: 5px solid #e34939;
     color: #fff;
   }
+  .MainMenu-link.active {
+    border-bottom: 5px solid #f78000;
+  }
   .MainSection {
     top: -80px;
     z-index: 0;
@@ -2767,6 +2778,11 @@ padding
     position: relative;
     display: block;
     margin: 0 auto;
+  }
+  .Course-logo {
+    width: 146px;
+    height: 146px;
+    margin-left: 10px;
   }
   .CourseDetails {
     padding: 20px 0 50px 0;
@@ -2973,10 +2989,6 @@ padding
     background-size: cover;
     background-position-x: center;
     background-position-y: 80px;
-  }
-  .Course-logo {
-    width: 146px;
-    height: 146px;
   }
   .Course-mainSectionDetail {
     margin: 0 0 0 200px;

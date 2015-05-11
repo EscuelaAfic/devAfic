@@ -259,6 +259,10 @@ bodyFont = 'Open Sans', sans-serif
 @media only screen and (min-width: 400px)
 	@import "bp3.styl"
 
+// Solo carga el logo grande cuando puede ser visto
+@media only screen and (min-width: 450px)
+	@import "logo.styl"
+
 // Vista 
 @media only screen and (min-width: 500px) and (max-width: 767px)
 	@import "bpSOLO3.styl"

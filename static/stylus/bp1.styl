@@ -70,9 +70,6 @@ p
 .commingSoon
 	opacity .5
 
-.center
-	text-align center
-
 .link
 	text-decoration underline
 	color primari
@@ -110,6 +107,9 @@ p
 	left 15px
 	padding 7px 0	
 	coursor pointer 
+	
+.logoBig
+	display none
 
 .MainMenu-icon 
 	font-size 2.5em
@@ -920,12 +920,19 @@ p
 .Index
 	background secundariLight
 	padding-bottom 10px
+	text-align center
 	
 .Index-img
-	padding 20px 0 30px 0 
+	padding-top 30px
+	display inline-block
 	img
-		width 100%
-		position relative
+		width 70%
+		max-width 400px
+		
+.Naturopatia-primero
+.Naturopatia-segundo
+.Naturopatia-tercero
+	display none	
 		
 .Index-listToggle
 	// background secundariLight
@@ -940,8 +947,12 @@ p
 		padding 0 0 0 15px
 		
 .Index-list
-	padding 10px 20px 30px 30px
-	display none
+	padding-right 20px
+	padding-left 20px
+	// display none
+	ul > li
+		list-style-type circle
+	
 	li
 		color terciaFuente
 		font-size 14px
@@ -1053,16 +1064,17 @@ p
 	background white
 	
 .tabs-content > .content
-	padding 0
+	padding-top 0
+	padding-bottom 0
 	
-// .Details-tabs
-// 	padding 30px 0 0 0 
+.tabs-content
+	margin-bottom 0
 
 .Details-list
 	display inline-block
 	width 100%
 	text-align center
-	padding 30px 0
+	padding-bottom 30px
 	.active
 		display inline-block
 		font-weight bold
@@ -1092,12 +1104,21 @@ p
 		height 70px
 		font-weight 200
 		border-radius 50%
-		border 2px solid afic
+		border 1px solid afic
 		background none
 		color afic
 		line-height 68px
-	span
-		display none
+
+.Details-list
+	.active.Details-item--secundari
+		a
+			background #6ea709
+			color white
+		
+.Details-item--secundari
+	a
+		border 1px solid #6ea709
+		color #6ea709
 		
 .Details-solo
 	padding 0 0 30px 15px
@@ -1118,6 +1139,7 @@ p
 	letter-spacing 0px
 	color mediaFuente
 	margin 0
+	text-align left
 
 .Tab-subTitle
 	font-size 14px
@@ -1227,7 +1249,7 @@ p
 .Tab-cta
 	background secundariLight
 	padding 20px 0 15px 0 
-	margin-bottom -25px 
+	margin-bottom 0 
 	// border-top border
 	// border-radius 0 0 5px 5px
 	// margin-top 40px
@@ -1238,6 +1260,9 @@ p
 	display inline-block
 	padding 20px 0 
 	
+.Tab-container--solo
+	display none
+	
 .Tab-ctaTitle
 	font-size 21px
 	display inline-block
@@ -1247,8 +1272,6 @@ p
 	width 100%
 	margin 0
 
-.Tab-container--solo
-	display none
 
 .Closed
 	text-align center

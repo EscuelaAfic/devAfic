@@ -683,6 +683,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/logoSlogan.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45222,
+		"inputAbbreviatedPath": "\/static\/img\/logoSlogan.png",
+		"outputAbbreviatedPath": "\/static\/img\/logoSlogan.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/logoSmall.png": {
 		"fileType": 32768,
 		"ignore": 0,

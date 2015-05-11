@@ -716,11 +716,22 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/mariposa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12092,
+		"inputAbbreviatedPath": "\/static\/img\/mariposa.png",
+		"outputAbbreviatedPath": "\/static\/img\/mariposa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/material-naturopatia.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 626493,
+		"initialSize": 1.15102e+06,
 		"inputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
 		"outputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
 		"outputPathIsOutsideProject": 0,
@@ -797,7 +808,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4628,
+		"initialSize": 4612,
 		"inputAbbreviatedPath": "\/static\/img\/Precio-ahorro.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/Precio-ahorro.jpg",
 		"outputPathIsOutsideProject": 0,

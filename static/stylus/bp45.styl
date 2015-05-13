@@ -129,8 +129,45 @@
 	background-repeat no-repeat
 	background-size cover
 	background-position-x center
-	background-position-y top
+	background-position-y middle
 	
+.reikiHero
+	background url(../img/hero/reiki-big.jpg)
+	background-repeat no-repeat
+	background-size cover
+	background-position-x center
+	background-position-y -100px
+	
+.moxibustionHero
+	background url(../img/hero/moxibustion-big.jpg)
+	background-repeat no-repeat
+	background-size cover
+	background-position-x center
+	background-position-y -150px
+	
+.pindasHero
+	background url(../img/hero/pindas-small.jpg)
+	background-repeat no-repeat
+	background-size cover
+	background-position-x center
+	background-position-y -100px	
+	
+.piedrascalientesHero
+	background url(../img/hero/piedras-small.jpg)
+	background-repeat no-repeat
+	background-size cover
+	background-position-x center
+	background-position-y center
+	
+.champiHero
+	background url(../img/hero/champi-small.jpg)
+	background-repeat no-repeat
+	background-size cover
+	background-position-x center
+	background-position-y center
+	
+
+
 .acercaDe
 	background url(../img/equipo.png)
 	background-repeat no-repeat
@@ -237,7 +274,7 @@
 	line-height 28px
 	letter-spacing -1.5px
 
-	
+
 
 // Learn
 
@@ -314,6 +351,7 @@
 	margin 0
 	padding-bottom 0px
 	
+
 .DetailsSolo
 	margin 0
 	
@@ -322,7 +360,7 @@
 	.Details-itemOne.active
 		margin 0 -5px 0 0 
 		position relative
-		top 2px
+		top 0px
 		a
 			display inline-block
 			width 100px 
@@ -333,7 +371,7 @@
 	.Details-itemTwo.active
 		margin 0
 		position relative
-		top 2px
+		top 0px
 		a
 			display inline-block
 			width 100px 
@@ -344,7 +382,7 @@
 	.Details-itemThree.active
 		margin 0 0 0 -5px
 		position relative
-		top 2px
+		top 0px
 		a
 			display inline-block
 			width 100px 
@@ -360,7 +398,7 @@
 		width 100px 
 		height 30px
 		border-radius 5px 0 0 5px
-		line-height 25px
+		line-height 28px
 		font-size 18px
 		
 .Details-itemTwo
@@ -370,7 +408,7 @@
 		width 100px 
 		height 30px
 		border-radius 0
-		line-height 25px
+		line-height 28px
 		font-size 18px
 	
 .Details-itemThree
@@ -380,9 +418,75 @@
 		width 100px 
 		height 30px
 		border-radius 0 5px 5px 0
-		line-height 25px
+		line-height 28px
 		font-size 18px
-		
+
+// .Details-titleContainer
+
+.Details-logo
+	display block
+	position relative
+	top -74px
+	left 310px	
+	margin-bottom -80px
+	
+.Header-course
+	position fixed
+	top 0
+	right 0
+	left 0
+	height 55px
+	z-index 5
+	background white
+	
+.Header-logo--img
+	width 30px 
+	height 30px
+
+.Header-CourseName
+	font-size 16px 
+	position relative
+	color c_bodyFont
+	font-weight bold
+	top -27px 
+	left 40px
+	
+.Header-course--logo
+	position relative
+	top 12px
+	
+.Header-course--cta
+	float right
+	position relative
+	top -50px
+	
+// .Details-logo2
+// 	display block
+// 	position relative
+// 	top -105px
+// 	left 280px	
+// 	margin-top 20px
+// 	margin-bottom -80px
+	
+// .Details-logo2
+// 	position relative
+// 	top -85px
+// 	left 290px	
+// 	display inline-block
+// 	margin-bottom -70px
+
+// .Details-logo--img
+// 	width 50px 
+// 	height 50px
+
+	
+// .Details-CourseName2
+// 	font-size 14px 
+// 	font-weight bold
+// 	margin-top 0px
+// 	position relative
+// 	top -20px 
+// 	left 60px	
 
 .Details-tabs
 	padding 0
@@ -401,7 +505,9 @@
 	vertical-align top
 	overflow hidden
 	&:nth-child(odd)
-		padding-right 30px
+		padding-right 15px
+	&:nth-child(even)
+		padding-left 15px
 		
 .Tab-option--afic
 	width 400px
@@ -449,11 +555,12 @@
 	text-align center
 
 .Tab-cta
-	padding 40px 0 30px 0
+	padding 30px 0
 
 .Tab-ctaTitle
 	display inline-block
 	width 250px
+	font-size 23px
 	
 .btn-container
 	width 130px

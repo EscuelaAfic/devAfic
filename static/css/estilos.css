@@ -1314,7 +1314,7 @@ p {
   background-position-y: top;
 }
 .shiatsufacialHero {
-  background: url("../img/hero/shiatsufacial-small.jpg");
+  background: url("../img/hero/shiatsuFacial-small.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: center;
@@ -3030,7 +3030,7 @@ padding
   }
   .CourseDetails-container {
     padding-bottom: 0;
-    width: 53%;
+    width: 55%;
     text-align: left;
   }
   .CourseDetails-container2 {
@@ -3042,7 +3042,7 @@ padding
   }
   .CourseDetails-idealFor {
     padding: 0;
-    width: 45%;
+    width: 44%;
     padding-left: 30px;
     text-align: left;
   }
@@ -3158,8 +3158,8 @@ padding
     padding: 140px 0 140px 0;
     position: relative;
     z-index: 0;
-    animation: animationHero 16s infinite;
-    -webkit-animation: animationHero 16s infinite;
+    animation: animationHero 40s infinite;
+    -webkit-animation: animationHero 40s infinite;
   }
   .MainSection-title {
     font-weight: bold;
@@ -3389,7 +3389,7 @@ padding
     background-position-y: top;
   }
   .shiatsufacialHero {
-    background: url("../img/hero/shiatsufacial-big.jpg");
+    background: url("../img/hero/shiatsuFacial-big.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
@@ -3910,7 +3910,7 @@ padding
       position: relative;
       z-index: 0;
     }
-    25% {
+    10% {
       background: url("../img/hero/shiatsuFacial-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
@@ -3919,7 +3919,61 @@ padding
       position: relative;
       z-index: 0;
     }
+    20% {
+      background: url("../img/hero/aromaterapia-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    30% {
+      background: url("../img/hero/reflexologia-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    40% {
+      background: url("../img/hero/moxibustion-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
     50% {
+      background: url("../img/hero/reiki-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    60% {
+      background: url("../img/hero/piedras-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    70% {
+      background: url("../img/hero/naturopatia-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    80% {
       background: url("../img/hero/drenaje-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
@@ -3928,8 +3982,8 @@ padding
       position: relative;
       z-index: 0;
     }
-    75% {
-      background: url("../img/hero/reiki-big.jpg");
+    90% {
+      background: url("../img/hero/estiramientosthai-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3957,7 +4011,7 @@ padding
       position: relative;
       z-index: 0;
     }
-    25% {
+    10% {
       background: url("../img/hero/shiatsuFacial-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
@@ -3966,7 +4020,61 @@ padding
       position: relative;
       z-index: 0;
     }
+    20% {
+      background: url("../img/hero/aromaterapia-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    30% {
+      background: url("../img/hero/reflexologia-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    40% {
+      background: url("../img/hero/moxibustion-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
     50% {
+      background: url("../img/hero/reiki-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    60% {
+      background: url("../img/hero/piedras-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    70% {
+      background: url("../img/hero/naturopatia-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    80% {
       background: url("../img/hero/drenaje-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
@@ -3975,8 +4083,8 @@ padding
       position: relative;
       z-index: 0;
     }
-    75% {
-      background: url("../img/hero/reiki-big.jpg");
+    90% {
+      background: url("../img/hero/estiramientosthai-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -4004,7 +4112,7 @@ padding
       position: relative;
       z-index: 0;
     }
-    25% {
+    10% {
       background: url("../img/hero/shiatsuFacial-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
@@ -4013,7 +4121,61 @@ padding
       position: relative;
       z-index: 0;
     }
+    20% {
+      background: url("../img/hero/aromaterapia-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    30% {
+      background: url("../img/hero/reflexologia-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    40% {
+      background: url("../img/hero/moxibustion-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
     50% {
+      background: url("../img/hero/reiki-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    60% {
+      background: url("../img/hero/piedras-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    70% {
+      background: url("../img/hero/naturopatia-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    80% {
       background: url("../img/hero/drenaje-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
@@ -4022,8 +4184,8 @@ padding
       position: relative;
       z-index: 0;
     }
-    75% {
-      background: url("../img/hero/reiki-big.jpg");
+    90% {
+      background: url("../img/hero/estiramientosthai-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -4051,7 +4213,7 @@ padding
       position: relative;
       z-index: 0;
     }
-    25% {
+    10% {
       background: url("../img/hero/shiatsuFacial-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
@@ -4060,7 +4222,61 @@ padding
       position: relative;
       z-index: 0;
     }
+    20% {
+      background: url("../img/hero/aromaterapia-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    30% {
+      background: url("../img/hero/reflexologia-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    40% {
+      background: url("../img/hero/moxibustion-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
     50% {
+      background: url("../img/hero/reiki-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    60% {
+      background: url("../img/hero/piedras-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    70% {
+      background: url("../img/hero/naturopatia-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    80% {
       background: url("../img/hero/drenaje-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
@@ -4069,8 +4285,8 @@ padding
       position: relative;
       z-index: 0;
     }
-    75% {
-      background: url("../img/hero/reiki-big.jpg");
+    90% {
+      background: url("../img/hero/estiramientosthai-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;

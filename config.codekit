@@ -320,6 +320,94 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/hero\/amma-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 190024,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/amma-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/amma-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/amma-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46810,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/amma-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/amma-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/aromaterapia-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145322,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/aromaterapia-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/aromaterapia-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/aromaterapia-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38622,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/aromaterapia-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/aromaterapia-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/auriculoterapia-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112194,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/auriculoterapia-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/auriculoterapia-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/auriculoterapia-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26734,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/auriculoterapia-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/auriculoterapia-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/champi-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146523,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/champi-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/champi-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/champi-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45171,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/champi-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/champi-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/cyriax-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -338,6 +426,50 @@
 		"initialSize": 41100,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/cyriax-small.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/cyriax-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/drenaje-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94503,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/drenaje-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/drenaje-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/drenaje-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23104,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/drenaje-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/drenaje-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/estiramientosthai-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177039,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/estiramientosthai-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/estiramientosthai-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/estiramientosthai-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45545,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/estiramientosthai-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/estiramientosthai-small.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -386,6 +518,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/hero\/moxibustion-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108022,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/moxibustion-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/moxibustion-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/moxibustion-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25172,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/moxibustion-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/moxibustion-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/naturopatia-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -408,6 +562,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/hero\/piedras-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185142,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/piedras-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/piedras-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/piedras-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45833,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/piedras-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/piedras-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/pindas-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116387,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/pindas-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/pindas-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/pindas-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30724,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/pindas-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/pindas-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/quiromasaje-presencial-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -429,6 +627,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/static\/img\/hero\/registrosakAshicos-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 127080,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/registrosakAshicos-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/registrosakAshicos-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/registrosakAshicos-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33521,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/registrosakAshicos-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/registrosakAshicos-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/reiki-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100603,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/reiki-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/reiki-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/reiki-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23274,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/reiki-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/reiki-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/img\/hero\/vendaje-big.jpg": {
 		"fileType": 16384,
@@ -518,16 +760,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/static\/img\/logo\/auriculotarapia-big.png": {
+	"\/static\/img\/logo\/auriculoterapia-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 10730,
-		"inputAbbreviatedPath": "\/static\/img\/logo\/auriculotarapia-big.png",
-		"outputAbbreviatedPath": "\/static\/img\/logo\/auriculotarapia-big.png",
+		"initialSize": 6288,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/auriculoterapia-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/auriculoterapia-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/champi-big.png": {
 		"fileType": 32768,
@@ -606,17 +848,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/static\/img\/logo\/icon-big.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10872,
-		"inputAbbreviatedPath": "\/static\/img\/logo\/icon-big.png",
-		"outputAbbreviatedPath": "\/static\/img\/logo\/icon-big.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
 	"\/static\/img\/logo\/kinergeticsReset-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -638,6 +869,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/static\/img\/logo\/moxibustion-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5962,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/moxibustion-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/moxibustion-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/img\/logo\/naturopatia-big.png": {
 		"fileType": 32768,
@@ -912,7 +1154,18 @@
 		"outputAbbreviatedPath": "\/static\/img\/packa.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
+		},
+	"\/static\/img\/packa1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21075,
+		"inputAbbreviatedPath": "\/static\/img\/packa1.png",
+		"outputAbbreviatedPath": "\/static\/img\/packa1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/img\/packb.png": {
 		"fileType": 32768,
@@ -923,7 +1176,18 @@
 		"outputAbbreviatedPath": "\/static\/img\/packb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
+		},
+	"\/static\/img\/packb1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24775,
+		"inputAbbreviatedPath": "\/static\/img\/packb1.png",
+		"outputAbbreviatedPath": "\/static\/img\/packb1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/img\/Precio-ahorro.jpg": {
 		"fileType": 16384,

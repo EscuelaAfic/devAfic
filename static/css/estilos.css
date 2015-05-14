@@ -1206,6 +1206,13 @@ p {
   color: #fff;
   text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 }
+.naturopatiaHero {
+  background: url("../img/hero/naturopatia-small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: top;
+}
 .quiromasajePresencialHero {
   background: url("../img/hero/quiromasaje-presencial-small.jpg");
   background-repeat: no-repeat;
@@ -1213,8 +1220,8 @@ p {
   background-position-x: center;
   background-position-y: top;
 }
-.naturopatiaHero {
-  background: url("../img/hero/naturopatia-small.jpg");
+.quiromasajeSuperiorlHero {
+  background: url("../img/hero/quiromasajeSuperior-small.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: center;
@@ -1231,57 +1238,15 @@ p {
   background: url("../img/hero/agujas-small.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position-x: -250px;
+  background-position-x: 60%;
   background-position-y: top;
 }
 .cyriaxHero {
   background: url("../img/hero/cyriax-small.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position-x: center;
+  background-position-x: 70%;
   background-position-y: top;
-}
-.reikiHero {
-  background: url("../img/hero/reiki-small.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position-x: center;
-  background-position-y: middle;
-}
-.moxibustionHero {
-  background: url("../img/hero/moxibustion-small.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position-x: center;
-  background-position-y: top;
-}
-.drenajeLinfaticoHero {
-  background: url("../img/hero/drenaje-small.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position-x: center;
-  background-position-y: top;
-}
-.auriculoterapiaHero {
-  background: url("../img/hero/auriculoterapia-small.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position-x: center;
-  background-position-y: center;
-}
-.estiramientosthaiHero {
-  background: url("../img/hero/estiramientosthai-small.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position-x: center;
-  background-position-y: center;
-}
-.registrosakashicosHero {
-  background: url("../img/hero/registrosakAshicos-small.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position-x: center;
-  background-position-y: 70%;
 }
 .pindasHero {
   background: url("../img/hero/pindas-small.jpg");
@@ -1304,8 +1269,57 @@ p {
   background-position-x: center;
   background-position-y: bottom;
 }
-.aromaterapiaHero {
-  background: url("../img/hero/aromaterapia-small.jpg");
+.reflexologiaHero {
+  background: url("../img/hero/reflexologia-small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: bottom;
+}
+.auriculoterapiaHero {
+  background: url("../img/hero/auriculoterapia-small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+}
+.kinesiologiaHero {
+  background: url("../img/hero/kinesiologia-small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: bottom;
+}
+.kinergeticsResetHero {
+  background: url("../img/hero/kinergeticsReset-small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: bottom;
+}
+.drenajeLinfaticoHero {
+  background: url("../img/hero/drenaje-small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: top;
+}
+.shiatsufacialHero {
+  background: url("../img/hero/shiatsufacial-small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+}
+.ampukuHero {
+  background: url("../img/hero/ampuku-small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: 10%;
+  background-position-y: center;
+}
+.ammaHero {
+  background: url("../img/hero/amma-small.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: center;
@@ -1316,14 +1330,35 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: center;
-  background-position-y: bottom;
+  background-position-y: 30%;
 }
-.ammaHero {
-  background: url("../img/hero/amma-small.jpg");
+.estiramientosthaiHero {
+  background: url("../img/hero/estiramientosthai-small.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: center;
-  background-position-y: top;
+  background-position-y: center;
+}
+.reikiHero {
+  background: url("../img/hero/reiki-small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: middle;
+}
+.registrosakashicosHero {
+  background: url("../img/hero/registrosakAshicos-small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: bottom;
+}
+.aromaterapiaHero {
+  background: url("../img/hero/aromaterapia-small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
 }
 .Course-mainSectionLeft {
   width: 70px;
@@ -1344,6 +1379,7 @@ p {
   font-weight: bold;
   line-height: 34px;
   padding-right: 80px;
+  max-width: 450px;
 }
 .Course-detail {
   display: block;
@@ -1387,7 +1423,7 @@ p {
 }
 .CourseDetails-content span {
   font-family: 'Open Sans', sans-serif;
-  font-size: 31px;
+  font-size: 27px;
   font-weight: bold;
 }
 .CourseDetails-content span a {
@@ -2455,11 +2491,6 @@ padding
   font-weight: bold;
   font-size: 21px;
 }
-@media only screen and (min-width: 321px) and (max-width: 399px) {
-  .agujasHero {
-    background-position-x: -100px;
-  }
-}
 @media only screen and (min-width: 400px) {
   .u-wrapper {
     margin: 0 auto;
@@ -2484,15 +2515,6 @@ padding
     margin: 15px 0 0 0;
     border-radius: 10px;
     border: 1px solid rgba(0,0,0,0.2);
-  }
-  .Descount-PackImgA {
-    height: 65px;
-  }
-  .Descount-PackImgB {
-    height: 65px;
-  }
-  .agujasHero {
-    background-position-x: 0px;
   }
 }
 @media only screen and (min-width: 450px) {
@@ -2523,9 +2545,6 @@ padding
     top: -70px;
     font-weight: bold;
     text-align: left;
-  }
-  .agujasHero {
-    background-position-x: 0px;
   }
 }
 @media only screen and (min-width: 800px) and (max-width: 1000px) {
@@ -2948,88 +2967,89 @@ padding
     height: 146px;
     margin-left: 10px;
   }
-  .CourseDetails {
-    padding: 20px 0 50px 0;
-    text-align: center;
-  }
   .CourseDetails-container {
-    width: 50%;
+    padding-bottom: 0;
+    width: 53%;
     text-align: left;
   }
-  .CourseDetails-containerSolo {
-    width: 68%;
-  }
-  .CourseDetails-item {
+  .CourseDetails-container2 {
+    padding-bottom: 0;
     display: inline-block;
-    text-align: center;
-    width: 39%;
     vertical-align: top;
-    margin: 0;
-  }
-  .CourseDetails-itemSolo {
-    width: 24%;
-    margin: 0;
-  }
-  .CourseDetails-title {
-    padding: 0 0 5px 0;
+    width: 68%;
+    text-align: left;
   }
   .CourseDetails-idealFor {
     padding: 0;
-    width: 40%;
-    margin-left: 30px;
+    width: 45%;
+    padding-left: 30px;
     text-align: left;
   }
-  .CourseDetails-idealForSolo {
-    width: 30%;
-    float: right;
-    margin: 0 0 0 15px;
+  .CourseDetails-idealFor2 {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0;
+    width: 31%;
+    padding-left: 30px;
+    text-align: left;
+  }
+  .Details-devider {
+    display: inline-block;
+    vertical-align: top;
+    width: 32%;
+    text-align: center;
+  }
+  .Details-devider2 {
+    display: inline-block;
+    vertical-align: top;
+    width: 24%;
+    text-align: center;
+  }
+  .CourseDetails-item {
+    text-align: center;
+    margin: 0;
+    min-height: 105px;
+  }
+  .CourseDetails-title {
+    padding-bottom: 5px;
   }
   .idealFor-title {
     font-size: 36px;
+  }
+  .idealFor-detail {
+    font-size: 14px;
+    line-height: 19px;
   }
   .certificate {
     text-align: center;
   }
   .duration {
-    width: 20%;
+    display: block;
   }
   .duration:after {
-    margin: 45px 0 0 0;
     font-family: icomoon;
     content: "\e950";
     font-size: 64px;
-    display: block;
   }
-  .duration-solo {
-    width: 20%;
-  }
-  .duration-solo:after {
-    margin: 20px 0 0 0;
-    font-family: icomoon;
-    content: "\e950";
-    font-size: 64px;
-    display: block;
+  .location {
+    display: inline-block;
   }
   .location:after {
-    margin: 20px 0 0 0;
     font-family: icomoon;
     content: "\e602";
     font-size: 64px;
     display: block;
   }
-  .locationSolo:after {
-    margin: 40px 0 0 0;
+  .diploma {
+    display: inline-block;
   }
   .diploma:after {
     font-family: icomoon;
     content: "\e601";
     font-size: 64px;
-    position: relative;
-    top: 5px;
   }
-  .diplomaSolo:after {
-    position: relative;
-    top: 20px;
+  .incluye {
+    display: inline-block;
   }
   .incluye:after {
     font-family: icomoon;
@@ -3053,13 +3073,6 @@ padding
   .Main-CourseBanner-title {
     font-size: 61px;
     letter-spacing: -2px;
-  }
-  .ammaHero {
-    background: url("../img/hero/amma-small.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: 55%;
   }
   .CourseBanner-titleForm {
     font-size: 41px;
@@ -3128,76 +3141,6 @@ padding
     font-weight: 600;
     line-height: 20px;
     letter-spacing: -1px;
-  }
-  .quiromasajePresencialHero {
-    background: url("../img/hero/quiromasaje-presencial-big.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: top;
-  }
-  .naturopatiaHero {
-    background: url("../img/hero/naturopatia-big.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: top;
-  }
-  .vendajeHero {
-    background: url("../img/hero/vendaje-big.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: top;
-  }
-  .agujasHero {
-    background: url("../img/hero/agujas-big.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: -80px;
-  }
-  .cyriaxHero {
-    background: url("../img/hero/cyriax-big.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: middle;
-  }
-  .reikiHero {
-    background: url("../img/hero/reiki-big.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: -100px;
-  }
-  .moxibustionHero {
-    background: url("../img/hero/moxibustion-big.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: -150px;
-  }
-  .pindasHero {
-    background: url("../img/hero/pindas-small.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: -100px;
-  }
-  .piedrascalientesHero {
-    background: url("../img/hero/piedras-small.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: center;
-  }
-  .champiHero {
-    background: url("../img/hero/champi-small.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-x: center;
-    background-position-y: center;
   }
   .acercaDe {
     background: url("../img/equipo.png");
@@ -3282,10 +3225,167 @@ padding
     font-size: 16px;
     font-weight: 600;
   }
+  .CourseDetails {
+    padding: 30px 0 50px 0;
+  }
   .CourseDetails-contentSmall {
     font-size: 31px;
     line-height: 28px;
     letter-spacing: -1.5px;
+  }
+  .naturopatiaHero {
+    background: url("../img/hero/naturopatia-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: top;
+  }
+  .quiromasajePresencialHero {
+    background: url("../img/hero/quiromasaje-presencial-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: top;
+  }
+  .quiromasajeSuperiorlHero {
+    background: url("../img/hero/quiromasajeSuperior-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: top;
+  }
+  .vendajeHero {
+    background: url("../img/hero/vendaje-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: top;
+  }
+  .agujasHero {
+    background: url("../img/hero/agujas-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: top;
+  }
+  .cyriaxHero {
+    background: url("../img/hero/cyriax-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: top;
+  }
+  .pindasHero {
+    background: url("../img/hero/pindas-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: 50%;
+  }
+  .piedrascalientesHero {
+    background: url("../img/hero/piedras-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: 30%;
+  }
+  .champiHero {
+    background: url("../img/hero/champi-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: bottom;
+  }
+  .reflexologiaHero {
+    background: url("../img/hero/reflexologia-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: 40%;
+  }
+  .auriculoterapiaHero {
+    background: url("../img/hero/auriculoterapia-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+  }
+  .kinesiologiaHero {
+    background: url("../img/hero/kinesiologia-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: bottom;
+  }
+  .kinergeticsResetHero {
+    background: url("../img/hero/kinergeticsReset-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: 60%;
+  }
+  .drenajeLinfaticoHero {
+    background: url("../img/hero/drenaje-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: top;
+  }
+  .shiatsufacialHero {
+    background: url("../img/hero/shiatsufacial-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+  }
+  .ampukuHero {
+    background: url("../img/hero/ampuku-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+  }
+  .ammaHero {
+    background: url("../img/hero/amma-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: top;
+  }
+  .moxibustionHero {
+    background: url("../img/hero/moxibustion-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: 40%;
+  }
+  .estiramientosthaiHero {
+    background: url("../img/hero/estiramientosthai-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+  }
+  .reikiHero {
+    background: url("../img/hero/reiki-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: -100px;
+  }
+  .registrosakashicosHero {
+    background: url("../img/hero/registrosakAshicos-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: bottom;
+  }
+  .aromaterapiaHero {
+    background: url("../img/hero/aromaterapia-big.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
   }
   .LearnShort {
     padding-bottom: 0;

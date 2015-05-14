@@ -11,6 +11,9 @@
   transition: 0.2s;
   -webkit-transition: 0.2s;
 }
+.btn:hover {
+  text-decoration: none;
+}
 .btn-big {
   font-size: 1.3em;
   font-weight: bold;
@@ -23,6 +26,7 @@
   height: 38px;
   letter-spacing: -0.01em;
   padding: 0.7em 0.75em;
+  line-height: 15px;
 }
 .btn-smallxl {
   font-size: 12px;
@@ -652,6 +656,7 @@ a {
 }
 a:hover {
   color: #f78000;
+  text-decoration: underline;
 }
 a.buttonWhite:visited {
   color: #fff;
@@ -732,9 +737,9 @@ p {
   display: none;
 }
 .MainSection {
-  background: url("../img/hero/home-small.jpg");
+  background: url("../img/hero/kinesiologia-small.jpg");
   background-repeat: no-repeat;
-  background-position-x: 90%;
+  background-position-x: center;
   background-position-y: top;
   background-size: cover;
   padding: 60px 0 80px 0;
@@ -845,12 +850,13 @@ p {
   padding: 30px 0 10px 0;
 }
 .CourseBanner-title {
-  font-size: 1.5em;
-  text-align: center;
+  font-size: 24px;
+  text-align: left;
   letter-spacing: -1px;
-  line-height: 1.3em;
+  line-height: 29px;
   font-weight: 600;
   margin: 0 0 20px 0;
+  max-width: 300px;
 }
 .Main-CourseBanner-title {
   font-size: 2em;
@@ -1009,6 +1015,9 @@ p {
   padding: 0.1em 0.5em;
   margin-bottom: 5px;
 }
+.CourseList-courseLabel a:hover {
+  text-decoration: none;
+}
 .c_quiromasaje {
   background: #e34939;
 }
@@ -1037,7 +1046,7 @@ p {
   background: #60122a;
 }
 .c_kinesiologia {
-  background: #1e6a61;
+  background: #17564f;
 }
 .c_reflexologia {
   background: #efb61b;
@@ -1225,7 +1234,7 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: center;
-  background-position-y: top;
+  background-position-y: center;
 }
 .vendajeHero {
   background: url("../img/hero/vendaje-small.jpg");
@@ -1546,6 +1555,44 @@ p {
   min-height: 80px;
   border-bottom: none;
 }
+.Learn-MustDo {
+  padding-bottom: 10px;
+}
+.MustDo {
+  background: #e9e7e3;
+  padding-bottom: 50px;
+}
+.MustDo-copy {
+  display: inline-block;
+  width: 100%;
+  padding-bottom: 10px;
+}
+.MustDo-title {
+  font-weight: 200;
+  font-size: 24px;
+  line-height: 29px;
+  padding-bottom: 0.5em;
+  margin: 0;
+}
+.MustDo-logo {
+  display: inline-block;
+  width: 100%;
+  padding-top: 10px;
+}
+.MustDo-logo .CourseList-course {
+  padding-bottom: 0;
+}
+.MustDo-arrow {
+  transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  text-align: right;
+}
+.MustDo-arrow:after {
+  content: '\f062';
+  font-family: icomoon;
+  font-size: 51px;
+}
 .Learn-list {
   max-width: 600px;
 }
@@ -1805,9 +1852,17 @@ p {
   font-size: 14px;
   line-height: 19px;
 }
+.Tab-optionMainsection--detail {
+  padding-top: 15px;
+}
 .Tab-date {
   border-bottom: 1px solid rgba(0,0,0,0.2);
   padding: 15px 0;
+}
+.Tab-time {
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+  padding: 15px 0;
+  background: rgba(0,0,0,0.03);
 }
 .Tab-date--left {
   float: left;
@@ -2037,7 +2092,7 @@ p {
   font-weight: 600;
   font-size: 18px;
   margin: -15px 0 0 0;
-  width: 150px;
+  width: 200px;
   line-height: 1em;
   color: rgba(255,255,255,0.7);
 }
@@ -2061,6 +2116,9 @@ p {
 }
 .Price-ayurveda {
   background: #920c9a;
+}
+.Price-kinsesiologia {
+  background: #17564f;
 }
 .Price-tableBottom {
   text-align: left;
@@ -2783,6 +2841,9 @@ padding
   .MainMenu-option:last-child {
     margin-right: 0;
   }
+  .MainMenu-option a:hover {
+    text-decoration: none;
+  }
   .MainMenu-link {
     padding: 0 0 20px 0;
     font-weight: bold;
@@ -3016,10 +3077,6 @@ padding
   .idealFor-title {
     font-size: 36px;
   }
-  .idealFor-detail {
-    font-size: 14px;
-    line-height: 19px;
-  }
   .certificate {
     text-align: center;
   }
@@ -3094,15 +3151,15 @@ padding
 }
 @media only screen and (min-width: 701px) {
   .MainSection {
-    background: url("../img/hero/home-big.jpg");
+    background: url("../img/hero/kinesiologia-big.jpg");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
     padding: 140px 0 140px 0;
     position: relative;
     z-index: 0;
-    animation: animationHero 20s infinite;
-    -webkit-animation: animationHero 20s infinite;
+    animation: animationHero 16s infinite;
+    -webkit-animation: animationHero 16s infinite;
   }
   .MainSection-title {
     font-weight: bold;
@@ -3252,7 +3309,7 @@ padding
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
-    background-position-y: top;
+    background-position-y: center;
   }
   .vendajeHero {
     background: url("../img/hero/vendaje-big.jpg");
@@ -3417,6 +3474,45 @@ padding
   }
   .Secundary-title {
     padding-bottom: 50px;
+  }
+  .Learn-MustDo {
+    padding-bottom: 60px;
+  }
+  .MustDo {
+    background: #e9e7e3;
+    padding-bottom: 50px;
+    text-align: center;
+  }
+  .MustDo-center {
+    display: inline-block;
+    width: 60%;
+    margin-left: -200px;
+  }
+  .MustDo-copy {
+    display: inline-block;
+    width: 70%;
+    padding-bottom: 10px;
+    text-align: right;
+    float: left;
+  }
+  .MustDo-title {
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    padding-bottom: 0.8em;
+  }
+  .MustDo-logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 10%;
+    padding-top: 10px;
+  }
+  .MustDo-arrow {
+    display: inline-block;
+    vertical-align: top;
+    transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
   }
   .Index {
     min-height: 700px;
@@ -3682,6 +3778,9 @@ padding
   .Price-table--cta {
     margin: 0 0 0 -15px;
   }
+  .Price-CourseName {
+    max-width: 260px;
+  }
   .Course-faq h3 {
     text-align: center;
     padding-bottom: 30px;
@@ -3803,7 +3902,7 @@ padding
   }
 @-moz-keyframes animationHero {
     0% {
-      background: url("../img/hero/home-big.jpg");
+      background: url("../img/hero/kinesiologia-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3811,8 +3910,8 @@ padding
       position: relative;
       z-index: 0;
     }
-    33% {
-      background: url("../img/hero/home2-big.jpg");
+    25% {
+      background: url("../img/hero/shiatsuFacial-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3820,8 +3919,17 @@ padding
       position: relative;
       z-index: 0;
     }
-    66% {
-      background: url("../img/hero/home3-big.jpg");
+    50% {
+      background: url("../img/hero/drenaje-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    75% {
+      background: url("../img/hero/reiki-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3830,7 +3938,7 @@ padding
       z-index: 0;
     }
     100% {
-      background: url("../img/hero/home-big.jpg");
+      background: url("../img/hero/kinesiologia-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3841,7 +3949,7 @@ padding
 }
 @-webkit-keyframes animationHero {
     0% {
-      background: url("../img/hero/home-big.jpg");
+      background: url("../img/hero/kinesiologia-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3849,8 +3957,8 @@ padding
       position: relative;
       z-index: 0;
     }
-    33% {
-      background: url("../img/hero/home2-big.jpg");
+    25% {
+      background: url("../img/hero/shiatsuFacial-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3858,8 +3966,17 @@ padding
       position: relative;
       z-index: 0;
     }
-    66% {
-      background: url("../img/hero/home3-big.jpg");
+    50% {
+      background: url("../img/hero/drenaje-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    75% {
+      background: url("../img/hero/reiki-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3868,7 +3985,7 @@ padding
       z-index: 0;
     }
     100% {
-      background: url("../img/hero/home-big.jpg");
+      background: url("../img/hero/kinesiologia-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3879,7 +3996,7 @@ padding
 }
 @-o-keyframes animationHero {
     0% {
-      background: url("../img/hero/home-big.jpg");
+      background: url("../img/hero/kinesiologia-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3887,8 +4004,8 @@ padding
       position: relative;
       z-index: 0;
     }
-    33% {
-      background: url("../img/hero/home2-big.jpg");
+    25% {
+      background: url("../img/hero/shiatsuFacial-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3896,8 +4013,17 @@ padding
       position: relative;
       z-index: 0;
     }
-    66% {
-      background: url("../img/hero/home3-big.jpg");
+    50% {
+      background: url("../img/hero/drenaje-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    75% {
+      background: url("../img/hero/reiki-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3906,7 +4032,7 @@ padding
       z-index: 0;
     }
     100% {
-      background: url("../img/hero/home-big.jpg");
+      background: url("../img/hero/kinesiologia-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3917,7 +4043,7 @@ padding
 }
 @keyframes animationHero {
     0% {
-      background: url("../img/hero/home-big.jpg");
+      background: url("../img/hero/kinesiologia-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3925,8 +4051,8 @@ padding
       position: relative;
       z-index: 0;
     }
-    33% {
-      background: url("../img/hero/home2-big.jpg");
+    25% {
+      background: url("../img/hero/shiatsuFacial-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3934,8 +4060,17 @@ padding
       position: relative;
       z-index: 0;
     }
-    66% {
-      background: url("../img/hero/home3-big.jpg");
+    50% {
+      background: url("../img/hero/drenaje-big.jpg");
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+      padding: 140px 0 140px 0;
+      position: relative;
+      z-index: 0;
+    }
+    75% {
+      background: url("../img/hero/reiki-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3944,7 +4079,7 @@ padding
       z-index: 0;
     }
     100% {
-      background: url("../img/hero/home-big.jpg");
+      background: url("../img/hero/kinesiologia-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;

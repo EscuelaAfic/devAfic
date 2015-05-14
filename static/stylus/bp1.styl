@@ -57,6 +57,7 @@ a
 	color primari
 	&:hover 
 		color afic
+		text-decoration underline
 		
 a.buttonWhite
 	&:visited
@@ -149,10 +150,18 @@ p
 
 // MainSection
 
+// .MainSection
+// 	background url(../img/hero/home-small.jpg)
+// 	background-repeat no-repeat
+// 	background-position-x 90% 
+// 	background-position-y top
+// 	background-size cover
+// 	padding 60px 0 80px 0
+
 .MainSection
-	background url(../img/hero/home-small.jpg)
+	background url(../img/hero/kinesiologia-small.jpg)
 	background-repeat no-repeat
-	background-position-x 90% 
+	background-position-x center
 	background-position-y top
 	background-size cover
 	padding 60px 0 80px 0
@@ -273,12 +282,13 @@ p
 	padding 30px 0 10px 0
 
 .CourseBanner-title
-	font-size 1.5em
-	text-align center
+	font-size 24px
+	text-align left
 	letter-spacing -1px
-	line-height 1.3em 
+	line-height 29px 
 	font-weight 600
 	margin 0 0 20px 0
+	max-width 300px
 
 .Main-CourseBanner-title
 	font-size 2em
@@ -439,6 +449,9 @@ p
 	font-weight 700
 	padding .1em .5em
 	margin-bottom 5px
+	a
+		&:hover
+			text-decoration none
 
 .c_quiromasaje
 	background primari
@@ -652,7 +665,7 @@ p
 	background-repeat no-repeat
 	background-size cover
 	background-position-x center
-	background-position-y top
+	background-position-y center
 
 .vendajeHero
 	background url(../img/hero/vendaje-small.jpg)
@@ -995,9 +1008,45 @@ p
 	padding 0 0 10px 0
 	min-height 80px
 	border-bottom none
-	
 
+.Learn-MustDo
+	padding-bottom 10px
+
+.MustDo
+	background #e9e7e3	
+	padding-bottom 50px
+	
+.MustDo-copy
+	display inline-block
+	width 100%
+	padding-bottom 10px
 		
+.MustDo-title
+	font-weight 200
+	font-size 24px
+	line-height 29px
+	padding-bottom .5em
+	margin 0
+	
+.MustDo-logo
+	display inline-block
+	width 100%
+	padding-top 10px
+	// padding-bottom 30px
+	.CourseList-course
+		padding-bottom 0
+	
+.MustDo-arrow
+	transform rotate(180deg)
+	-ms-transform rotate(180deg)
+	-webkit-transform rotate(180deg)
+	text-align right
+	&:after
+		
+		content '\f062'
+		font-family icomoon
+		font-size 51px
+
 .Learn-list
 	max-width 600px
 
@@ -1286,10 +1335,18 @@ p
 		color mediaFuente
 		font-size 14px
 		line-height 19px
+
+.Tab-optionMainsection--detail
+	padding-top 15px
 		
 .Tab-date
 	border-bottom border
 	padding 15px 0 
+	
+.Tab-time
+	border-bottom border
+	padding 15px 0 
+	background rgba(black,.03)
 	
 .Tab-date--left
 	float left
@@ -1524,7 +1581,7 @@ p
 		font-weight 600
 		font-size 18px
 		margin -15px 0 0 0 
-		width 150px
+		width 200px
 		line-height 1em
 		color rgba(white,.7)
 
@@ -1548,6 +1605,10 @@ p
 	
 .Price-ayurveda
 	background c_ayurveda
+
+.Price-kinsesiologia
+	background c_kinesiologia
+
 
 .Price-tableBottom
 	text-align left

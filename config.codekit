@@ -2,6 +2,15 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "18902",
 "files": {
+	"\/404.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/404.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/acercaDe.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -341,6 +350,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/dog.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.36056e+06,
+		"inputAbbreviatedPath": "\/static\/img\/dog.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/dog.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/agujas-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -451,28 +471,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/hero\/champi-big.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 100189,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/champi-big.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/champi-big.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/hero\/champi-small.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 44204,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/champi-small.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/champi-small.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/static\/img\/hero\/crecimiento-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -532,7 +530,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 93864,
+		"initialSize": 72523,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/estiramientosthai-big.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/estiramientosthai-big.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -554,7 +552,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 44581,
+		"initialSize": 45563,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/estiramientosthai-small.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/estiramientosthai-small.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -590,28 +588,6 @@
 		"initialSize": 50230,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/home2-big.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/home2-big.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/hero\/kinergeticsReset-big.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 27126,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/kinergeticsReset-big.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/kinergeticsReset-big.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/hero\/kinergeticsReset-small.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 27436,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/kinergeticsReset-small.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/kinergeticsReset-small.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -682,24 +658,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/hero\/piedras-big.jpg": {
+	"\/static\/img\/hero\/piedras.small.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 42609,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/piedras-big.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/piedras-big.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/hero\/piedras-small.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 24284,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/piedras-small.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/piedras-small.jpg",
+		"initialSize": 37486,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/piedras.small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/piedras.small.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -854,6 +819,28 @@
 		"initialSize": 30593,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/shiatsuFacial-small.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/shiatsuFacial-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/sol-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120683,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/sol-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/sol-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/sol-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33496,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/sol-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/sol-small.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1228,6 +1215,50 @@
 		"initialSize": 74752,
 		"inputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
 		"outputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/packa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11158,
+		"inputAbbreviatedPath": "\/static\/img\/packa.png",
+		"outputAbbreviatedPath": "\/static\/img\/packa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/packa1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11265,
+		"inputAbbreviatedPath": "\/static\/img\/packa1.png",
+		"outputAbbreviatedPath": "\/static\/img\/packa1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/packb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8177,
+		"inputAbbreviatedPath": "\/static\/img\/packb.png",
+		"outputAbbreviatedPath": "\/static\/img\/packb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/packb1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9983,
+		"inputAbbreviatedPath": "\/static\/img\/packb1.png",
+		"outputAbbreviatedPath": "\/static\/img\/packb1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

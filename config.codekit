@@ -660,6 +660,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/hero\/naturopatia-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111389,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/naturopatia-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/naturopatia-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/naturopatia-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58968,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/naturopatia-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/naturopatia-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/piedras-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -884,284 +906,273 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5691,
+		"initialSize": 3720,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/agujasIntradermicas-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/agujasIntradermicas-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/amma-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5568,
+		"initialSize": 3744,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/amma-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/amma-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/ampuku-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6320,
+		"initialSize": 4038,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/ampuku-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/ampuku-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/aromaterapia-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6478,
+		"initialSize": 4319,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/aromaterapia-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/aromaterapia-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/auriculoterapia-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6288,
+		"initialSize": 4171,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/auriculoterapia-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/auriculoterapia-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/champi-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6553,
+		"initialSize": 4532,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/champi-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/champi-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/cosmeticaNatural-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5541,
+		"initialSize": 3814,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/cosmeticaNatural-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/cosmeticaNatural-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/crecimientoPersonal-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6435,
+		"initialSize": 4143,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/crecimientoPersonal-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/crecimientoPersonal-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/cyriax-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5754,
+		"initialSize": 3638,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/cyriax-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/cyriax-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/drenajeLinfatico-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6233,
+		"initialSize": 4218,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/drenajeLinfatico-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/drenajeLinfatico-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/estiramientosThai-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5795,
+		"initialSize": 3908,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/estiramientosThai-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/estiramientosThai-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/floresBach-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5464,
+		"initialSize": 3720,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/floresBach-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/floresBach-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/kinergeticsReset-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5682,
+		"initialSize": 3777,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/kinergeticsReset-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/kinergeticsReset-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/kinesiologiaIntegrada-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8460,
+		"initialSize": 5433,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/kinesiologiaIntegrada-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/kinesiologiaIntegrada-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/moxibustion-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5962,
+		"initialSize": 3973,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/moxibustion-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/moxibustion-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/naturopatia-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5667,
+		"initialSize": 3893,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/naturopatia-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/naturopatia-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/piedras-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5746,
+		"initialSize": 3888,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/piedras-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/piedras-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/pindas-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5546,
+		"initialSize": 3800,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/pindas-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/pindas-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/quiromasaje-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6835,
+		"initialSize": 4278,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/quiromasaje-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/quiromasaje-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/quiromasajeSuperior-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6791,
+		"initialSize": 4269,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/quiromasajeSuperior-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/quiromasajeSuperior-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/reflexologia-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6396,
+		"initialSize": 4280,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/reflexologia-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/reflexologia-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/registrosAkashicos-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5696,
+		"initialSize": 3851,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/registrosAkashicos-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/registrosAkashicos-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/reiki-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5943,
+		"initialSize": 4060,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/reiki-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/reiki-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/shiatsuFacial-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5406,
+		"initialSize": 3551,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/shiatsuFacial-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/shiatsuFacial-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/static\/img\/logo\/vendajeNeuromuscular-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5597,
+		"initialSize": 3487,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/vendajeNeuromuscular-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/vendajeNeuromuscular-big.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/static\/img\/logoNav-big.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5163,
-		"inputAbbreviatedPath": "\/static\/img\/logoNav-big.png",
-		"outputAbbreviatedPath": "\/static\/img\/logoNav-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1170,7 +1181,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8006,
+		"initialSize": 6819,
 		"inputAbbreviatedPath": "\/static\/img\/logoSlogan.png",
 		"outputAbbreviatedPath": "\/static\/img\/logoSlogan.png",
 		"outputPathIsOutsideProject": 0,
@@ -1214,53 +1225,9 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 99049,
+		"initialSize": 74752,
 		"inputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
 		"outputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/packa.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 9174,
-		"inputAbbreviatedPath": "\/static\/img\/packa.png",
-		"outputAbbreviatedPath": "\/static\/img\/packa.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/packa1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 9771,
-		"inputAbbreviatedPath": "\/static\/img\/packa1.png",
-		"outputAbbreviatedPath": "\/static\/img\/packa1.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/packb.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 8815,
-		"inputAbbreviatedPath": "\/static\/img\/packb.png",
-		"outputAbbreviatedPath": "\/static\/img\/packb.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/packb1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10416,
-		"inputAbbreviatedPath": "\/static\/img\/packb1.png",
-		"outputAbbreviatedPath": "\/static\/img\/packb1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1269,7 +1236,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 44724,
+		"initialSize": 34141,
 		"inputAbbreviatedPath": "\/static\/img\/primero.png",
 		"outputAbbreviatedPath": "\/static\/img\/primero.png",
 		"outputPathIsOutsideProject": 0,
@@ -1280,7 +1247,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 45265,
+		"initialSize": 31840,
 		"inputAbbreviatedPath": "\/static\/img\/segundo.png",
 		"outputAbbreviatedPath": "\/static\/img\/segundo.png",
 		"outputPathIsOutsideProject": 0,
@@ -1291,7 +1258,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 44044,
+		"initialSize": 34684,
 		"inputAbbreviatedPath": "\/static\/img\/tercero.png",
 		"outputAbbreviatedPath": "\/static\/img\/tercero.png",
 		"outputPathIsOutsideProject": 0,
@@ -1606,6 +1573,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/static\/js\/vendor\/scrolltop.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/static\/js\/vendor\/scrolltop.js",
+		"outputAbbreviatedPath": "\/static\/js\/vendor\/min\/scrolltop-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/static\/stylus\/bp1.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1777,7 +1755,7 @@
 		"outputAbbreviatedPath": "\/static\/css\/estilos.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 1,
 		"resolveRelativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0

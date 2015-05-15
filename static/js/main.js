@@ -71,6 +71,21 @@ $(document).ready(function(){
 	  }
 	});
 
+	var num = 510; //number of pixels before modifying styles
+
+		$(window).bind('scroll', function () {
+		    if ($(window).scrollTop() > num) {
+		        $('#nav-course').removeClass('Header-courseNone');
+	    		$('#nav-course').addClass('Header-course');
+		    } else {
+		    	$('#nav-course').removeClass('Header-course');
+	    		$('#nav-course').addClass('Header-courseNone');
+		    }
+		});
+
 
 })
+
+
+
 

@@ -319,6 +319,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/comprometidos.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25841,
+		"inputAbbreviatedPath": "\/static\/img\/comprometidos.png",
+		"outputAbbreviatedPath": "\/static\/img\/comprometidos.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/curso1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36246,
+		"inputAbbreviatedPath": "\/static\/img\/curso1.png",
+		"outputAbbreviatedPath": "\/static\/img\/curso1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/agujas-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -451,6 +473,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/hero\/crecimiento-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150168,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/crecimiento-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/crecimiento-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/cyriax-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -499,9 +532,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 72488,
+		"initialSize": 93864,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/estiramientosthai-big.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/estiramientosthai-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/estiramientosthai-small-.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34838,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/estiramientosthai-small-.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/estiramientosthai-small-.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -546,17 +590,6 @@
 		"initialSize": 50230,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/home2-big.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/home2-big.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/hero\/home3-big.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 150168,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/home3-big.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/home3-big.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -627,33 +660,11 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/hero\/naturopatia-big.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 155710,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/naturopatia-big.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/naturopatia-big.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/hero\/naturopatia-small.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 58614,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/naturopatia-small.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/naturopatia-small.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/static\/img\/hero\/piedras-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 74487,
+		"initialSize": 42609,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/piedras-big.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/piedras-big.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -664,7 +675,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 44869,
+		"initialSize": 24284,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/piedras-small.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/piedras-small.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -715,24 +726,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/hero\/quiromasajeSuperior-big.jpg": {
+	"\/static\/img\/hero\/quiromasajesuperior-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 49098,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/quiromasajeSuperior-big.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/quiromasajeSuperior-big.jpg",
+		"initialSize": 46924,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/quiromasajesuperior-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/quiromasajesuperior-big.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/hero\/quiromasajeSuperior-small.jpg": {
+	"\/static\/img\/hero\/quiromasajesuperior-small.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 24740,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/quiromasajeSuperior-small.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/quiromasajeSuperior-small.jpg",
+		"initialSize": 26488,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/quiromasajesuperior-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/quiromasajesuperior-small.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -843,6 +854,28 @@
 		"initialSize": 27930,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/vendaje-small.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/vendaje-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/icons-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93447,
+		"inputAbbreviatedPath": "\/static\/img\/icons-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/icons-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/icons-small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43900,
+		"inputAbbreviatedPath": "\/static\/img\/icons-small.png",
+		"outputAbbreviatedPath": "\/static\/img\/icons-small.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1121,6 +1154,149 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/static\/img\/logoNav-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5163,
+		"inputAbbreviatedPath": "\/static\/img\/logoNav-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logoNav-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logoSlogan.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8006,
+		"inputAbbreviatedPath": "\/static\/img\/logoSlogan.png",
+		"outputAbbreviatedPath": "\/static\/img\/logoSlogan.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logoSmall.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4816,
+		"inputAbbreviatedPath": "\/static\/img\/logoSmall.png",
+		"outputAbbreviatedPath": "\/static\/img\/logoSmall.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/mapa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 413553,
+		"inputAbbreviatedPath": "\/static\/img\/mapa.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/mapa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/mariposa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5312,
+		"inputAbbreviatedPath": "\/static\/img\/mariposa.png",
+		"outputAbbreviatedPath": "\/static\/img\/mariposa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/material-naturopatia.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99049,
+		"inputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
+		"outputAbbreviatedPath": "\/static\/img\/material-naturopatia.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/packa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9174,
+		"inputAbbreviatedPath": "\/static\/img\/packa.png",
+		"outputAbbreviatedPath": "\/static\/img\/packa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/packa1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9771,
+		"inputAbbreviatedPath": "\/static\/img\/packa1.png",
+		"outputAbbreviatedPath": "\/static\/img\/packa1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/packb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8815,
+		"inputAbbreviatedPath": "\/static\/img\/packb.png",
+		"outputAbbreviatedPath": "\/static\/img\/packb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/packb1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10416,
+		"inputAbbreviatedPath": "\/static\/img\/packb1.png",
+		"outputAbbreviatedPath": "\/static\/img\/packb1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/primero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44724,
+		"inputAbbreviatedPath": "\/static\/img\/primero.png",
+		"outputAbbreviatedPath": "\/static\/img\/primero.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/segundo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45265,
+		"inputAbbreviatedPath": "\/static\/img\/segundo.png",
+		"outputAbbreviatedPath": "\/static\/img\/segundo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/tercero.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44044,
+		"inputAbbreviatedPath": "\/static\/img\/tercero.png",
+		"outputAbbreviatedPath": "\/static\/img\/tercero.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/js\/foundation.min.js": {
 		"fileType": 64,

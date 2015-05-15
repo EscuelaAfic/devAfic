@@ -656,7 +656,6 @@ a {
 }
 a:hover {
   color: #f78000;
-  text-decoration: underline;
 }
 a.buttonWhite:visited {
   color: #fff;
@@ -3177,6 +3176,7 @@ padding
     padding: 0 0 40px 0;
     font-size: 28px;
     line-height: 35px;
+    width: 65%;
   }
   .CourseDetails-container {
     padding-bottom: 0;
@@ -3632,6 +3632,9 @@ padding
     left: 310px;
     margin-bottom: -80px;
   }
+  .Header-courseNone {
+    display: none;
+  }
   .Header-course {
     position: fixed;
     top: 0;
@@ -3639,7 +3642,8 @@ padding
     left: 0;
     height: 55px;
     z-index: 5;
-    background: #fff;
+    background: rgba(255,255,255,0.96);
+    border-bottom: 1px solid rgba(0,0,0,0.05);
   }
   .Header-logo--img {
     width: 30px;
@@ -3779,7 +3783,7 @@ padding
     margin: 0 0 0 -15px;
   }
   .Price-CourseName {
-    max-width: 260px;
+    max-width: 220px;
   }
   .Course-faq h3 {
     text-align: center;
@@ -3956,7 +3960,7 @@ padding
       z-index: 0;
     }
     60% {
-      background: url("../img/hero/piedras-big.jpg");
+      background: url("../img/hero/naturopatia-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -3965,7 +3969,7 @@ padding
       z-index: 0;
     }
     70% {
-      background: url("../img/hero/naturopatia-big.jpg");
+      background: url("../img/hero/piedras-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -4057,7 +4061,7 @@ padding
       z-index: 0;
     }
     60% {
-      background: url("../img/hero/piedras-big.jpg");
+      background: url("../img/hero/naturopatia-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -4066,7 +4070,7 @@ padding
       z-index: 0;
     }
     70% {
-      background: url("../img/hero/naturopatia-big.jpg");
+      background: url("../img/hero/piedras-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -4158,7 +4162,7 @@ padding
       z-index: 0;
     }
     60% {
-      background: url("../img/hero/piedras-big.jpg");
+      background: url("../img/hero/naturopatia-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -4167,7 +4171,7 @@ padding
       z-index: 0;
     }
     70% {
-      background: url("../img/hero/naturopatia-big.jpg");
+      background: url("../img/hero/piedras-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -4259,7 +4263,7 @@ padding
       z-index: 0;
     }
     60% {
-      background: url("../img/hero/piedras-big.jpg");
+      background: url("../img/hero/naturopatia-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;
@@ -4268,7 +4272,7 @@ padding
       z-index: 0;
     }
     70% {
-      background: url("../img/hero/naturopatia-big.jpg");
+      background: url("../img/hero/piedras-big.jpg");
       background-repeat: no-repeat;
       background-position: center top;
       background-size: cover;

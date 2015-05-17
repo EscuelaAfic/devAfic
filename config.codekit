@@ -559,6 +559,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/hero\/examen-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50230,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/examen-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/examen-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/home-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -581,13 +592,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/hero\/home2-big.jpg": {
+	"\/static\/img\/hero\/kinergeticsReset-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 50230,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/home2-big.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/home2-big.jpg",
+		"initialSize": 35497,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/kinergeticsReset-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/kinergeticsReset-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/kinergeticsReset-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22858,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/kinergeticsReset-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/kinergeticsReset-small.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -654,6 +676,28 @@
 		"initialSize": 58968,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/naturopatia-small.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/naturopatia-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/piedras-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57814,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/piedras-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/piedras-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/piedras-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37486,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/piedras-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/piedras-small.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1259,6 +1303,17 @@
 		"initialSize": 9983,
 		"inputAbbreviatedPath": "\/static\/img\/packb1.png",
 		"outputAbbreviatedPath": "\/static\/img\/packb1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/perroPC.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113237,
+		"inputAbbreviatedPath": "\/static\/img\/perroPC.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/perroPC.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

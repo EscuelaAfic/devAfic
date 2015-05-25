@@ -471,6 +471,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/hero\/champi-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100189,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/champi-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/champi-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/champi-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45171,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/champi-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/champi-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/crecimiento-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

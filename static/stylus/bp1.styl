@@ -335,7 +335,7 @@ p
 // CourseList
 
 .CourseList
-	padding 35px 0 70px 0
+	padding 35px 0 30px 0
 
 .CourseList-list
 	padding 0
@@ -404,6 +404,14 @@ p
 	-webkit-transform: scale(.4, .4);
 	display inline-block
 	margin 0 0 0 -3em
+
+.otrosLogo
+	background gray
+	width 65px
+	height 65px
+	border-radius 50%
+	position relative
+	top 50px
 
 .agujasIntradermicas-smallRecomended
 .amma-smallRecomended
@@ -478,6 +486,8 @@ p
 	background c_kinesiologia
 .c_reflexologia
 	background c_reflexologia
+.c_otros
+	background gray
 	
 .destacado
 	&:before
@@ -1018,7 +1028,7 @@ p
 	height 60px
 	
 .Learn-recomendedTitle
-	margin 0 
+	margin 0 0 5px 0
 	
 .CourseList-courseRecomended
 	padding 0 0 10px 0
@@ -1363,11 +1373,11 @@ p
 		
 .Tab-date
 	border-bottom border
-	padding 15px 0 
+	padding 15px  
 	
 .Tab-time
 	border-bottom border
-	padding 15px 0 
+	padding 15px
 	background rgba(black,.03)
 	
 .Tab-date--left
@@ -1482,6 +1492,88 @@ p
 	text-align center
 	margin 30px 0 10px 0 
 
+
+// Teachers
+
+.Teachers
+	background white
+	padding-top 60px
+	padding-bottom 30px
+	h2
+		margin-bottom 30px
+	
+.Teachers-list
+	text-align center
+	
+.Teachers-item
+	padding-top 30px
+	display inline-block
+	padding 0 30px 30px 30px 
+	h3
+		font-size 24px
+		font-weight bold
+		margin-top 20px
+		margin-bottom 0px
+
+.Teacher-face--Salva
+	width 200px
+	height 200px
+	border-radius 50%
+	background url(../img/profes/salva-face-small.jpg)
+	background-repeat no-repeat
+	background-size 100%
+	background-position-x center
+	background-position-y bottom
+	
+.Teacher-face--Amanda
+	width 200px
+	height 200px
+	border-radius 50%
+	background url(../img/profes/amanda-face-small.jpg)
+	background-repeat no-repeat
+	background-size 100%
+	background-position-x center
+	background-position-y bottom
+	
+.Teacher-face--Ferran
+	width 200px
+	height 200px
+	border-radius 50%
+	background url(../img/profes/ferran-face-small.jpg)
+	background-repeat no-repeat
+	background-size 100%
+	background-position-x center
+	background-position-y bottom
+	
+.Teacher-face--Elisabet
+	width 200px
+	height 200px
+	border-radius 50%
+	background url(../img/profes/elisabet-face-small.jpg)
+	background-repeat no-repeat
+	background-size 100%
+	background-position-x center
+	background-position-y bottom
+	
+.Teacher-face--Sandy
+	width 200px
+	height 200px
+	border-radius 50%
+	background url(../img/profes/sandy-face-small.jpg)
+	background-repeat no-repeat
+	background-size 100%
+	background-position-x center
+	background-position-y bottom
+	
+.Teacher-face--Pere
+	width 200px
+	height 200px
+	border-radius 50%
+	background url(../img/profes/pere-face-small.jpg)
+	background-repeat no-repeat
+	background-size 100%
+	background-position-x center
+	background-position-y bottom
 
 // Answer
 
@@ -1598,6 +1690,9 @@ p
 		margin-top 5px
 		font-size 14px
 
+.Price-reiki
+	font-size 41px
+
 .Price-tableTop
 	background c_quiromasaje
 	text-align left
@@ -1622,8 +1717,7 @@ p
 		color rgba(white,.7)
 		
 
-	
-
+		
 .Price-naturopatia
 	background #72a015
 
@@ -1820,6 +1914,7 @@ p
 	background-size 100%
 	width 60%
 	height 65px
+	max-width 205px
 	display inline-block
 	margin 15px 0 0 50px
 	
@@ -1831,6 +1926,7 @@ p
 	background-size 100%
 	width 60%
 	height 65px
+	max-width 205px
 	display inline-block
 	margin 15px 0 0 50px
 
@@ -1845,6 +1941,24 @@ p
 	padding 30px 0 40px 0
 	// h1
 	// 	margin 0 0 15px 0 
+
+.Banner-inscripcion--team
+	background #e7e7e7
+	text-align center
+	font-size 0
+	// height 150px
+
+.Hero-team
+	display inline-block
+	background url(../img/hero/equipo-small.jpg)
+	background-repeat no-repeat
+	background-position-x top
+	background-position-y top
+	background-size 100%
+	width 100%
+	max-width 320px
+	height 150px
+		
 		
 .Form-section
 	padding 30px 0 
@@ -2070,8 +2184,13 @@ p
 
 // Acerca de
 
+.Team
+	padding-top 0
+
 .Team-list
-	padding 30px 0 10px
+	padding 30px 0 60px 0
+	border-bottom border
+	// margin-bottom 60px
 
 .Team-item
 	padding 10px 0 20px 0 
@@ -2113,6 +2232,183 @@ p
 		text-decoration underline
 
 
+// Profesores
+
+.TeamTeachers
+	h2
+		font-weight bold
+		font-size 31px
+		line-height 36px
+		
+.Teachers-container
+	margin-bottom 100px
+
+.TeamTeachers-one
+	display inline-block
+	width 100%
+	padding-top 16px
+	padding-bottom 60px
+	border-bottom border
+	margin-bottom 20px
+	h3
+		padding-top 16px
+		padding-bottom 16px
+		font-weight bold
+		font-size 24px
+	h4
+		font-weight bold
+		font-size 18px
+		padding-bottom 0px
+		margin-bottom 10px
+
+.Techer-img--Amanda
+	width 100%
+	display block
+	margin 0 auto
+	height 430px
+	background url(../img/profes/amanda-small.jpg)
+	background-repeat no-repeat
+	background-position-x top
+	background-position-y top
+	background-size 100%
+	
+.Techer-img--Ferran
+	width 100%
+	display block
+	margin 0 auto
+	height 430px
+	background url(../img/profes/ferran-small.jpg)
+	background-repeat no-repeat
+	background-position-x top
+	background-position-y top
+	background-size 100%
+	
+.Techer-img--Salva
+	width 100%
+	display block
+	margin 0 auto
+	height 430px
+	background url(../img/profes/salva-small.jpg)
+	background-repeat no-repeat
+	background-position-x top
+	background-position-y top
+	background-size 100%
+	
+.Techer-img--Elisabet
+	width 100%
+	display block
+	margin 0 auto
+	height 430px
+	background url(../img/profes/elisabet-small.jpg)
+	background-repeat no-repeat
+	background-position-x top
+	background-position-y top
+	background-size 100%
+
+.Techer-img--Pere
+	width 100%
+	display block
+	margin 0 auto
+	height 430px
+	background url(../img/profes/pere-small.jpg)
+	background-repeat no-repeat
+	background-position-x top
+	background-position-y top
+	background-size 100%
+	
+.Techer-img--Sandy
+	width 100%
+	display block
+	margin 0 auto
+	height 430px
+	background url(../img/profes/sandy-small.jpg)
+	background-repeat no-repeat
+	background-position-x top
+	background-position-y top
+	background-size 100%
+
+
+.Teacher-description
+	padding 30px 0 20px 0
+	p
+		margin-bottom 15px
+	
+.Teacher-description-solo
+	padding 0px 0 30px 0
+	p
+		margin-bottom 15px
+
+.In-this
+	display block
+	margin-bottom -60px
+	margin-left -20px
+	transform: scale(.9, .9);
+	-ms-transform: scale(.9, .9);
+	-webkit-transform: scale(.9, .9);
+
+.This-left
+	display inline-block
+	width 75px
+	
+.This-right
+	display inline-block
+	position relative
+	top -60px
+	h3
+		padding 0
+		font-size 21px
+		margin 0 0 3px 0
+
+
+// Otros cursos
+
+.OtherCourses
+	margin-top 30px
+	margin-bottom 60px
+
+.OtherCourse
+	padding .5em
+	margin-bottom 1em
+	border-bottom border
+	padding-bottom 30px
+	
+.OtherCourse-title
+	font-weight bold
+	font-size 21px
+	span
+		background secundari
+		color white
+		font-size 16px
+		font-weight 200
+		padding 2px 5px
+		margin-left .5em
+		border-radius 5px
+		text-transform uppercase
+
+.OtherCourse-right
+	margin-top 1.5em
+	display inline-block
+	padding 0 0 .5em 0 
+	
+.Answer-other
+	background white
+	color rgba(black,.8)
+	.Answer-detail
+		h3
+			color rgba(black,.8)
+		
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+	

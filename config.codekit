@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "18902",
+"creatorBuild": "19033",
 "files": {
 	"\/404.html": {
 		"fileType": 8192,
@@ -19,6 +19,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/apple-touch-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1849,
+		"inputAbbreviatedPath": "\/apple-touch-icon.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/cursos\/agujasintradermicas.html": {
 		"fileType": 8192,
@@ -74,6 +85,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/cursos\/cosmeticanatural.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cursos\/cosmeticanatural.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/cursos\/cyriax.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -97,6 +117,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/cursos\/estiramientosthai.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/cursos\/floresdebach.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cursos\/floresdebach.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -142,6 +171,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/cursos\/naturopatia.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/cursos\/otroscursos.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cursos\/otroscursos.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -493,6 +531,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/hero\/cosmeticaNatural-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100225,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/cosmeticaNatural-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/cosmeticaNatural-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/cosmeticaNatural-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39190,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/cosmeticaNatural-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/cosmeticaNatural-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/crecimiento-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -548,6 +608,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/hero\/equipo-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128359,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/equipo-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/equipo-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/equipo-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76496,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/equipo-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/equipo-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/estiramientosthai-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -588,6 +670,50 @@
 		"initialSize": 50230,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/examen-big.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/examen-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/floresBach-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 143485,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/floresBach-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/floresBach-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/floresBach-big2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51663,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/floresBach-big2.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/floresBach-big2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/floresBach-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39846,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/floresBach-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/floresBach-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/floresBach-small2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35034,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/floresBach-small2.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/floresBach-small2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1351,6 +1477,270 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/profes\/amanda-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72998,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/amanda-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/amanda-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/amanda-face-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35912,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/amanda-face-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/amanda-face-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/amanda-face-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10431,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/amanda-face-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/amanda-face-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/amanda-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18488,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/amanda-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/amanda-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/elisabet-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87079,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/elisabet-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/elisabet-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/elisabet-face-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42666,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/elisabet-face-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/elisabet-face-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/elisabet-face-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12654,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/elisabet-face-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/elisabet-face-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/elisabet-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24164,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/elisabet-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/elisabet-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/ferran-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82009,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/ferran-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/ferran-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/ferran-face-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34150,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/ferran-face-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/ferran-face-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/ferran-face-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10048,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/ferran-face-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/ferran-face-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/ferran-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22282,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/ferran-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/ferran-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/pere-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86526,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/pere-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/pere-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/pere-face-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31316,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/pere-face-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/pere-face-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/pere-face-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9382,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/pere-face-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/pere-face-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/pere-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24193,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/pere-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/pere-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/salva-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73492,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/salva-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/salva-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/salva-face-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28342,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/salva-face-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/salva-face-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/salva-face-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8329,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/salva-face-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/salva-face-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/salva-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18889,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/salva-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/salva-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/sandy-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74802,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/sandy-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/sandy-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/sandy-face-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31901,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/sandy-face-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/sandy-face-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/sandy-face-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9565,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/sandy-face-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/sandy-face-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/profes\/sandy-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20748,
+		"inputAbbreviatedPath": "\/static\/img\/profes\/sandy-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/profes\/sandy-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/segundo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1804,6 +2194,22 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
+	"\/static\/stylus\/bp6.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/static\/stylus\/bp6.styl",
+		"outputAbbreviatedPath": "\/static\/css\/bp6.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
 	"\/static\/stylus\/bpSOLO3.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1971,7 +2377,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "jpcpamies",
+"lastSavedByUser": "Jordi Pàmies Cruañes",
 "manualImportLinks": {
 	},
 "projectAttributes": {

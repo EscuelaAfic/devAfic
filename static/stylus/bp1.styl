@@ -362,7 +362,7 @@ p
 	font-weight 600
 	line-height 1.2em
 	margin 0 0 .5em 0
-	max-width 120px
+	max-width 140px
 
 .extraHeight
 	margin 0 0 30px 0
@@ -406,12 +406,22 @@ p
 	margin 0 0 0 -3em
 
 .otrosLogo
-	background gray
+	background rgba(afic,.5)
+	border solid 5px afic
 	width 65px
 	height 65px
 	border-radius 50%
 	position relative
 	top 50px
+	
+.otrosLogo
+	text-align center
+	&:after
+		font-family icomoon
+		content: "\ea0a";
+		font-size 1.5em
+		line-height 2.4em
+		color afic
 
 .agujasIntradermicas-smallRecomended
 .amma-smallRecomended
@@ -487,7 +497,7 @@ p
 .c_reflexologia
 	background c_reflexologia
 .c_otros
-	background gray
+	background afic
 	
 .destacado
 	&:before
@@ -509,6 +519,12 @@ p
 .Newsletter-formContainer
 	display block
 	margin 0 auto
+
+.Mailchimp
+	background secundariLight
+
+.Newsletter-form
+	padding-top 30px
 
 .Newsletter-formTitle
 	display block
@@ -848,7 +864,7 @@ p
 	font-size 27px
 	font-weight bold
 	line-height 34px
-	max-width 550px
+	max-width 600px
 	
 .Course-detail
 	display block
@@ -1629,10 +1645,12 @@ p
 .Answer-emailLink
 	color afic
 	font-size 18px	
+	font-weight bold
 	&:hover
 		color primar
 		
 .Answer-itemText
+	font-weight bold
 	color c_naturopatia
 	font-size 18px
 	&:hover
@@ -1741,6 +1759,9 @@ p
 
 .Price-flores
 	background c_flores
+	
+.Price-kinsesiologia
+	background c_kinesiologia
 
 .Price-CourseList-courseData
 
@@ -1939,8 +1960,8 @@ p
 .Banner-inscripcion
 	background secundariLight
 	padding 30px 0 40px 0
-	// h1
-	// 	margin 0 0 15px 0 
+	a
+		text-decoration underline 
 
 .Banner-inscripcion--team
 	background #e7e7e7
@@ -2200,36 +2221,17 @@ p
 	h3
 		font-weight bold
 		font-size 21px
-	
-.Error-main
-	height 700px
-	background url(../img/dog.jpg)
-	background-repeat no-repeat
-	background-size cover
-	background-position-x left
-	background-position-y top
 
-.Error-title
-	padding 60px 0 20px 60px
-	h1
-		color rgba(black,.6)
-		font-family bebas
-		font-size 61px
-		margin 0
-	p
-		font-size 18px
-		font-weight 200
-		margin -15px 0 0 0 
-		
-.Error-body
-	color rgba(black,.8)
-	width 300px
-	padding-left 60px
-
-.Error-link
+.Error-langing
+	background secundariLight
+	height 100vh
 	text-align center
 	a
 		text-decoration underline
+
+.Error
+	font-size 50px
+	padding-top 100px
 
 
 // Profesores
@@ -2370,7 +2372,7 @@ p
 	padding .5em
 	margin-bottom 1em
 	border-bottom border
-	padding-bottom 30px
+	padding-bottom 50px
 	
 .OtherCourse-title
 	font-weight bold
@@ -2379,11 +2381,11 @@ p
 		background secundari
 		color white
 		font-size 16px
-		font-weight 200
+		font-weight 600
 		padding 2px 5px
 		margin-left .5em
 		border-radius 5px
-		text-transform uppercase
+		// text-transform uppercase
 
 .OtherCourse-right
 	margin-top 1.5em
@@ -2391,7 +2393,7 @@ p
 	padding 0 0 .5em 0 
 	
 .Answer-other
-	background white
+	background secundariLight
 	color rgba(black,.8)
 	.Answer-detail
 		h3

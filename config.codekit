@@ -265,6 +265,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/cursos\/touch-for-health.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cursos\/touch-for-health.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/cursos\/vendaje-neuromuscular.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1073,6 +1082,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/hero\/tfh-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66557,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/tfh-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/tfh-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/tfh-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34749,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/tfh-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/tfh-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/vendaje-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1293,17 +1324,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/logo\/kinesiologiaIntegrada-big.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5433,
-		"inputAbbreviatedPath": "\/static\/img\/logo\/kinesiologiaIntegrada-big.png",
-		"outputAbbreviatedPath": "\/static\/img\/logo\/kinesiologiaIntegrada-big.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/static\/img\/logo\/moxibustion-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1410,6 +1430,17 @@
 		"initialSize": 3551,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/shiatsuFacial-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/shiatsuFacial-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logo\/tfh-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28849,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/tfh-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/tfh-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

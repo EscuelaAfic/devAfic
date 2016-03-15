@@ -184,6 +184,33 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/cursos\/osteopatia-estructural.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cursos\/osteopatia-estructural.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/cursos\/osteopatia-sacrocraneal.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cursos\/osteopatia-sacrocraneal.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/cursos\/osteopatia-visceral.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/cursos\/osteopatia-visceral.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/cursos\/osteopatia.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -891,6 +918,94 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/hero\/osteopatia-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41377,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/osteopatia-estructural-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46924,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-estructural-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-estructural-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/osteopatia-estructural-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26488,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-estructural-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-estructural-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/osteopatia-sacrocraneal-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39310,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-sacrocraneal-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-sacrocraneal-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/osteopatia-sacrocraneal-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20543,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-sacrocraneal-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-sacrocraneal-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/osteopatia-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20410,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/osteopatia-visceral-big.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43503,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-visceral-big.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-visceral-big.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/hero\/osteopatia-visceral-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20267,
+		"inputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-visceral-small.jpg",
+		"outputAbbreviatedPath": "\/static\/img\/hero\/osteopatia-visceral-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/hero\/piedras-big.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -964,28 +1079,6 @@
 		"initialSize": 21888,
 		"inputAbbreviatedPath": "\/static\/img\/hero\/quiromasaje-presencial-small.jpg",
 		"outputAbbreviatedPath": "\/static\/img\/hero\/quiromasaje-presencial-small.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/hero\/quiromasajesuperior-big.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 46924,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/quiromasajesuperior-big.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/quiromasajesuperior-big.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/static\/img\/hero\/quiromasajesuperior-small.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 26488,
-		"inputAbbreviatedPath": "\/static\/img\/hero\/quiromasajesuperior-small.jpg",
-		"outputAbbreviatedPath": "\/static\/img\/hero\/quiromasajesuperior-small.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1360,6 +1453,50 @@
 		"initialSize": 3893,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/naturopatia-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/naturopatia-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logo\/osteopatia-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15134,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logo\/osteopatia-estructural-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21992,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-estructural-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-estructural-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logo\/osteopatia-sacrocraneal-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15830,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-sacrocraneal-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-sacrocraneal-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logo\/osteopatia-visceral-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15610,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-visceral-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-visceral-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -1380,6 +1380,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/logo\/drenajeLinfatico-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6466,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/drenajeLinfatico-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/drenajeLinfatico-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/logo\/estiramientosThai-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1413,6 +1424,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/static\/img\/logo\/kinergeticsReset-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6175,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/kinergeticsReset-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/kinergeticsReset-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/logo\/moxibustion-big.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1431,6 +1453,50 @@
 		"initialSize": 3893,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/naturopatia-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/naturopatia-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logo\/osteopatia-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6340,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logo\/osteopatia-estructural-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9846,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-estructural-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-estructural-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logo\/osteopatia-sacrocraneal-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6510,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-sacrocraneal-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-sacrocraneal-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logo\/osteopatia-visceral-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6604,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-visceral-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/osteopatia-visceral-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1519,6 +1585,17 @@
 		"initialSize": 3551,
 		"inputAbbreviatedPath": "\/static\/img\/logo\/shiatsuFacial-big.png",
 		"outputAbbreviatedPath": "\/static\/img\/logo\/shiatsuFacial-big.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/logo\/tfh-big.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10006,
+		"inputAbbreviatedPath": "\/static\/img\/logo\/tfh-big.png",
+		"outputAbbreviatedPath": "\/static\/img\/logo\/tfh-big.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

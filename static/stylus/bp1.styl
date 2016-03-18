@@ -409,6 +409,10 @@ p
 		text-decoration underline
 		font-weight 600
 		padding-bottom 50px
+	.course-link__subcourse
+		display block
+		text-decoration underline
+		font-weight 600
 		
 .otrosLogo
 	background rgba(afic,.5)
@@ -425,6 +429,40 @@ p
 		font-size 1.5em
 		line-height 2.4em
 		color afic
+
+
+.subCourse-logo
+	position relative
+	img
+		width 35px
+		height auto
+		position relative
+		z-index 10
+	.line
+		width 3px
+		height 30px
+		background #60AAFF
+		position absolute
+		top 25px
+		left 15px
+		z-index 0
+
+.subCourse
+	padding 5px 10px 5px 5px
+	display flex
+	align-items center
+	&:first-child 
+		margin-top 10px
+	&:last-child 
+		border-bottom none
+		padding-bottom 10px
+	.title
+		color rgba(black,.5)
+		font-size 14px
+		padding-left 10px
+		line-height 1.4em
+	
+
 
 // Mailchimp
 
@@ -767,7 +805,7 @@ p
 	background-repeat no-repeat
 	background-size cover
 	background-position-x center
-	background-position-y bottom
+	background-position-y top
 
 .osteopatia-sacrocranealHero
 	background url(../img/hero/osteopatia-sacrocraneal-small.jpg)
